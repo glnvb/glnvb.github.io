@@ -69,9 +69,9 @@ minima:
 formspree_email: geschiedenisvan@outlook.com
 
 # syntax highlighter
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
+# markdown: kramdown
+# highlighter: rouge
+# permalink: pretty
 
 # Choose what to show ( can be true or false)
 show_author_work_experiences: false
@@ -87,16 +87,16 @@ show_author_project_details: false
 #   search_only_api_key: 58ffdd7cd6c45ec1577a7fcd789b1b9a
 
 # pagination of posts
-paginate: 6
-per_page: 6
-paginate_path: "/blog/page/:num/"
+# paginate: 6
+# per_page: 6
+# paginate_path: "/blog/page/:num/"
 
 
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
