@@ -26,11 +26,10 @@ baseurl: "/geschiedenisvan" # the subpath of your site, e.g. /blog
 url: "https://glnvb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
-  - over.md
-  - luisteren.md
-  - shownotes.md
-  - discord.md
-
+ - luisteren.markdown
+ - shownotes.markdown
+ - discord.markdown
+ - over.markdown
 
 author_logo: profile.png
 post_logo: posts.png
