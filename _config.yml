@@ -25,15 +25,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/geschiedenisvan" # the subpath of your site, e.g. /blog
 url: "https://glnvb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-urls:
-  - text: luisteren
-    url: /luisteren
-  - text: Over
-    url: /about
-  - text: contact
-    url : /contact
-  - text: Discord
-    url: /discord
+header_pages:
+  - over.md
+  - luisteren.md
+  - shownotes.md
+  - discord.md
+
 
 author_logo: profile.png
 post_logo: posts.png
