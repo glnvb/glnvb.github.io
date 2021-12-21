@@ -36,77 +36,11 @@
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">discord</h1>
-    <p class="post-meta">
-      <time class="dt-published" datetime="" itemprop="datePublished">
-      </time></p>
-  </header>
-
-  <div class="post-content e-content" itemprop="articleBody"><iframe
-    class="embedded-player hidden"
-    givenSrc=""
-    type=""
-    allow="encrypted-media; picture-in-picture"
-    height="80"
-    frameborder="0"
-    scrolling="no">
-</iframe>
-<script>
-    (function () {
-   window.addEventListener("load", () => {
-      // #region embedded audio players
-      const players = document.querySelectorAll("iframe.embedded-player");
-      const getParamsByPlayerType = (src, type) => {
-          const rt = (src, height) => ({
-              src: src,
-              height: height
-          });
-          switch (type.toLocaleLowerCase()) {
-              case "soundcloud":
-                  return rt(`https://w.soundcloud.com/player/?url=${src}`, 125);
-              case "bandcamp":
-                  return rt(`https://bandcamp.com/EmbeddedPlayer/${src}`, 125);
-              case "spotify":
-                  return rt(`https://open.spotify.com/embed/track/${src}`, 80);
-              case "spotifyalbum":
-                  return rt(`https://open.spotify.com/embed/album/${src}`, 80);
-              case "spotifyplaylist":
-                  return rt(`https://open.spotify.com/embed/playlist/${src}`, 80);
-              case "spotifyepisode":
-                  return rt(`https://open.spotify.com/embed/episode/${src}`, 152);
-              case "spotifyshow":
-                  return rt(`https://open.spotify.com/embed/show/${src}`, 152);
-              case "youtube":
-                  return rt(`https://www.youtube.com/embed/${src}`, 350);
-              case "anchor.fm":
-                  return rt(`https://anchor.fm/sucias/embed/episodes/${src}`,102);
-              default:
-                  return rt(src, 125);
-          }
-      };
-      players.forEach(player => {
-          const givenSrc = player.getAttribute("givenSrc");
-          const type = player.getAttribute("type");
-          const { src, height } = getParamsByPlayerType(givenSrc, type);
-          player.setAttribute("src", src);
-          player.setAttribute("height", height);
-          player.classList.remove("hidden");
-      });
-      // #endregion embedded audio players
-  });
-})();
-  </script>
-<p>We hebben een Geschiedenis van Discord server</p>
+        <p>We hebben een Geschiedenis van Discord server</p>
 
 <p><a href="https://discord.gg/DBhWaXkaJm" target="_blank" rel="noopener noreferrer">Je kan de server betreden via deze link</a></p>
 
 <p>Voor wie niet weet wat Discord is: je kan het een moderne versie van de chatbox noemen, met veel toeters en bellen. We hebben verschillende kanalen voor verschillende Nerdland-topics. (Infofilmpje Discord) Vraag gerust hulp, en gedraag u!</p>
-
-  </div><a class="u-url" href="/geschiedenisvan/discord" hidden></a>
-</article>
 
       </div>
     </main><footer class="site-footer h-card">
