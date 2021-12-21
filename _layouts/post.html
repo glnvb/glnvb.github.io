@@ -17,6 +17,9 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+    {%- if site.show_embedded-player -%}
+      {% include embedded-player.html currPost=page %}
+    {%- endif -%}
   </div>
 
   {%- if site.disqus.shortname -%}

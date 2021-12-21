@@ -1,0 +1,54 @@
+<iframe
+    class="embedded-player hidden"
+    givenSrc="{{ include.currPost.embed_player.src }}"
+    type="{{ include.currPost.embed_player.type }}"
+    allow="encrypted-media; picture-in-picture"
+    height="80"
+    frameborder="0"
+    scrolling="no">
+</iframe>
+<script>
+    (function () {
+   window.addEventListener("load", () => {
+      // #region embedded audio players
+      const players = document.querySelectorAll("iframe.embedded-player");
+      const getParamsByPlayerType = (src, type) => {
+          const rt = (src, height) => ({
+              src: src,
+              height: height
+          });
+          switch (type.toLocaleLowerCase()) {
+              case "soundcloud":
+                  return rt(`https://w.soundcloud.com/player/?url=${src}`, 125);
+              case "bandcamp":
+                  return rt(`https://bandcamp.com/EmbeddedPlayer/${src}`, 125);
+              case "spotify":
+                  return rt(`https://open.spotify.com/embed/track/${src}`, 80);
+              case "spotifyalbum":
+                  return rt(`https://open.spotify.com/embed/album/${src}`, 80);
+              case "spotifyplaylist":
+                  return rt(`https://open.spotify.com/embed/playlist/${src}`, 80);
+              case "spotifyepisode":
+                  return rt(`https://open.spotify.com/embed/episode/${src}`, 152);
+              case "spotifyshow":
+                  return rt(`https://open.spotify.com/embed/show/${src}`, 152);
+              case "youtube":
+                  return rt(`https://www.youtube.com/embed/${src}`, 350);
+              case "anchor.fm":
+                  return rt(`https://anchor.fm/sucias/embed/episodes/${src}`,102);
+              default:
+                  return rt(src, 125);
+          }
+      };
+      players.forEach(player => {
+          const givenSrc = player.getAttribute("givenSrc");
+          const type = player.getAttribute("type");
+          const { src, height } = getParamsByPlayerType(givenSrc, type);
+          player.setAttribute("src", src);
+          player.setAttribute("height", height);
+          player.classList.remove("hidden");
+      });
+      // #endregion embedded audio players
+  });
+})();
+  </script>

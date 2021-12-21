@@ -17,13 +17,25 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
+          {% if post.external_url %}
+          <a href="{{ post.external_url }}" target="_blank">
+              {% else %}
+              <a href="{{ post.url | relative_url }}">
+                  {% endif %}
+                  {{ post.title }}
+              </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {% if post.description %}
+            {{ post.description }}
+          {% else %}
+            {{ post.excerpt | strip_html }}
+          {% endif %}
         {%- endif -%}
+        {%- if site.show_embedded-playeronindex -%}
+          {% include embedded-player.html currPost=post %}
+        {%- endif -%}
+        {% include read-more.html currPost=post %}
       </li>
       {%- endfor -%}
     </ul>

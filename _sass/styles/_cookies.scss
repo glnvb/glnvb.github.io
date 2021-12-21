@@ -1,0 +1,61 @@
+.cookie-container {
+    position: fixed;
+    padding: 20px 15px;
+    z-index: $pop-ups-z-1;
+    background-image: radial-gradient(farthest-corner at 25% 0, $white, $white);
+    box-shadow: 0 0 6px 0 $black;
+    text-align: center;
+    opacity: 0.95;
+    -webkit-transition: opacity 800ms, visibility 800ms;
+    transition: opacity 800ms, visibility 800ms;
+    bottom: 40px;
+    left: 50px;
+    max-width: 40vw;
+    border-radius: 3px;
+    border: 3px solid $black;
+
+    p {
+        color: $p_text;
+        line-height: 1.6em;
+        margin-bottom: 10px;
+    }
+    &.hidden {
+        opacity: 0;
+        visibility: hidden;
+    }
+    &--buttons {
+        display: flex;
+        button {
+            line-height: 1.4;
+            font-weight: 700;
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: $white;
+            color: $p_text;
+            border: 1px solid;
+            border-radius: 3px;
+            text-decoration: none;
+            cursor: pointer;
+            -webkit-transition: background-color 200ms;
+            transition: background-color 200ms;
+            &:hover {
+                background-color: rgb(168, 168, 168);
+            }
+            width: calc(50% - 10px);
+            &:last-of-type {
+                margin-left: 10px;
+            }
+    }
+    
+    }
+    @include mobile {
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        max-width: 100%;
+        padding: 12px 10px;
+        border-left: 0;
+        border-right: 0;
+        border-bottom: 0;
+    }
+}
