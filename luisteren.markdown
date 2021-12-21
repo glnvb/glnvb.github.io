@@ -39,5 +39,3 @@ De podcast komt wekelijks online op de Soundcloud-pagina van [Tim Gistelinck](ht
       </li>
       {%- endfor -%}
   {%- endif -%}
-
-</div>
