@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: luisteren
 list_title: "De meest recente podcast"
 ---
@@ -10,7 +10,7 @@ De podcast komt wekelijks online op de Soundcloud-pagina van [Tim Gistelinck](ht
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-    {%- for post in site.categories.[site.catcatonindex1] limit:1 -%}
+    {%- for post in site.categories[site.catcatonindex1] limit:1 -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>

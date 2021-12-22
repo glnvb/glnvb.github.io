@@ -61,7 +61,10 @@ minima:
    youtube_channel_name: CloGeschiedenis van België
   date_format: "%-d %b, %Y"
 
+#From which category should be the post that appears first on the index page
 catcatonindex1: podcast
+
+#From which category should be the post that appears second on the index page
 catcatonindex2: post
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
