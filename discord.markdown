@@ -11,4 +11,4 @@ We hebben een Geschiedenis van Discord server
 
 [Je kan de server betreden via deze link](https://discord.gg/DBhWaXkaJm){:target="_blank"}{:rel="noopener noreferrer"}
 
-Voor wie niet weet wat Discord is: je kan het een moderne versie van de chatbox noemen, met veel toeters en bellen. We hebben verschillende kanalen voor verschillende Nerdland-topics. (Infofilmpje Discord) Vraag gerust hulp, en gedraag u! 
+Voor wie niet weet wat Discord is: je kan het een moderne versie van de chatbox noemen, met veel toeters en bellen. We hebben verschillende kanalen voor verschillende topics. Vraag gerust hulp, en gedraag u! 
