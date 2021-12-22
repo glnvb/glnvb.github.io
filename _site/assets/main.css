@@ -197,3 +197,16 @@ table td { border: 1px solid #e8e8e8; }
 
 .embedded-player { width: 100%; max-width: 600px; outline: none; border: none; }
 .embedded-player.hidden { visibility: hidden; }
+
+.post-feed { display: flex; flex-direction: column; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; color: #000000; }
+.post-feed hr { margin-bottom: 0.25em; }
+.post-feed article { width: 100%; position: relative; }
+.post-feed h1 { flex: 0; margin: auto; display: flex; align-items: center; }
+.post-feed h2 { margin-bottom: 0.5em; }
+.post-feed a { line-height: 1.1em; text-decoration: underline; text-decoration-color: transparent; transition: 0.4s; -webkit-text-decoration-color: transparent; -moz-text-decoration-color: transparent; }
+.post-feed a:hover { text-decoration-color: #000000; -webkit-text-decoration-color: #000000; -moz-text-decoration-color: #000000; }
+.post-feed .article-date { font-size: 0.8em; margin-top: -0.5em; opacity: 0.5; text-align: right; }
+.post-feed figure { width: max-content; margin: auto; margin-bottom: 0.5em; max-width: 100%; }
+.post-feed_image { max-width: 100%; max-height: 80vh; border: 0; margin: auto; }
+.post-feed .discography-album_title { display: none; }
+.post-feed .discography-album_summary { margin-top: 3vw; }

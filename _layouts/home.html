@@ -11,7 +11,7 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
+    <ul class="post-feed">
     {%- for post in site.categories[site.catcatonindex1] limit:1 -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -25,6 +25,11 @@ layout: default
                   {{ post.title }}
               </a>
         </h3>
+        {% if post.embed_player %}
+         {%- if site.show_embedded-playeronindex -%}
+           {% include embedded-player.html currPost=post %}<br>
+        {%- endif -%}
+        {%- endif -%}
         {%- if site.show_excerpts -%}
           {% if post.description %}
             {{ post.description }}
@@ -33,11 +38,6 @@ layout: default
           {% endif %}
         {%- endif -%}
         {% include read-more.html currPost=post %}
-        {% if post.embed_player %}
-         {%- if site.show_embedded-playeronindex -%}
-           {% include embedded-player.html currPost=post %}
-        {%- endif -%}
-        {%- endif -%}
       </li>
       {%- endfor -%}
     {%- for post in site.categories[site.catcatonindex2] limit:1 -%}
