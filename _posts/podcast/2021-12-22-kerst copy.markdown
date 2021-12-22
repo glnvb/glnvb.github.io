@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "vooraf geplande podcast om 11u30"
-date: 2021-12-22 11:30:00 +0100
+date: 2021-12-22 12:10:00 +0100
 categories: podcast
 category: Geschiedenis nu
 postsoundcoud_url: https://soundcloud.com/tim-gistelinck/geschiedenis-nu-kerst-aan-het-front-en-wit-rusland
