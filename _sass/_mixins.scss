@@ -7,8 +7,7 @@
   &:hover {
     text-decoration-color: $underline-color;
     -webkit-text-decoration-color: $underline-color;
-    -moz-text-decoration-color: $underline-color;
-  }
+    -moz-text-decoration-color: $underline-color;}
 }
 
 @mixin tooltip {

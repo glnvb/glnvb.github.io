@@ -5,9 +5,9 @@
         <a href="{{ include.currPost.url | relative_url }}">
             {% endif %} 
             {% if include.currPost.external_name %}
-            Lees meer op {{ include.currPost.external_name }} &rarr;
+            <SPAN STYLE="white-space: nowrap;">Lees meer op</SPAN>{{ include.currPost.external_name }} &rarr;
             {% else %}
-            lees verder &rarr;
+            <SPAN STYLE="white-space: nowrap;">Lees verder</SPAN> &rarr;
             {% endif %}
         </a>
 </span>

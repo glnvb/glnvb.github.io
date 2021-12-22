@@ -2,7 +2,7 @@
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
 /** Basic styling */
-body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
+body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; color: black; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
@@ -27,9 +27,9 @@ li > ul, li > ol { margin-bottom: 0; }
 h1, h2, h3, h4, h5, h6 { font-weight: 400; }
 
 /** Links */
-a { color: #2a7ae2; text-decoration: none; }
-a:visited { color: #1756a9; }
-a:hover { color: #111; text-decoration: underline; }
+a { color: #000000; text-decoration: none; }
+a:visited { color: black; }
+a:hover { color: black; text-decoration: underline; }
 .social-media-list a:hover { text-decoration: none; }
 .social-media-list a:hover .username { text-decoration: underline; }
 
@@ -58,7 +58,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .social-media-list li + li { padding-top: 5px; }
 
 /** Tables */
-table { margin-bottom: 30px; width: 100%; text-align: left; color: #3f3f3f; border-collapse: collapse; border: 1px solid #e8e8e8; }
+table { margin-bottom: 30px; width: 100%; text-align: left; color: #2e2e2e; border-collapse: collapse; border: 1px solid #e8e8e8; }
 table tr:nth-child(even) { background-color: #f7f7f7; }
 table th, table td { padding: 10px 15px; }
 table th { background-color: #f0f0f0; border: 1px solid #dedede; border-bottom-color: #c9c9c9; }
@@ -73,7 +73,7 @@ table td { border: 1px solid #e8e8e8; }
 .site-nav { float: right; line-height: 54px; }
 .site-nav .nav-trigger { display: none; }
 .site-nav .menu-icon { display: none; }
-.site-nav .page-link { color: #111; line-height: 1.5; }
+.site-nav .page-link { color: black; line-height: 1.5; }
 .site-nav .page-link:not(:last-child) { margin-right: 20px; }
 @media screen and (max-width: 600px) { .site-nav { position: absolute; top: 9px; right: 15px; background-color: #fdfdfd; border: 1px solid #e8e8e8; border-radius: 5px; text-align: right; }
   .site-nav label[for="nav-trigger"] { display: block; float: right; width: 36px; height: 36px; z-index: 2; cursor: pointer; }
@@ -195,18 +195,40 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
 
+.post-list-heading { font-size: 28px; }
+
+.post-list { margin-left: 0; list-style: none; display: flex; flex-direction: column; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; color: black; }
+.post-list hr { margin-bottom: 0.25em; }
+.post-list article { width: 100%; position: relative; }
+.post-list h1 { flex: 0; margin: auto; display: flex; align-items: center; }
+.post-list h2 { margin-bottom: 0.5em; }
+.post-list a { line-height: 1.1em; text-decoration: underline; text-decoration-color: transparent; transition: 0.4s; -webkit-text-decoration-color: transparent; -moz-text-decoration-color: transparent; }
+.post-list a:hover { text-decoration-color: #000000; -webkit-text-decoration-color: #000000; -moz-text-decoration-color: #000000; }
+.post-list .post-meta { margin-top: -0.5em; opacity: 0.5; text-align: right; }
+.post-list figure { width: max-content; margin: auto; margin-bottom: 0.5em; max-width: 100%; }
+.post-list_image { max-width: 100%; max-height: 80vh; border: 0; margin: auto; }
+.post-list > li { margin-bottom: 30px; }
+
+.post-meta { font-size: 14px; color: #828282; }
+
+.post-link { display: block; font-size: 24px; }
+
 .embedded-player { width: 100%; max-width: 600px; outline: none; border: none; }
 .embedded-player.hidden { visibility: hidden; }
 
-.post-feed { display: flex; flex-direction: column; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; color: #000000; }
-.post-feed hr { margin-bottom: 0.25em; }
-.post-feed article { width: 100%; position: relative; }
-.post-feed h1 { flex: 0; margin: auto; display: flex; align-items: center; }
-.post-feed h2 { margin-bottom: 0.5em; }
-.post-feed a { line-height: 1.1em; text-decoration: underline; text-decoration-color: transparent; transition: 0.4s; -webkit-text-decoration-color: transparent; -moz-text-decoration-color: transparent; }
-.post-feed a:hover { text-decoration-color: #000000; -webkit-text-decoration-color: #000000; -moz-text-decoration-color: #000000; }
-.post-feed .article-date { font-size: 0.8em; margin-top: -0.5em; opacity: 0.5; text-align: right; }
-.post-feed figure { width: max-content; margin: auto; margin-bottom: 0.5em; max-width: 100%; }
-.post-feed_image { max-width: 100%; max-height: 80vh; border: 0; margin: auto; }
-.post-feed .discography-album_title { display: none; }
-.post-feed .discography-album_summary { margin-top: 3vw; }
+.post-list { display: flex; flex-direction: column; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; color: black; }
+.post-list hr { margin-bottom: 0.25em; }
+.post-list article { width: 100%; position: relative; }
+.post-list h1 { flex: 0; margin: auto; display: flex; align-items: center; }
+.post-list h2 { margin-bottom: 0.5em; }
+.post-list a { line-height: 1.1em; text-decoration: underline; text-decoration-color: transparent; transition: 0.4s; -webkit-text-decoration-color: transparent; -moz-text-decoration-color: transparent; }
+.post-list a:hover { text-decoration-color: #000000; -webkit-text-decoration-color: #000000; -moz-text-decoration-color: #000000; }
+.post-list .post-meta { margin-top: -0.5em; opacity: 0.5; text-align: right; }
+.post-list figure { width: max-content; margin: auto; margin-bottom: 0.5em; max-width: 100%; }
+.post-list_image { max-width: 100%; max-height: 80vh; border: 0; margin: auto; }
+.post-list .discography-album_title { display: none; }
+.post-list .discography-album_summary { margin-top: 3vw; }
+
+.read-more { position: static; right: 10px; text-align: right; bottom: -2em; line-height: 1em; font-weight: 300; padding-bottom: 0.5em; color: #000000; }
+.read-more a { font-size: 0.9em; text-decoration: underline; text-decoration-color: transparent; transition: 0.4s; -webkit-text-decoration-color: transparent; -moz-text-decoration-color: transparent; }
+.read-more a:hover { text-decoration-color: #000000; -webkit-text-decoration-color: #000000; -moz-text-decoration-color: #000000; }

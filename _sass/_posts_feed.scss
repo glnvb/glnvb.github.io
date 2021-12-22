@@ -1,6 +1,6 @@
 $image-dim: 192px;
 
-.post-feed {
+.post-list {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -37,8 +37,7 @@ $image-dim: 192px;
             -moz-text-decoration-color: $black;
         }
     }
-    .article-date {
-        font-size: 0.8em;
+    .post-meta {
         margin-top: -0.5em;
         opacity: 0.5;
         text-align: right;

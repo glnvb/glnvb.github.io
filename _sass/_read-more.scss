@@ -1,6 +1,7 @@
 .read-more {
-    position: absolute;
+    position: static;
     right: 10px;
+    text-align: right;
     bottom: -2em;
     line-height: 1em;
     font-weight: 300;
@@ -8,4 +9,6 @@
     color: #000000;
     a {
         font-size: 0.9em;
-        @include underline-on-hov
+        @include underline-on-hover($black);
+    }
+}
