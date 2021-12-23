@@ -229,6 +229,6 @@ table td { border: 1px solid #e8e8e8; }
 .post-list .discography-album_title { display: none; }
 .post-list .discography-album_summary { margin-top: 3vw; }
 
-.read-more { position: static; right: 10px; text-align: right; bottom: -2em; line-height: 1em; font-weight: 300; padding-bottom: 0.5em; color: #000000; }
+.read-more { position: relative; text-align: right; line-height: 1em; font-weight: 300; color: #000000; }
 .read-more a { font-size: 0.9em; text-decoration: underline; text-decoration-color: transparent; transition: 0.4s; -webkit-text-decoration-color: transparent; -moz-text-decoration-color: transparent; }
 .read-more a:hover { text-decoration-color: #000000; -webkit-text-decoration-color: #000000; -moz-text-decoration-color: #000000; }

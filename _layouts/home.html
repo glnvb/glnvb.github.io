@@ -15,7 +15,7 @@ layout: default
     {%- for post in site.categories[site.catcatonindex1] limit:1 -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <element class="post-meta">{{ post.date | date: date_format }}</element>
         <h3>
           {% if post.external_url %}
           <a class="post-link" href="{{ post.external_url }}" target="_blank">
@@ -25,52 +25,52 @@ layout: default
                   {{ post.title | escape }}
               </a>
         </h3>
-        {% if post.embed_player %}
+        </element class="post-content e-content" itemprop="articleBody">
+        <p>{% if post.embed_player %}
          {%- if site.show_embedded-playeronindex -%}
            {% include embedded-player.html currPost=post %}<br>
         {%- endif -%}
         {%- endif -%}
         {%- if site.show_excerpts -%}
           {%- if post.description -%}
-            {{ post.description }}
+            {{ post.description | strip_html }}<br>
           {% else %}
-           {{ post.excerpt }}
+           {{ post.excerpt | strip_html }}<br>
           {%- endif -%}
         {%- endif -%}
-      {% include read-more.html currPost=post %}
+      {% include read-more.html currPost=post %}</p></element>
       </li>
       {%- endfor -%}
-    {%- for post in site.categories[site.catcatonindex2] limit:1 -%}
+      {%- for post in site.categories[site.catcatonindex2] limit:1 -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <element class="post-meta">{{ post.date | date: date_format }}</element>
         <h3>
           {% if post.external_url %}
-          <a href="{{ post.external_url }}" target="_blank">
+          <a class="post-link" href="{{ post.external_url }}" target="_blank">
               {% else %}
-              <a href="{{ post.url | relative_url }}">
+              <a class="post-link" href="{{ post.url | relative_url }}">
                   {% endif %}
-                  {{ post.title }}
+                  {{ post.title | escape }}
               </a>
         </h3>
-        {%- if site.show_excerpts -%}
-          {% if post.description %}
-            {{ post.description }}
-          {% else %}
-          {{ post.excerpt }}
-          {% endif %}
-        {%- endif -%}
-        {% if post.embed_player %}
+        </element class="post-content e-content" itemprop="articleBody">
+        <p>{% if post.embed_player %}
          {%- if site.show_embedded-playeronindex -%}
            {% include embedded-player.html currPost=post %}<br>
         {%- endif -%}
         {%- endif -%}
-      {% include read-more.html currPost=post %}
+        {%- if site.show_excerpts -%}
+          {%- if post.description -%}
+            {{ post.description | strip_html }}
+          {% else %}
+           {{ post.excerpt | strip_html}}<br>
+          {%- endif -%}
+        {%- endif -%}
+      {% include read-more.html currPost=post %}</p></element>
       </li>
       {%- endfor -%}
     </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
+    {%- endif -%}
 
 </div>

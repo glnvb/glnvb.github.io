@@ -23,19 +23,20 @@ De podcast komt wekelijks online op de Soundcloud-pagina van [Tim Gistelinck](ht
                   {{ post.title }}
               </a>
         </h3>
-        {%- if site.show_excerpts -%}
-          {% if post.description %}
-            {{ post.description }}
-          {% else %}
-           {{ post.excerpt }}
-          {% endif %}
-        {%- endif -%}
-        {% if post.embed_player %}
+        <element class="post-content e-content" itemprop="articleBody">
+        <p>{% if post.embed_player %}
          {%- if site.show_embedded-playeronindex -%}
-           {% include embedded-player.html currPost=post %}
+           {% include embedded-player.html currPost=post %}<br>
         {%- endif -%}
         {%- endif -%}
-        {% include read-more.html currPost=post %}
+        {%- if site.show_excerpts -%}
+          {%- if post.description -%}
+            {{ post.description | strip_html }}<br>
+          {% else %}
+           {{ post.excerpt | strip_html }}<br>
+          {%- endif -%}
+        {%- endif -%}
+      {% include read-more.html currPost=post %}</p></element>
       </li>
       {%- endfor -%}
   {%- endif -%}
