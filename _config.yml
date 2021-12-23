@@ -20,7 +20,7 @@
 
 title: Geschiedenis van België
 email: geschiedenisvan@outlook.be
-description: >- # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   Geschiedenisleerkracht die moedige pogingen doet om het waarom en het hoe van de Belgische geschiedenis te ontrafelen.
 baseurl: "/geschiedenisvan" # the subpath of your site, e.g. /blog
 url: "https://glnvb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -41,25 +41,42 @@ author_location:
 author_website_url: ""
 typewrite-text: PODCAST
 
-
+# social links
 minima:
-  social_links:
-   twitter: van_belgie
-   github: glnvb
-   stackoverflow: ""
-   dribbble: jekyll
-   facebook: jekyll
-   flickr: jekyll
-   instagram: jekyll
-   linkedin: jekyll
-   pinterest: jekyll
-   telegram: jekyll
-   microdotblog: jekyll
-   keybase: jekyll
-   youtube: 
-   youtube_channel: UC5iU3y8mdhN1xAte7y8CSCA
-   youtube_channel_name: CloGeschiedenis van België
-  date_format: "%-d %b, %Y"
+ social_links:
+    twitter: van_belgie
+    github:
+     username: glnvb
+     repo: geschiedenisvan
+    # devto: jekyll
+    # dribbble: jekyll
+    facebook: Geschiedenisvan
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    youtube_channel: UC5iU3y8mdhN1xAte7y8CSCA
+    youtube_channel_name: Geschiedenis van
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+ date_format: "%-d %b, %Y"
 
 #From which category should be the post that appears first on the index page
 catcatonindex1: podcast
