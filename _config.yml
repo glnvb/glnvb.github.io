@@ -26,24 +26,29 @@ baseurl: "/geschiedenisvan" # the subpath of your site, e.g. /blog
 url: "https://glnvb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
- - luisteren.markdown
- - shownotes.markdown
- - discord.markdown
- - over.markdown
+- luisteren.markdown
+- shownotes.markdown
+- discord.markdown
+- over.markdown
 
-author_logo: profile.png
-post_logo: posts.png
-home_logo: home.png
+# author_logo: profile.png
+# post_logo: posts.png
+# home_logo: home.png
 author: Tim Gistelinck
-author_bio: 
-author_email: ""
-author_location: 
-author_website_url: ""
-typewrite-text: PODCAST
+# author_bio: 
+# author_email: ""
+# author_location: 
+# author_website_url: ""
+# typewrite-text: PODCAST
+
+ # mail and description in footer
+aboutonfooter: false
+
 
 # social links
 minima:
  social_links:
+    soundcloud: tim-gistelinck
     twitter: van_belgie
     github:
      username: glnvb

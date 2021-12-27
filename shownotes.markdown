@@ -1,6 +1,5 @@
 ---
 title: "show(notes)"
-layout: page
+layout: shownotesindex
 ---
 
-Dit is de content

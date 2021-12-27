@@ -5,28 +5,36 @@
 
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
-    <div class="footer-col-wrapper">
+    <div class="footer-col-wrapper"> 
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
-              {{ site.author | escape }}
+            Podcast {{ site.title | escape }} © {{ .Now.Year }} {{ site.author | escape }} – All rights reserved
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
             </li>
+            {%- if site.aboutonfooter -%}     
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+            {%- endif -%} {%- endif -%}
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
         {%- include social.html -%}
-      </div>
-
+      </div>    
       <div class="footer-col footer-col-3">
+        <p>
+          Code with MIT license proudly hosted by
+          <a href="https://github.com/{{ social.github.username | cgi_escape | escape }}/{{ social.github.repo | cgi_escape | escape }}">
+            <img src="./data/github.png" width="100" height="30" alt="GitHub • Social coding">
+            </a>
+        </p>
+        {%- if site.aboutonfooter -%}  
         <p>{{- site.description | escape -}}</p>
+        {%- endif -%}
       </div>
     </div>
 

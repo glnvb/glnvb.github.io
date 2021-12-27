@@ -1,6 +1,8 @@
 $image-dim: 192px;
 
 .post-list {
+    margin-left: 0;
+    list-style: none;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;

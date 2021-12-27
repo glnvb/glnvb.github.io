@@ -195,28 +195,14 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
 
-.post-list-heading { font-size: 28px; }
-
-.post-list { margin-left: 0; list-style: none; display: flex; flex-direction: column; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; color: black; }
-.post-list hr { margin-bottom: 0.25em; }
-.post-list article { width: 100%; position: relative; }
-.post-list h1 { flex: 0; margin: auto; display: flex; align-items: center; }
-.post-list h2 { margin-bottom: 0.5em; }
-.post-list a { line-height: 1.1em; text-decoration: underline; text-decoration-color: transparent; transition: 0.4s; -webkit-text-decoration-color: transparent; -moz-text-decoration-color: transparent; }
-.post-list a:hover { text-decoration-color: #000000; -webkit-text-decoration-color: #000000; -moz-text-decoration-color: #000000; }
-.post-list .post-meta { margin-top: -0.5em; opacity: 0.5; text-align: right; }
-.post-list figure { width: max-content; margin: auto; margin-bottom: 0.5em; max-width: 100%; }
-.post-list_image { max-width: 100%; max-height: 80vh; border: 0; margin: auto; }
-.post-list > li { margin-bottom: 30px; }
-
-.post-meta { font-size: 14px; color: #828282; }
-
-.post-link { display: block; font-size: 24px; }
+.social-media-list { display: table; margin: 0 auto; }
+.social-media-list li { float: left; margin: 5px 10px 5px 0; }
+.social-media-list li:last-of-type { margin-right: 0; }
 
 .embedded-player { width: 100%; max-width: 600px; outline: none; border: none; }
 .embedded-player.hidden { visibility: hidden; }
 
-.post-list { display: flex; flex-direction: column; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; color: black; }
+.post-list { margin-left: 0; list-style: none; display: flex; flex-direction: column; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; color: black; }
 .post-list hr { margin-bottom: 0.25em; }
 .post-list article { width: 100%; position: relative; }
 .post-list h1 { flex: 0; margin: auto; display: flex; align-items: center; }
