@@ -1,12 +1,10 @@
-# This is a basic workflow to help you get started with Actions
-
 name: update schedule daily
 on:
   schedule:
     - cron: "0 0 * * *"
     branches:
      - main
-    jobs:
+jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
