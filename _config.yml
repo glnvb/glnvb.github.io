@@ -107,6 +107,9 @@ show_excerpts: true
 show_embedded-player: true
 show_embedded-playeronindex: true
 
+algolia:                                                                       
+  application_id: {619c66462ae2b75b8feb0d91acf3c0ba}
+
 #posts.size: 1
 
 # algolia search
