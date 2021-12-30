@@ -109,7 +109,9 @@ show_embedded-playeronindex: true
 
 algolia:                                                                       
   application_id: {619c66462ae2b75b8feb0d91acf3c0ba}
+  index_name: geschiedens van
 
+  
 #posts.size: 1
 
 # algolia search
