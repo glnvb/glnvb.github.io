@@ -1,3 +1,4 @@
+name: Algolia push records
 on:
   push:
     branches:
@@ -13,8 +14,9 @@ jobs:
       - name: set up ruby
         uses: actions/setup-ruby@v1
       - name: Install dependencies and push records
-        run: 
+        run:
+          gem install bundler
+          bundle install --jobs 4 --retry 3
           bundle exec jekyll algolia
         env:
-          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}          
-          
+          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}   
