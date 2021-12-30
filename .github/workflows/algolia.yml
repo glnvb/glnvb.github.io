@@ -12,7 +12,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       - name: set up ruby
-        uses: actions/setup-ruby
+        uses: actions/setup-ruby@v1
       - name: Install dependencies and push records
         run:
           gem install bundler
