@@ -1,7 +1,8 @@
 name: Algolia push records
 on:
   push:
-    branches: [ main ]
+    branches:
+     - main
 jobs:
    runs-on: ubuntu-latest
     # Steps represent a sequence of tasks that will be executed as part of the job
