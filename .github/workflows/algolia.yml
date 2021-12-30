@@ -1,9 +1,11 @@
-name: Algolia push records
 on:
   push:
     branches:
      - main
-  jobs:
+  schedule:
+    - cron: "0 1 * * *"
+jobs:
+ algolia:
    runs-on: ubuntu-latest
    steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
