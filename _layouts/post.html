@@ -12,7 +12,20 @@ layout: default
       <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
       {%- if page.author -%}
         <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      </p>{%- endif -%}
+        {%- endif -%}   
+        <div class="category">
+          {% if post %}
+            {% assign categories = post.categories %}
+          {% else %}
+            {% assign categories = page.categories %}
+          {% endif %}
+          {% for category in categories %}
+          <span class= ".category.title "></span>
+          <a href="{{site.baseurl}}/categories/{{category | slugify: "raw" }}">{{category}}</a>
+          {% unless forloop.last %}&nbsp;{% endunless %}
+          {% endfor %}
+        </div>
+      </p>
   </header>
   <div class="post-content e-content" itemprop="articleBody">
     {% if page.embed_player %}

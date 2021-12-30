@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<span class= ".category.title ">
+└<a href="{{ 'categories.html' | relative_url }}"> categorieën</a>
+</span>
+<div class="post-list">
+  <h3 class="post-list-heading">
+    Berichten van de categorie: {{ page.category-name }}
+  </h3>
+  <div class="posts-list">
+    {% for post in site.categories[page.category-name] %}
+      <div class="post-meta">
+        <p class="post-meta">
+       {% if site.date_format %}
+          {{ post.date | date: site.date_format }}
+       {% else %}
+          {{ post.date | date: "%b %-d, %Y" }}
+      {% endif %}
+      </p>
+      <h3>
+        {% if post.external_url %}
+        <a class="post-link" href="{{ post.external_url }}" target="_blank">
+            {% else %}
+            <a class="post-link" href="{{ post.url | relative_url }}">
+                {% endif %}
+                {{ post.title | escape }}
+            </a>
+      </div>
+      {%- endfor -%}
+  </div>
+</div>
+
+

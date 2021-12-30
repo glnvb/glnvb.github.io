@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<div class="post-list">
+  <h3 class="post-list-heading">
+    {{ page.title }}
+  </h3>
+  <div class="posts">
+    {% assign categories_max = 0 %}
+    {% for category in site.categories %}
+      {% if category[1].size > categories_max %}
+        {% assign categories_max = category[1].size %}
+      {% endif %}
+    {% endfor %}
+    <ul class="categories">
+      {% for i in (1..categories_max) reversed %}
+        {% for category in site.categories %}
+          {% if category[1].size == i %}
+            <li>              
+              <a href="{{ category[0] |  slugify: "raw" }}">
+                <strong>{{ category[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    </ul>
+    
+  </div>
+</div>

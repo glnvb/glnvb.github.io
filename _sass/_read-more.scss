@@ -11,3 +11,30 @@
         @include underline-on-hover($black);
     }
 }
+
+.category {
+    position: relative;
+    text-align: right;
+    
+    line-height: 1em;
+    font-weight: 300;
+
+    color: #000000;
+    a {
+        font-size: 0.9em;
+        @include underline-on-hover($black);
+    }
+}
+.category.title {
+    position: relative;
+    text-align: left;
+    
+    line-height: 1em;
+    font-weight: 300;
+
+    color: #000000;
+    a {
+        font-size: 0.9em;
+        
+    }
+}

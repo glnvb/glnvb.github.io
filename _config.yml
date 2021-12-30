@@ -92,7 +92,7 @@ catcatonindex2: post
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
 # formspree (contact form)
-formspree_email: geschiedenisvan@outlook.com
+#formspree_email: geschiedenisvan@outlook.com
 
 # syntax highlighter
 #markdown: kramdown
