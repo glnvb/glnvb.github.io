@@ -1,9 +1,7 @@
 name: update schedule daily
 on:
   schedule:
-    - cron: "0 0 * * *"
-    branches:
-     - main
+   - cron: "0 0 * * *"
 jobs:
   github-pages:
     runs-on: ubuntu-latest
