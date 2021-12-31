@@ -1,10 +1,17 @@
 name: update schedule daily
 on:
   schedule:
-   - cron: "0 0 * * *"
+    - cron: "0 1 * * *"
 jobs:
-  github-pages:
-    runs-on: ubuntu-latest
-    steps:
+ algolia:
+   runs-on: ubuntu-latest
+   steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      - uses: helaili/jekyll-action@v2
+      - name: set up ruby
+        uses: actions/setup-ruby@v1
+      - name: Install dependencies and push records
+        run:
+          gem install bundler
+          bundle install
+          bundle exec jekyll serve
