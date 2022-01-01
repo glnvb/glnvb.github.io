@@ -1,6 +1,7 @@
 ---
 layout: page
 title: zoeken
+icon: /data/search.svg
 ---
 
 <form action="{{ '/search.html' | relative_url}}" method="get">
@@ -18,8 +19,9 @@ title: zoeken
         "title": "{{ post.title | xml_escape }}",
         "author": "{{ post.author | xml_escape }}",
         "category": "{{ post.category | xml_escape }}",
-        "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+        "description": "{{ post.description | xml_escape }}",
         "url": "{{ post.url | relative_url | xml_escape }}"
+
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}

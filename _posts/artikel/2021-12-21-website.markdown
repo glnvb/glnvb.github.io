@@ -2,7 +2,7 @@
 layout: post
 title: "website"
 date: 2021-12-21 8:42:11 +0100
-categories: post
+categories: artikel
 ---
  Welkom op de nieuwe website van Geschiedenis van België!
 

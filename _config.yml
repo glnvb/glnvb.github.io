@@ -28,8 +28,10 @@ url: "https://glnvb.github.io" # the base hostname & protocol for your site, e.g
 header_pages:
 - luisteren.markdown
 - shownotes.markdown
+- artikels.markdown
 - discord.markdown
 - over.markdown
+- search.markdown
 
 # author_logo: profile.png
 # post_logo: posts.png
@@ -106,6 +108,7 @@ show_author_project_details: false
 show_excerpts: true
 show_embedded-player: true
 show_embedded-playeronindex: true
+page_excerpts: true
 
 #posts.size: 1
 

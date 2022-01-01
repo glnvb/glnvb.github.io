@@ -16,8 +16,8 @@ layout: default
       {% for i in (1..categories_max) reversed %}
         {% for category in site.categories %}
           {% if category[1].size == i %}
-            <li>              
-              <a href="{{ category[0] |  slugify: "raw" }}">
+            <li> 
+              <a href=categories/{{ category[0] | slugify: "raw" }}>
                 <strong>{{ category[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
               </a>
             </li>

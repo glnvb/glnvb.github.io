@@ -17,7 +17,7 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
     <ul class="post-list">
-    {%- for post in site.categories[site.catcatonindex1] -%}
+    {%- for post in site.categories[page.cat] -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <element class="post-meta">{{ post.date | date: date_format }}</element>

@@ -1,4 +1,4 @@
 ---
-title: "podcasts per categorie"
+title: "categorieën van artikels en podcasts"
 layout: categories
 ---
