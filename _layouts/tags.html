@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<div class="post-list">
+  <h3 class="post-list-heading">
+    {{ page.title }}
+  </h3>
+  <div class="posts">
+    {% assign tags_max = 0 %}
+    {% for tag in site.tags %}
+      {% if tag[1].size > tags_max %}
+        {% assign tags_max = tag[1].size %}
+      {% endif %}
+    {% endfor %}
+    <ul class="categories">
+      {% for i in (1..tags_max) reversed %}
+        {% for tag in site.tags %}
+          {% if tag[1].size == i %}
+            <li> 
+              <a href=tags/{{ tag[0] | slugify: "raw" }}>
+                <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    </ul>
+    
+  </div>
+</div>

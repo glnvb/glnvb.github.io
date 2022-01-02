@@ -2,14 +2,14 @@
 layout: default
 ---
 <span class= ".category.title ">
-└<a href="{{ 'categories.html' | relative_url }}"> categorieën</a>
+└<a href="{{ 'tags.html' | relative_url }}"> labels</a>
 </span>
 <div class="post-list">
   <h3 class="post-list-heading">
-    Berichten van de categorie: {{ page.category-name }}
+    {{ page.tag-name }}
   </h3>
   <div class="posts-list">
-    {% for post in site.categories[page.category-name] %}
+    {% for post in site.tags[page.tag-name] %}
       <div class="post-meta">
         <p class="post-meta">
        {% if site.date_format %}
