@@ -4,7 +4,7 @@ title: "website"
 date: 2021-12-21 8:42:11 +0100
 categories: artikel
 ---
- Welkom op de nieuwe website van Geschiedenis van België!
+Welkom op de nieuwe website van Geschiedenis van België!
 
 Je kan de code van deze site vinden op [Github](https://github.com/glnvb/geschiedenisvan){:target="_blank"}. Altijd welkom om mee te werken.
 

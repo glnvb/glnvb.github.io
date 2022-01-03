@@ -4,38 +4,43 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time>
-      <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-      {%- if page.author -%}
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-        {%- endif -%}   
-        <div class="category">
-          {% if post %}
-            {% assign tags = post.tags %}
-          {% else %}
-            {% assign tags = page.tags %}
-          {% endif %}
-          {% for tag in tags %}
-          <a href="{{site.baseurl}}/tags/{{tag | slugify: "raw" }}">{{tag}}</a>
-          {% unless forloop.last %}&nbsp;{% endunless %}
-          {% endfor %}
-        </div>
-      </p>
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <div class="category">
+      {% if post %}
+      {% assign tags = post.tags %}
+      {% else %}
+      {% assign tags = page.tags %}
+      {% endif %}
+      {% for tag in tags %}
+      <a href="{{site.baseurl}}/tags/{{tag | slugify: 'raw' }}">{{tag}}</a>
+      {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+    </div>
+    </p>
   </header>
+  {% if page.embed_player %}
+  {%- if site.show_embedded-player -%}
+  {% include embedded-player.html currPost=page %}<br>
+  {%- endif -%} {%- endif -%}
   <div class="post-content e-content" itemprop="articleBody">
-    {% if page.embed_player %}
-    {%- if site.show_embedded-player -%} 
-    {% include embedded-player.html currPost=page %}<br>
-    {%- endif -%} {%- endif -%}
+
     {{ content }}
   </div>
 
+  <p class="post-meta">
+    {%- if page.author -%}
+    <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
+        itemprop="name">{{
+        page.author }} &mdash; </span></span>
+    {%- endif -%}
+    <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {{ page.date | date: date_format }}
+    </time>
+  </p>
+
   {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
+  {%- include disqus_comments.html -%}
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>

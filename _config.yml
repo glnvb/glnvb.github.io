@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -26,35 +26,34 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://geschiedenisvan.be" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
-- luisteren.markdown
-- shownotes.markdown
-- artikels.markdown
-- discord.markdown
-- over.markdown
-- search.markdown
+  - luisteren.markdown
+  - shownotes.markdown
+  - artikels.markdown
+  - discord.markdown
+  - over.markdown
+  - search.markdown
 
 # author_logo: profile.png
 # post_logo: posts.png
 # home_logo: home.png
 author: Tim Gistelinck
-# author_bio: 
+# author_bio:
 # author_email: ""
-# author_location: 
+# author_location:
 # author_website_url: ""
 # typewrite-text: PODCAST
 
- # mail and description in footer
+# mail and description in footer
 aboutonfooter: false
-
 
 # social links
 minima:
- social_links:
+  social_links:
     soundcloud: tim-gistelinck
     twitter: van_belgie
     github:
-     username: glnvb
-     repo: geschiedenisvan
+      username: glnvb
+      repo: geschiedenisvan
     # devto: jekyll
     # dribbble: jekyll
     facebook: Geschiedenisvan
@@ -83,7 +82,7 @@ minima:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
- date_format: "%-d %b, %Y"
+  date_format: "%-d %B %Y"
 
 #From which category should be the post that appears first on the index page
 catcatonindex1: podcast
@@ -100,7 +99,6 @@ catcatonindex2: post
 #markdown: kramdown
 # highlighter: rouge
 permalink: /:categories/:year-:month-:day-:title/
-
 
 # Choose what to show ( can be true or false)
 show_author_work_experiences: false
@@ -126,7 +124,6 @@ page_excerpts: true
 # per_page: 6
 # paginate_path: "/blog/page/:num/"
 
-
 # Build settings
 theme: minima
 plugins:
@@ -137,7 +134,6 @@ plugins:
 
   # - jekyll-sitemap
   # - jekyll-paginate-v2
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

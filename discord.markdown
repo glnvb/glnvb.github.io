@@ -7,6 +7,8 @@ title: discord
 permalink: discord 
 ---
 
+# Discord
+
 We hebben een Geschiedenis van Discord server
 
 [Je kan de server betreden via deze link](https://discord.gg/DBhWaXkaJm){:target="_blank"}{:rel="noopener noreferrer"}

@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: shownotes
 title: luisteren
 list_title: "De meest recente podcast"
 ---
+
+# Luisteren
+
 De podcast komt wekelijks online op de Soundcloud-pagina van [Tim Gistelinck](https://soundcloud.com/tim-gistelinck){:target="_blank"}, en kort daarna op iTunes, Spotify, Google Podcasts … Aan de rechterzijde van deze pagina vind je subscribe buttons voor alle grote diensten.
 
 
@@ -23,7 +26,6 @@ De podcast komt wekelijks online op de Soundcloud-pagina van [Tim Gistelinck](ht
                   {{ post.title }}
               </a>
         </h3>
-        <element class="post-content e-content" itemprop="articleBody">
         <p>{% if post.embed_player %}
          {%- if site.show_embedded-playeronindex -%}
            {% include embedded-player.html currPost=post %}<br>
@@ -36,7 +38,7 @@ De podcast komt wekelijks online op de Soundcloud-pagina van [Tim Gistelinck](ht
            {{ post.excerpt | strip_html }}<br>
           {%- endif -%}
         {%- endif -%}
-      {% include read-more.html currPost=post %}</p></element>
+      {% include read-more.html currPost=post %}</p>
       </li>
       {%- endfor -%}
   {%- endif -%}

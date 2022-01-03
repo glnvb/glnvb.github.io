@@ -1,34 +1,34 @@
 ---
 layout: default
 ---
-<span class= ".category.title ">
-└<a href="{{ 'tags' | relative_url }}"> labels</a>
-</span>
-<div class="post-list">
-  <h3 class="post-list-heading">
-    {{ page.tag-name }}
-  </h3>
-  <div class="posts-list">
-    {% for post in site.tags[page.tag-name] %}
-      <div class="post-meta">
-        <p class="post-meta">
-       {% if site.date_format %}
-          {{ post.date | date: site.date_format }}
-       {% else %}
-          {{ post.date | date: "%b %-d, %Y" }}
-      {% endif %}
-      </p>
-      <h3>
-        {% if post.external_url %}
-        <a class="post-link" href="{{ post.external_url }}" target="_blank">
-            {% else %}
-            <a class="post-link" href="{{ post.url | relative_url }}">
-                {% endif %}
-                {{ post.title | escape }}
-            </a>
-      </div>
-      {%- endfor -%}
-  </div>
-</div>
+<h1><a href="{{ 'tags' | relative_url }}"> labels</a> / {{ page.tag-name }}</h1>
 
-
+<!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
+<ul class="post-list">
+  {%- for post in site.tags[page.tag-name] -%}
+  <li>
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <h3>
+      {% if post.external_url %}
+      <a class="post-link" href="{{ post.external_url }}" target="_blank">
+        {% else %}
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {% endif %}
+          {{ post.title | escape }}
+        </a>
+    </h3>
+    </element class="post-content e-content" itemprop="articleBody">
+    <p>
+      {%- if site.show_excerpts -%}
+      {%- if post.description -%}
+      {{ post.description | strip_html }}<br>
+      {% else %}
+      {{ post.excerpt | strip_html }}<br>
+      {%- endif -%}
+      {%- endif -%}
+      {% include read-more.html currPost=post %}</p>
+    </element>
+    <element class="post-meta">{{ post.date | date: date_format }}</element>
+  </li>
+  {%- endfor -%}
+</ul>

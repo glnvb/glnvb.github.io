@@ -1,16 +1,14 @@
 ---
-layout: page
+layout: default
 title: zoeken
 icon: /data/search.svg
 ---
 
-<form action="{{ '/search.html' | relative_url}}" method="get">
-  <label for="search-box">Search</label>
-  <input type="text" id="search-box" name="query">
-  <input type="submit" value="search">
-</form>
+<h1>Zoeken</h1>
 
-<ul id="search-results"></ul>
+<input type="text" id="search-box" name="query" autofocus autocomplete="off">
+
+<ul id="search-results" class="post-list"></ul>
 
 <script>
   window.store = {
