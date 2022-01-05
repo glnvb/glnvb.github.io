@@ -2,9 +2,9 @@
   <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
   <ul class="post-list">
   {%- for post in site.categories[site.catcatonindex1] limit:1 -%}
+    <h1 class="post-header" href="{{ shownotes | relative_url }}">[site.catcatonindex1]</h1>
+  </header>
     <li>
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <element class="post-meta">{{ post.date | date: date_format }}</element>
       <h3>
         {% if post.external_url %}
         <a class="post-link" href="{{ post.external_url }}" target="_blank">
@@ -15,10 +15,7 @@
             </a>
       </h3>
       </element class="post-content e-content" itemprop="articleBody">
-      <p>{% if post.embed_player %}
-       {%- if site.show_embedded-playeronindex -%}
-         {% include embedded-player.html currPost=post %}<br>
-      {%- endif -%}
+      <p>
       {%- endif -%}
       {%- if site.show_excerpts -%}
         {%- if post.description -%}
@@ -27,7 +24,10 @@
          {{ post.excerpt | strip_html }}<br>
         {%- endif -%}
       {%- endif -%}
-    {% include read-more.html currPost=post %}</p></element>
+    {% include read-more.html currPost=post %}</p>
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <element class="post-meta">{{ post.date | date: date_format }}</element>
+  </element>
     </li>
     {%- endfor -%}
     {%- for post in site.categories[site.catcatonindex2] limit:1 -%}
@@ -44,10 +44,7 @@
             </a>
       </h3>
       </element class="post-content e-content" itemprop="articleBody">
-      <p>{% if post.embed_player %}
-       {%- if site.show_embedded-playeronindex -%}
-         {% include embedded-player.html currPost=post %}<br>
-      {%- endif -%}
+      <p>
       {%- endif -%}
       {%- if site.show_excerpts -%}
         {%- if post.description -%}
@@ -61,3 +58,6 @@
     {%- endfor -%}
   </ul>
   {%- endif -%}
+
+
+  bbbbb

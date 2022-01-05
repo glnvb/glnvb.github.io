@@ -1,13 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
-list_title: "Recent"
+list_title: false
+#From which category should be the post that appears first on the index page
+catlist1: podcast
+namecatlist1: podcasts
+#From which category should be the post that appears second on the index page
+catlist2: artikel
+namecatlist2: artikels
 ---
-Beste verdwaalde podcastzoeker
-
-U heeft de toekomst gevonden! Proficiat
-
-Maar de toekomst is er nog niet klaar voor.
-Luister ondertussen rustig naar een podcast bv op [soundcloud](https://soundcloud.com/tim-gistelinck).

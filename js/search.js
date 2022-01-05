@@ -27,9 +27,11 @@
       if (pair[0] === variable) {
         return decodeURIComponent(pair[1].replace(/\+/g, '%20'));
       }
+      
     }
   }
 
+  
   function search(searchTerm) {
     var results = idx.search(searchTerm); // Get lunr to perform a search
     displaySearchResults(results, window.store); // We'll write this in the next section
@@ -45,6 +47,7 @@
     this.field('id');
     this.field('title', { boost: 10 });
     this.field('author');
+    this.field('tags');
     this.field('category');
     this.field('description');
 
@@ -53,6 +56,7 @@
         'id': key,
         'title': window.store[key].title,
         'author': window.store[key].author,
+        'tags': window.store[key].tags,
         'category': window.store[key].category,
         'description': window.store[key].description,
       });

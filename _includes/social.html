@@ -19,6 +19,8 @@
   {%- if social.microdotblog -%}<li><a rel="me" href="https://micro.blog/{{ social.microdotblog | cgi_escape | escape }}" title="{{ social.microdotblog | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#microdotblog' | relative_url }}"></use></svg></a></li>{%- endif -%}
   {%- if social.devto -%}<li><a href="https://dev.to/{{ social.devto | cgi_escape | escape }}" title="{{ social.devto | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#devto' | relative_url }}"></use></svg></a></li>{%- endif -%}
   {%- if social.soundcloud -%}<li><a href="https://soundcloud.com/{{ social.soundcloud | cgi_escape | escape }}" title="{{ social.soundcloud | escape }}"><img class="svg-icon grey" src="{{ 'data/soundcloud.png' | relative_url }}"></a></li>{%- endif -%}
+  {%- if social.spotify -%}<li><a href="https://open.spotify.com/show/{{ social.spotify | cgi_escape | escape }}" title="{{ social.spotify | escape }}"><img class="svg-icon grey" src="{{ 'data/spotify.png' | relative_url }}"></a></li>{%- endif -%}
+  {%- if social.itunesname -%}<li><a href="https://podcasts.apple.com/be/podcast/{{ social.itunesname | cgi_escape | escape }}/{{ social.itunesid | cgi_escape | escape }}" title="{{ social.itunesname | escape }}"><img class="svg-icon grey" src="{{ 'data/itunes.svg' | relative_url }}"></a></li>{%- endif -%}
 </ul>
 
 

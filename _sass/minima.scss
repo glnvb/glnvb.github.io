@@ -64,6 +64,16 @@ $on-laptop:        1000px !default;
   }
 }
 
+.over-media-list {
+  display: list-item;
+  margin: 0 auto;
+  li {
+    float: left;
+    margin: 5px 10px 5px 0;
+    &:last-of-type { margin-right: 0 }
+  }
+}
+
 @mixin hyperlink-convention {
   a {
     cursor: pointer;

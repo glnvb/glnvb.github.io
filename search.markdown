@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: page
 title: zoeken
 icon: /data/search.svg
 ---
-
-<h1>Zoeken</h1>
-
 <input type="text" id="search-box" name="query" autofocus autocomplete="off">
 
 <ul id="search-results" class="post-list"></ul>
@@ -17,6 +14,7 @@ icon: /data/search.svg
         "title": "{{ post.title | xml_escape }}",
         "author": "{{ post.author | xml_escape }}",
         "category": "{{ post.category | xml_escape }}",
+        "tags": "{% for tag in post.tags %}{{ tag | xml_escape }} {% endfor %}",
         "description": "{{ post.description | xml_escape }}",
         "url": "{{ post.url | relative_url | xml_escape }}"
 

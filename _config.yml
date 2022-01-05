@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Geschiedenis van België
-email: geschiedenisvan@outlook.be
+email: "&#112;&#111;&#100;&#99;&#97;&#115;&#116;&#64;&#103;&#101;&#115;&#99;&#104;&#105;&#101;&#100;&#101;&#110;&#105;&#115;&#118;&#97;&#110;&#46;&#98;&#101;"
 description: # this means to ignore newlines until "baseurl:"
   Geschiedenisleerkracht die moedige pogingen doet om het waarom en het hoe van de Belgische geschiedenis te ontrafelen.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,8 +27,8 @@ url: "https://geschiedenisvan.be" # the base hostname & protocol for your site, 
 
 header_pages:
   - luisteren.markdown
-  - shownotes.markdown
-  - artikels.markdown
+  - podcast.markdown
+  - artikel.markdown
   - discord.markdown
   - over.markdown
   - search.markdown
@@ -49,11 +49,14 @@ aboutonfooter: false
 # social links
 minima:
   social_links:
+    spotify: 4mro2eHj5W5uuSDYpmP3nk
+    itunesname: geschiedenis-van-belgië
+    itunesid: id1485213438
     soundcloud: tim-gistelinck
     twitter: van_belgie
     github:
       username: glnvb
-      repo: geschiedenisvan
+      repo: glnvb.github.io
     # devto: jekyll
     # dribbble: jekyll
     facebook: Geschiedenisvan
@@ -83,12 +86,6 @@ minima:
     # - username: jekyll2
     #   instance: example.com
   date_format: "%-d %B %Y"
-
-#From which category should be the post that appears first on the index page
-catcatonindex1: podcast
-
-#From which category should be the post that appears second on the index page
-catcatonindex2: post
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 

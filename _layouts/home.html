@@ -1,28 +1,20 @@
 ---
 layout: default
 ---
-
-<div class="home">
   {%- if page.title -%}
   <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
 
-  {% if site.paginate %}
-  {% assign posts = paginator.posts %}
-  {% else %}
-  {% assign posts = site.posts %}
-  {% endif %}
-
-  {%- if posts.size > 0 -%}
-  {%- if page.list_title -%}
-  <h2 class="post-list-heading">{{ page.list_title }}</h2>
-  {%- endif -%}
-  <ul class="post-list">
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    {%- for post in posts -%}
+  {%- if site.posts.size > 0 -%}
+    {%- for post in site.categories[page.catlist1] limit:1 -%}
+    <h1>
+      <a class="post-title" href="{{ 'podcast' | relative_url }}">{{ page.namecatlist1 | escape }}</a>
+    </h1>
+    <ul class="post-list">
     <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <h3>
         {% if post.external_url %}
         <a class="post-link" href="{{ post.external_url }}" target="_blank">
@@ -31,13 +23,9 @@ layout: default
             {% endif %}
             {{ post.title | escape }}
           </a>
-        </a>
       </h3>
-      <p>{% if post.embed_player %}
-        {%- if site.show_embedded-playeronindex -%}
-        {% include embedded-player.html currPost=post %}<br>
-        {%- endif -%}
-        {%- endif -%}
+      </element class="post-content e-content" itemprop="articleBody">
+      <p>
         {%- if site.show_excerpts -%}
         {%- if post.description -%}
         {{ post.description | strip_html }}<br>
@@ -46,36 +34,47 @@ layout: default
         {%- endif -%}
         {%- endif -%}
         {% include read-more.html currPost=post %}</p>
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      </element>
+      <element class="post-meta">{{ post.date | date: date_format }}</element>
     </li>
     {%- endfor -%}
   </ul>
 
-  {% if site.paginate %}
-  <div class="pager">
-    <ul class="pagination">
-      {%- if paginator.previous_page %}
-      <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page
-          }}</a></li>
-      {%- else %}
-      <li>
-        <div class="pager-edge">•</div>
-      </li>
-      {%- endif %}
-      <li>
-        <div class="current-page">{{ paginator.page }}</div>
-      </li>
-      {%- if paginator.next_page %}
-      <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-      {%- else %}
-      <li>
-        <div class="pager-edge">•</div>
-      </li>
-      {%- endif %}
-    </ul>
-  </div>
-  {%- endif %}
+
+    {%- for post in site.categories[page.catlist2] limit:1 -%}
+    <h1>
+      <a class="post-title" href="{{ 'artikel' | relative_url }}">{{ page.namecatlist2 | escape }}</a>
+    </h1>
+    <ul class="post-list">
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <h3>
+        {% if post.external_url %}
+        <a class="post-link" href="{{ post.external_url }}" target="_blank">
+          {% else %}
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {% endif %}
+            {{ post.title | escape }}
+          </a>
+      </h3>
+      </element class="post-content e-content" itemprop="articleBody">
+      <p>
+        {%- if site.show_excerpts -%}
+        {%- if post.description -%}
+        {{ post.description | strip_html }}<br>
+        {% else %}
+        {{ post.excerpt | strip_html }}<br>
+        {%- endif -%}
+        {%- endif -%}
+        {% include read-more.html currPost=post %}</p>
+      </element>
+      <element class="post-meta">{{ post.date | date: date_format }}</element>
+    </li>
+    {%- endfor -%}
+  </ul>
 
   {%- endif -%}
 
-</div>
+
+
+  </ul>
