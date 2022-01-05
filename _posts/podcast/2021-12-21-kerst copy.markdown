@@ -4,7 +4,7 @@ title: "Kerst aan het front en Wit-Rusland"
 author: Tim
 date: 2021-12-21 8:42:11 +0100
 categories: podcast
-tag: ["geschiedenis nu", "yes we can"]
+tag: ["geschiedenis nu"]
 postsoundcoud_url: https://soundcloud.com/tim-gistelinck/geschiedenis-nu-kerst-aan-het-front-en-wit-rusland
 embed_player:
   type: soundcloud
