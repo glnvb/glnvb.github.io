@@ -1,0 +1,10 @@
+<ul class="categories">
+    {% for tag in include.tags %}
+    <li>
+        <a href=/tags/{{ tag | slugify: "raw" }}>
+            <strong>{{ tag }}</strong>
+        </a>
+        <!-- <span class="taxonomy__count"># {{ i }}</span> -->
+    </li>
+    {% endfor %}
+</ul>

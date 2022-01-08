@@ -1,4 +1,4 @@
 ---
-title: "labels van artikels en podcasts"
+title: "labels"
 layout: tags
 ---

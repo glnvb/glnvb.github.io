@@ -14,4 +14,4 @@ description: Een kerstboodschap met goede voornemens en plannen voor de podcast
 ---
 Geen volledige aflevering maar mijn versie van een kerstboodschap. Inclusief bedankjes voor het afgelopen jaar en vooruitkijken naar wat komen zal. Iets waar jullie ook je zegje over mogen doen. 
 
-[ Vul zeker deze enquête in](https://docs.google.com/forms/d/e/1FAIpQLSfcLmhVZOg4UpxnbNLHBSQhFnlfKN8-C8FoTJaCrvg968ACSw/viewform){:target="_blank"}
+[Vul zeker deze enquête in](https://docs.google.com/forms/d/e/1FAIpQLSfcLmhVZOg4UpxnbNLHBSQhFnlfKN8-C8FoTJaCrvg968ACSw/viewform){:target="_blank"}

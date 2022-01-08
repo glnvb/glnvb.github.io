@@ -14,12 +14,38 @@
     color: #1A2132;
 }
 
-h1, h2, h3 {
-    font-family: 'Dosis';
+
+main h1, main h2 {
+    font-family: 'Inconsolata', 'Courier New', Courier, monospace;
+    background-color: #FFFFFF;
+    display: inline-block;
+    padding: 10px;
+    line-height: 1;
+    margin-bottom: 30px;
+    letter-spacing: -1px;
+}
+
+main h1 {
+    font-size: 42px;
+}
+
+main h2 {
+    margin-top: 40px;
+}
+
+.post-title {
+    font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: -1px;
+}
+
+main h1 a, main h1 a:visited
+main h2 a, main h2 a:visited {
+    color: #37466b !important;
 }
 
 
-.post-content a, .page-content p a {
+.post-content a, .page-content p a,
+.post-content a:visited, .page-content p a:visited {
     transition: background-size .2s;
     background-size: 1px 0;
     background-position: 0 100%;
@@ -55,12 +81,6 @@ span.read-more a:active {
     background: none;
 }
 
-h1, .post-title {
-    background-color: #FFFFFF;
-    display: inline-block;
-    padding: 10px;
-    font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
-}
 
 .category {
     font-family: 'Inconsolata', 'Courier New', Courier, monospace;
@@ -76,7 +96,7 @@ h1, .post-title {
 
 .category a:hover, .category a:active {
     text-decoration: none;
-    border: 2px solid pink;
+    border: 2px solid gold;
 }
 
 .embedded-player {
@@ -92,7 +112,7 @@ h1, .post-title {
 
 .post-content p:first-of-type::first-letter {
     color: #29C0BE;
-    font-family: 'Playfair Display';
+    font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
     font-size: 4.2rem;
     padding: 0 .3rem;
     margin: 0 .3rem 0 0;
@@ -107,13 +127,10 @@ ul.post-list li {
 }
 
 ul.post-list h3 {
-    font-family: 'Playfair Display';
-    // background-color: white;
-    // padding: 4px;
+    font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
 }
 
 ul.post-list {
-    // border-right: 2px dotted #29C0BE;
     padding-right: 10px;
 }
 
@@ -122,6 +139,7 @@ ul.categories {
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
     margin: 0;
+    margin-bottom: 15px;
     width: 100%;
 }
 
@@ -146,24 +164,25 @@ ul.categories li a {
     width: 100%;
     height: 110px;
     display: block;
-    background-color: pink;
-    // border: 5px solid pink;
+    background-color: gold;
     padding: 0;
-    font-family: 'Playfair Display';
+    font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
     font-size: 3rem;
     font-weight: bold;
     margin: 0;
     bottom: 0;
     color: white;
     overflow: hidden;
+    line-height: 1.1em;
+    transition: background-color 0.2s;
 }
 
 ul.categories li a:hover,
 ul.categories li a:active {
-    background-color: rgb(189, 136, 145);
+    background-color: rgb(209, 181, 20);
     text-decoration: underline;
     text-decoration-color: white;
-    text-decoration-thickness: 4px;
+    text-decoration-thickness: 2px;
 }
 
 .more-tags {
@@ -171,12 +190,29 @@ ul.categories li a:active {
     box-shadow: rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
 
+.post-chronology {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    margin: 0;
+    width: 100%;
+}
+
+@include media-query($on-palm) {
+    .post-chronology {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+article {
+    margin-bottom: 30px;
+}
+
 input {border:0;outline:0;}
 input:focus {outline:none!important;}
 
-
 input#search-box {
-    font-family: 'Inconsolata', 'Courier New', Courier, monospace;
+    font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
     font-size: 2rem;
     background-color: white;
     color: #37466b;
@@ -184,13 +220,36 @@ input#search-box {
     width: 100%;
 }
 
+.social-media-list li {
+    padding-top: 5px;
+    margin: 0 4px;
+}
+
+.page-content .svg-icon {
+    width: 48px;
+    height: 48px;
+}
+
+.site-footer .svg-icon {
+    fill: rgb(235, 235, 235);
+}
+
+.svg-icon:hover, .svg-icon:active {
+    fill: gold;
+}
+
 .site-footer {
     background-color: #63574e;
-    color: white;
-    font-family: 'Dosis';
+    color: rgb(235, 235, 235);
+    font-family: 'Dosis', Arial, Helvetica, sans-serif;
     box-shadow: rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
 
 .footer-col-wrapper {
-    color: white;
+    color: rgb(235, 235, 235);
+    display: flex;
+}
+
+.footer-social {
+    margin-left: auto;
 }

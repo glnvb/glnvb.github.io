@@ -44,3 +44,46 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+{% if tags.size > 0 %}
+<h2>meer</h2>
+{% include taglist.html tags=tags %}
+{% endif %}
+
+{% if page.categories %}
+{% assign category = page.categories[0] %}
+{% assign posts = site.categories[category] %}
+{% for post in posts %}
+{% if post.url == page.url %}
+{% assign post_index0 = forloop.index0 %}
+{% assign post_index1 = forloop.index %}
+{% endif %}
+{% endfor %}
+{% for post in posts %}
+{% if post_index0 == forloop.index %}
+{% assign next_post = post %}
+{% endif %}
+{% if post_index1 == forloop.index0 %}
+{% assign prev_post = post %}
+{% endif %}
+{% endfor %}
+{% endif %}
+<div class="post-chronology">
+  {% if next_post %}
+  <div>
+    <h2>volgende keer</h2>
+    <ul class="post-list">
+      {% include post-list-item.html post=next_post %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if prev_post %}
+  <div>
+    <h2>vorige keer</h2>
+    <ul class="post-list">
+      {% include post-list-item.html post=prev_post %}
+    </ul>
+  </div>
+  {% endif %}
+</div>
