@@ -4,7 +4,7 @@ title: luisteren
 list_title: "De meest recente podcast"
 ---
 
-De podcast komt wekelijks online op de Soundcloud-pagina van [Tim Gistelinck](https://soundcloud.com/tim-gistelinck){:target="_blank"}, en kort daarna op iTunes, Spotify, Soundcloud …
+De podcast komt wekelijks online op de Soundcloud-pagina van Tim Gistelinck en kort daarna op iTunes, Spotify, …
 
 
 <div class="post-list">

@@ -6,11 +6,11 @@
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+      <div class="footer-col">
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
-            Podcast {{ site.title | escape }} <br> © {{ .Now.Year }} {{ site.author | escape }} – All rights reserved
+            Podcast {{ site.title | escape }} <br> © {{ .Now.Year }} {{ site.author | escape }}
             {%- else -%}
             {{ site.title | escape }}
             {%- endif -%}
@@ -22,7 +22,7 @@
         </ul>
       </div>
 
-      <div class="footer-col footer-col-3">
+      <div class="footer-col footer-social">
         {%- include social.html -%}
       </div>
 

@@ -3,69 +3,45 @@ layout: page
 ---
 
 
-  {{ content }}
+{{ content }}
 
-  {% if site.paginate %}
-  {% assign posts = paginator.posts %}
-  {% else %}
-  {% assign posts = site.posts %}
-  {% endif %}
-  {%- if site.posts.size > 0 -%}
-  <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
-  <ul class="post-list">
-    {%- for post in site.categories[page.cat] -%}
+{% if site.paginate %}
+{% assign posts = paginator.posts %}
+{% else %}
+{% assign posts = site.posts %}
+{% endif %}
+{%- if site.posts.size > 0 -%}
+<!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
+<ul class="post-list">
+  {%- for post in site.categories[page.cat] -%}
+  {% include post-list-item.html post=post %}
+  {%- endfor -%}
+</ul>
+{%- endif -%}
+
+{% if site.paginate %}
+<div class="pager">
+  <ul class="pagination">
+    {%- if paginator.previous_page %}
+    <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page
+        }}</a></li>
+    {%- else %}
     <li>
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <h3>
-        {% if post.external_url %}
-        <a class="post-link" href="{{ post.external_url }}" target="_blank">
-          {% else %}
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {% endif %}
-            {{ post.title | escape }}
-          </a>
-      </h3>
-      </element class="post-content e-content" itemprop="articleBody">
-      <p>
-        {%- if site.show_excerpts -%}
-        {%- if post.description -%}
-        {{ post.description | strip_html }}<br>
-        {% else %}
-        {{ post.excerpt | strip_html }}<br>
-        {%- endif -%}
-        {%- endif -%}
-        {% include read-more.html currPost=post %}</p>
-      </element>
-      <element class="post-meta">{{ post.date | date: date_format }}</element>
+      <div class="pager-edge">•</div>
     </li>
-    {%- endfor -%}
+    {%- endif %}
+    <li>
+      <div class="current-page">{{ paginator.page }}</div>
+    </li>
+    {%- if paginator.next_page %}
+    <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
+    {%- else %}
+    <li>
+      <div class="pager-edge">•</div>
+    </li>
+    {%- endif %}
   </ul>
-  
-  {%- endif -%}
-
-  {% if site.paginate %}
-  <div class="pager">
-    <ul class="pagination">
-      {%- if paginator.previous_page %}
-      <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page
-          }}</a></li>
-      {%- else %}
-      <li>
-        <div class="pager-edge">•</div>
-      </li>
-      {%- endif %}
-      <li>
-        <div class="current-page">{{ paginator.page }}</div>
-      </li>
-      {%- if paginator.next_page %}
-      <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-      {%- else %}
-      <li>
-        <div class="pager-edge">•</div>
-      </li>
-      {%- endif %}
-    </ul>
-  </div>
-  {%- endif %}
+</div>
+{%- endif %}
 
 </div>
