@@ -22,22 +22,34 @@ layout: default
   {% include embedded-player.html currPost=page %}
   {%- endif -%} {%- endif -%}
   <div class="post-content e-content" itemprop="articleBody">
+    {% if page.timecodes %}
+    <h2>Topics en timecodes</h2>
+    <ul>
+      {% for tc in page.timecodes %}
+      <li>{{ tc[1] }} <a onclick='soundcloudSeekTo("{{ tc[0] }}")'>{{ tc[0] }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+
+    {{ content }}
+
     {% if page.deze_aflevering %}
     <h2>Deze aflevering</h2>
     <ul>{% if page.tim_aanwezig %}
-    {% if page.aanwezigen %}
-    <li>Aanwezig: {{ site.author }},{{ page.aanwezigen }}</li>
-    {% else %}
-    <li>Aanwezig: {{ site.author }}</li>
-    {%- endif -%}{% else %} {% if page.aanwezigen %}
-    <li>Aanwezig: {{ page.aanwezigen }}</li>
-    {%- endif -%}{%- endif -%}
-    <li>Opgenomen op: {{ page.opgenomen_op }} {{ page.opgenomen_waar }}</li>
-    <li>Tips / feedback / correcties?: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-    <li>Kom eens kijken / meechatten in de <a href="{% link discord.markdown %}">Discord</a></li></ul>
+      {% if page.aanwezigen %}
+      <li>Aanwezig: {{ site.author }},{{ page.aanwezigen }}</li>
+      {% else %}
+      <li>Aanwezig: {{ site.author }}</li>
+      {%- endif -%}{% else %} {% if page.aanwezigen %}
+      <li>Aanwezig: {{ page.aanwezigen }}</li>
+      {%- endif -%}{%- endif -%}
+      <li>Opgenomen op: {{ page.opgenomen_op }} {{ page.opgenomen_waar }}</li>
+      <li>Tips / feedback / correcties?: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+      <li>Kom eens kijken / meechatten in de <a href="{% link discord.markdown %}">Discord</a></li>
+    </ul>
     {%- endif -%}
-    {{ content }}
   </div>
+
   <p class="post-meta">
     {%- if page.author -%}
     <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
