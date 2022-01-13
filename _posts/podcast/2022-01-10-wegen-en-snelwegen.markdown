@@ -36,7 +36,7 @@ Een aflevering over mobiliteit, over wegen deze keer. U weet wel, die repen asfa
 - De auto, een nieuw tijdperk in de mobiliteit. [17:28]({{ page.postsoundcoud_url }}#t=00:17:28){:target="_blank"}
 
 ## Shownotes
-- De beste online bron voor alles wat u weten wilt over de geschiedenis van wegen en snelwegen in België: [wegen-routes.be](http://wegen-routes.be/homen.html) Dit is een ietwat verouderde website gebaseerd op het historisch onderzoek van Rien van de Wall, een uitstekende bron over de algemene geschiedenis van wegen en snelwegen, maar evengoed specifieke dossiers. Heel uitgebreid en degelijk materiaal. Een absolute aanrader
+- De beste online bron voor alles wat u weten wilt over de geschiedenis van wegen en snelwegen in België: [wegen-routes.be](http://wegen-routes.be/homen.html){:target="_blank"} Dit is een ietwat verouderde website gebaseerd op het historisch onderzoek van Rien van de Wall, een uitstekende bron over de algemene geschiedenis van wegen en snelwegen, maar evengoed specifieke dossiers. Heel uitgebreid en degelijk materiaal. Een absolute aanrader
 - Het specifieke verhaal van enkele snelwegen op andere websites:
   - [E17 op viadukaduk.be](https://viadukaduk.be/geschiedenis/){:target="_blank"}
   - [E40 op vrt.be](https://www.vrt.be/vrtnws/nl/2020/12/12/het-land-met-de-meeste-kilometers-autosnelweg-en-het-begon-alle/){:target="_blank"}
