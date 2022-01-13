@@ -14,6 +14,9 @@
     color: #1A2132;
 }
 
+a {
+    cursor: pointer;
+}
 
 main h1, main h2 {
     font-family: 'Inconsolata', 'Courier New', Courier, monospace;
@@ -29,8 +32,9 @@ main h1 {
     font-size: 42px;
 }
 
-main h2 {
+.post-content h2, main h2 {
     margin-top: 40px;
+    font-size: 28px;
 }
 
 .post-title {
