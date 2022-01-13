@@ -19,10 +19,10 @@ De podcast komt wekelijks online op de Soundcloud-pagina van Tim Gistelinck en k
  {%- if social.spotify -%}<li><a href="https://open.spotify.com/show/{{ social.spotify | cgi_escape | escape }}"
       title="Spotify"><img class="svg-icon grey" src="{{ '/assets/spotify.svg' | relative_url }}"
         onload="SVGInject(this)"></a><a href="https://open.spotify.com/show/{{ social.spotify | cgi_escape | escape }}">Spotify</a></li>{%- endif -%}
-  {%- if social.youtube_channel -%}<li><a rel="me"
+  <!-- {%- if social.youtube_channel -%}<li><a rel="me"
       href="https://www.youtube.com/channel/{{ social.youtube_channel | cgi_escape | escape }}" title="YouTube"><img
         class="svg-icon grey" src="{{ '/assets/youtube-square.svg' | relative_url }}" onload="SVGInject(this)"></a><a href="https://www.youtube.com/channel/{{ social.youtube_channel | cgi_escape | escape }}">Youtube (geen podcasts)</a></li>
-  {%- endif -%}
+  {%- endif -%} -->
 </ul></div>
 
 
