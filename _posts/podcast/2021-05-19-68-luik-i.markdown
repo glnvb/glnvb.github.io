@@ -1,0 +1,16 @@
+---
+layout: post
+title: "68. Luik I"
+artwork: https://i1.sndcdn.com/artworks-5HvDw0PSoiUVNLIS-ciupew-large.jpg
+author: Tim
+date: 2021-05-19 18:21:25 +0200
+categories: podcast
+tag: ["België"]
+postsoundcoud_url: https://soundcloud.com/tim-gistelinck/luik-i
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/luik-i
+excerpt_separator: <!--more-->
+description: "Welkom bij geschiedenis van België en welkom bij deze aflevering over Luik."
+---
+Welkom bij geschiedenis van België en welkom bij deze aflevering over Luik. Eindelijk. Want Luik is een enigma dat ik al een hele tijd toelichten moet. Want in elke aflevering die zich afspeelde voor de Franse annexatie in 1794 zat wel één of andere versie van volgende zin: In de zuidelijke Nederlanden, behalve in het prinsbisdom Luik. Waarom dat prinsbisdom de eeuwige uitzondering was heb ik nog nooit kunnen uitleggen. Tot vandaag. Vandaag ga ik het eindelijk hebben over bisschoppen, Limburg, Bourgondië, de oorlog van de koe en hoe een gruwelijke moord tot het ontstaan van een stad leiden kan. Dat en meer in deze aflevering van Geschiedenis van België.

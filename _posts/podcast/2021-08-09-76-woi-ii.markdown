@@ -1,0 +1,16 @@
+---
+layout: post
+title: "76. WOI II"
+artwork: https://i1.sndcdn.com/artworks-0EJV7z8EoMXARasa-Vcqpyw-large.jpg
+author: Tim
+date: 2021-08-09 13:21:34 +0200
+categories: podcast
+tag: ["België", "WOI"]
+postsoundcoud_url: https://soundcloud.com/tim-gistelinck/woi-ii
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/woi-ii
+excerpt_separator: <!--more-->
+description: "Welkom bij geschiedenis van België en welkom bij deze tweede aflevering over de eerste wereldoorlog."
+---
+Welkom bij geschiedenis van België en welkom bij deze tweede aflevering over de eerste wereldoorlog. Vanuit Belgisch perspectief weliswaar. Vandaag trekken we definitief ten oorlog. Al moet ik daarvoor eerst natuurlijk de vele oorzaken van de eerste wereldoorlog verklaren. Verwacht u dus aan een moord, een heleboel diplomatie, een vodje papier en een korte politieke geschiedenis van de Balkan. Dat en nog veel meer in deze aflevering van Geschiedenis van België

@@ -1,0 +1,21 @@
+---
+layout: post
+title: "52. A - Z Zwin"
+artwork: https://i1.sndcdn.com/artworks-5rGCW4iKR2JCcXYI-oWg3gQ-large.jpg
+author: Tim
+date: 2021-01-26 22:07:20 +0100
+categories: podcast
+tag: ["België"]
+postsoundcoud_url: https://soundcloud.com/tim-gistelinck/a-z-zwin
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/a-z-zwin
+excerpt_separator: <!--more-->
+description: "Welkom bij Geschiedenis van België."
+---
+Welkom bij Geschiedenis van België. En welkom bij de letter Z. Z voor zwin. U weet wel, het natuurgebied. Wat dat te maken heeft met geschiedenis? Veel. Want een geschiedenis van het zwin is evengoed een geschiedenis van klimaatverandering, overstromingen, dammen, de steden Damme, Sluis en jawel, Brugge. Want het geloof het of niet maar het Zwin zou wel eens de reden kunnen zijn voor het ontstaan van dat prachtige middeleeuwse stadscentrum van Brugge. Of hoe een moeras, een overstroming en wat West-Vlaamse vindingrijkheid zou leiden tot een waar handelsimperium. En haar uiteindelijke, onvermijdelijke ondergang. Dat en meer in deze laatste aflevering van België van A tot Z.
+Facebook: [https://www.facebook.com/Geschiedenisvan](https://www.facebook.com/Geschiedenisvan)
+
+Bronnen:
+Over de geologische geschiedenis van het Zwin: [https://www.sincfala.be/virtueel-bezoek-sp-17924/bezoekerscentrum/landschap](https://www.sincfala.be/virtueel-bezoek-sp-17924/bezoekerscentrum/landschap)
+Over inpoldering: [https://www.sincfala.be/virtueel-bezoek-sp-17924/bezoekerscentrum/inpoldering](https://www.sincfala.be/virtueel-bezoek-sp-17924/bezoekerscentrum/inpoldering)

@@ -1,0 +1,19 @@
+---
+layout: post
+title: "56. Gent II"
+artwork: https://i1.sndcdn.com/artworks-AwITPVj4scwSGomI-3ReMyA-large.jpg
+author: Tim
+date: 2021-03-02 18:36:56 +0100
+categories: podcast
+tag: ["Gent", "België"]
+postsoundcoud_url: https://soundcloud.com/tim-gistelinck/gent-ii
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/gent-ii
+excerpt_separator: <!--more-->
+description: "Welkom bij geschiedenis van België en welkom bij de tweede aflevering over Gent, de Arteveldestad."
+---
+Welkom bij geschiedenis van België en welkom bij de tweede aflevering over Gent, de Arteveldestad. ver die Artevelde gaan we het vandaag hebben. En over veel meer. Deze week komt de rebelse kant van Gent volop aan bod. Te beginnen met Jacob van Artevelde helemaal tot de u waarschijnlijk onbekende “Grote Gentse oorlog” waar gent een zestal jaar het graafschap Vlaanderen overnam. Verwacht u alvast aan een opeenvolging van opstanden, het middeleeuwse equivalent van AA Gent-Club Brugge en het verschijnen van de eerste Bourgondiërs. Dat en meer in deze aflevering van “Geschiedenis van België”
+
+[https://www.facebook.com/Geschiedenisvan](https://www.facebook.com/Geschiedenisvan)
+geschiedenisvan@outlook.be

@@ -1,0 +1,20 @@
+---
+layout: post
+title: "49. A - Z Wat Als ..."
+artwork: https://i1.sndcdn.com/artworks-Nx0LvIzNQyNbUj3E-feWwjA-large.jpg
+author: Tim
+date: 2021-01-06 10:47:43 +0100
+categories: podcast
+tag: ["Nederland", "België"]
+postsoundcoud_url: https://soundcloud.com/tim-gistelinck/a-z-wat-als
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/a-z-wat-als
+excerpt_separator: <!--more-->
+description: "Welkom bij België van A tot Z en welkom bij de letter x."
+---
+Welkom bij België van A tot Z en welkom bij de letter x. Technisch gezien toch. In de praktijk heb ik het onderwerp voor deze redelijk onmogelijke letter laten afhangen van u, mijn luisterende publiek. U mocht kiezen tussen een zevental gesuggereerde opties en koos uiteindelijk voor een stukje hypothetische geschiedenis. Met andere woorden de vraag: Wat als België en Nederland in 1830 bij elkaar gebleven waren? En die vraag ga ik vandaag beantwoorden. Of ik ga het in elk geval proberen. In deze aflevering doorlopen we dus de Europese geschiedenis van 1830 tot WOII maar dan zonder een onafhankelijk België. We hebben het bijgevolg over Waals Nationalisme, een industriële grootmacht, taalwetten en een on gekoloniseerd Congo. Dat en meer in deze aflevering van “Geschiedenis van België”.
+
+Debatten over de vraag: [https://deburen.eu/over-ons/ons-archief/een-gemiste-kans](https://deburen.eu/over-ons/ons-archief/een-gemiste-kans)
+Het land dat nooit was: [https://www.boek.be/boek/9789460423000](https://www.boek.be/boek/9789460423000)
+Facebookgroep: [https://www.facebook.com/Geschiedenisvan](https://www.facebook.com/Geschiedenisvan)

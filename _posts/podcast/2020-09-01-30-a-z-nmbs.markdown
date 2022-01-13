@@ -1,0 +1,16 @@
+---
+layout: post
+title: "30. A - Z NMBS"
+artwork: https://i1.sndcdn.com/artworks-HvVH882KDluNp2qG-fKBcRA-large.jpg
+author: Tim
+date: 2020-09-01 21:30:50 +0200
+categories: podcast
+tag: ["België"]
+postsoundcoud_url: https://soundcloud.com/tim-gistelinck/a-z-nmbs
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/a-z-nmbs
+excerpt_separator: <!--more-->
+description: "Welkom bij Geschiedenis van België."
+---
+Welkom bij Geschiedenis van België. En welkom bij de letter N. N voor NMBS. En toegegeven, dat heb ik redelijk breed geïnterpreteerd. In de praktijk gaat deze aflevering niet enkel over de NMBS maar ook over de geschiedenis van de Belgische spoorwegen. Maar evengoed over gekke uitvinders, het ontstaan van het kusttoerisme, het verdrag van Versailles, het concept tijd en de strijd tussen stoom en elektriciteit. Dat en meer in deze aflevering van Geschiedenis van België.

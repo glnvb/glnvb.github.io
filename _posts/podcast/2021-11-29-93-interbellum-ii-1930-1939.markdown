@@ -1,0 +1,17 @@
+---
+layout: post
+title: "93. Interbellum II 1930-1939"
+artwork: https://i1.sndcdn.com/artworks-vQZ1xoQUDmS2vofo-k6kWPQ-large.jpg
+author: Tim
+date: 2021-11-29 20:15:43 +0100
+categories: podcast
+tag: ["België", "Interbellum"]
+postsoundcoud_url: https://soundcloud.com/tim-gistelinck/interbellum-ii-1930-1939
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/interbellum-ii-1930-1939
+excerpt_separator: <!--more-->
+description: "Welkom bij Geschiedenis van België en welkom bij deze tweede aflevering over het Interbellum."
+---
+Welkom bij Geschiedenis van België en welkom bij deze tweede aflevering over het Interbellum. Over de tweede helft van het Interbellum eigenlijk en ja die is even, zo niet verwarrender dan de eerste helft. Er gebeurt zoveel tegelijkertijd dat het moeilijk is om door het bos de bomen te zien. Al is het eindpunt wel duidelijk Wereldoorlog II. Vandaag zetten we de laatste stappen naar die oorlog en hebben we het over de Grote depressie, veel te veel regeringen, verkiezingen, Vlaams-nationalisten, fascisten, sociale hervormingen en een financiële crisis van formaat. Dat en nog veel meer in deze aflevering van Geschiedenis van België.
+Afbeelding: Mars Verdinaso
