@@ -3,7 +3,7 @@ layout: page
 title: zoeken
 icon: /data/search.svg
 ---
-u kan zoeken met de joker: *, de zoekmotor zoekt in de titel, beschrijving en de tags van de posts en artikels.
+U kan zoeken met de joker: *, de zoekmotor zoekt in de titel, beschrijving en de tags van de posts en artikels.
 
 <input type="text" id="search-box" name="query" autofocus autocomplete="off">
 
