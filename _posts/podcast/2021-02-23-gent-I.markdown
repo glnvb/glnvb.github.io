@@ -4,7 +4,7 @@ title: "Gent I"
 author: Tim
 date: 2021-02-23 8:42:11 +0100
 categories: podcast
-tag: ["steden","Gent"]
+tag: ["steden"]
 postsoundcoud_url: https://soundcloud.com/tim-gistelinck/gent-i
 embed_player:
   type: soundcloud

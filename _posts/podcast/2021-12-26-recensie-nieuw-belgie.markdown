@@ -4,7 +4,7 @@ title: "Extra: Recensie 'Nieuw België'"
 author: Tim
 date: 2021-12-26 8:42:11 +0100
 categories: podcast
-tags: ["recensie","migratie"]
+tags: ["recensie"]
 postsoundcoud_url: https://soundcloud.com/tim-gistelinck/extra-recensie-nieuw-belgie
 embed_player:
   type: soundcloud

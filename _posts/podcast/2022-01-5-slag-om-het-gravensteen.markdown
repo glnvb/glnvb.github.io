@@ -4,7 +4,7 @@ title: "Slag om het Gravensteen"
 author: Tim
 date: 2022-01-05 8:42:11 +0100
 categories: podcast
-tags: ["steden","Gent"]
+tags: ["steden"]
 postsoundcoud_url: https://soundcloud.com/tim-gistelinck/slag-om-het-gravensteen
 embed_player:
   type: soundcloud
