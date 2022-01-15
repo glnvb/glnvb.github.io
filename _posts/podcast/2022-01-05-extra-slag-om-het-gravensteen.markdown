@@ -5,7 +5,7 @@ artwork: https://i1.sndcdn.com/artworks-LnYb0ryWRUgHBxzE-LYXL6A-large.jpg
 author: Tim
 date: 2022-01-05 07:00:02 +0100
 categories: podcast
-tag: ["steden","Gent"]
+tag: ["steden"]
 postsoundcoud_url: https://soundcloud.com/tim-gistelinck/slag-om-het-gravensteen
 embed_player:
   type: soundcloud

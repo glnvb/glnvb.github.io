@@ -5,7 +5,7 @@ artwork: https://i1.sndcdn.com/artworks-tzmi0lizqzBQ3gMS-pAClag-large.jpg
 author: Tim
 date: 2021-12-20 07:00:26 +0100
 categories: podcast
-tag: ["geschiedenis nu","Eerste Wereldoorlog"]
+tag: ["geschiedenis nu","oorlog"]
 postsoundcoud_url: https://soundcloud.com/tim-gistelinck/geschiedenis-nu-kerst-aan-het-front-en-wit-rusland
 embed_player:
   type: soundcloud
