@@ -1,0 +1,42 @@
+{% assign post = include.post %}
+{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+
+<a class="post-preview" href="{{ post.url | relative_url }}">
+    {% if post.number %}
+    <div class="number">#{{ post.number }}</div>
+    {% endif %}
+    <div class="artwork" style="background-image: url({{ post.artwork }});">
+        <div class="content">
+            <div class="title">
+                <h3>{{ post.title }}</h3>
+            </div>
+            <div class="description">
+                <p>{{ post.description }}</p>
+                <element class="post-meta">{{ post.date | date: date_format }}</element>
+            </div>
+        </div>
+    </div>
+</a>
+<!-- 
+<li>
+    <h3>
+        {% if post.external_url %}
+        <a class="post-link" href="{{ post.external_url }}" target="_blank">
+            {% else %}
+            <a class="post-link" href="{{ post.url | relative_url }}">
+                {% endif %}
+                {{ post.title | escape }}
+            </a>
+    </h3>
+    <p>
+        {%- if site.show_excerpts -%}
+        {%- if post.description -%}
+        {{ post.description | strip_html }}<br>
+        {% else %}
+        {{ post.excerpt | strip_html }}<br>
+        {%- endif -%}
+        {%- endif -%}
+        {% include read-more.html currPost=post %}
+    </p>
+    <element class="post-meta">{{ post.date | date: date_format }}</element>
+</li> -->

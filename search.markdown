@@ -3,11 +3,15 @@ layout: page
 title: zoeken
 icon: /data/search.svg
 ---
-U kan zoeken met de joker: *, de zoekmotor zoekt in de titel, beschrijving en de tags van de posts en artikels.
 
 <input type="text" id="search-box" name="query" autofocus autocomplete="off">
 
 <ul id="search-results" class="post-list"></ul>
+
+<p class="post-meta">
+Tip: gebruik * als jokerteken.</p>
+<p class="post-meta">De zoekmotor zoekt in de titel, nummer, beschrijving en de labels van de posts en artikels.
+</p>
 
 <script>
   window.store = {
