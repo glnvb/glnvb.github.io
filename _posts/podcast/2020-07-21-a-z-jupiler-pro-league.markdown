@@ -2,7 +2,7 @@
 layout: post
 title: "A-Z Jupiler Pro league"
 number: 24
-artwork: https://i1.sndcdn.com/artworks-x8jYDfzxr5wYOiaV-zXZ2aA-large.jpg
+artwork: https://i1.sndcdn.com/artworks-x8jYDfzxr5wYOiaV-zXZ2aA-t500x500.jpg
 author: Tim
 date: 2020-07-21 16:15:13 +0200
 categories: podcast

@@ -2,7 +2,7 @@
 layout: post
 title: "A - Z Schoolstrijd III"
 number: 36
-artwork: https://i1.sndcdn.com/artworks-RRSjDcdCz7nzGFvz-dRsH7A-large.jpg
+artwork: https://i1.sndcdn.com/artworks-RRSjDcdCz7nzGFvz-dRsH7A-t500x500.jpg
 author: Tim
 date: 2020-10-13 20:16:34 +0200
 categories: podcast

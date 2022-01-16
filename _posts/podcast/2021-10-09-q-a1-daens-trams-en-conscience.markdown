@@ -2,7 +2,7 @@
 layout: post
 title: "Q&A1. Daens, Trams En Conscience"
 number: null
-artwork: https://i1.sndcdn.com/artworks-jkyKtj7SrUz7Ab8h-c1Zd5g-large.jpg
+artwork: https://i1.sndcdn.com/artworks-jkyKtj7SrUz7Ab8h-c1Zd5g-t500x500.jpg
 author: Tim
 date: 2021-10-09 18:04:17 +0200
 categories: podcast

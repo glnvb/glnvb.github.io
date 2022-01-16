@@ -2,7 +2,7 @@
 layout: post
 title: "A - Z Oostenrijkse Nederlanden I"
 number: 31
-artwork: https://i1.sndcdn.com/artworks-OOyuGRwLzzNL46Wm-Zdv9HA-large.jpg
+artwork: https://i1.sndcdn.com/artworks-OOyuGRwLzzNL46Wm-Zdv9HA-t500x500.jpg
 author: Tim
 date: 2020-09-08 16:34:43 +0200
 categories: podcast

@@ -2,7 +2,7 @@
 layout: post
 title: "Heksenjacht"
 number: 82
-artwork: https://i1.sndcdn.com/artworks-hamvjyCeJxgPB9No-cgXg8Q-large.jpg
+artwork: https://i1.sndcdn.com/artworks-hamvjyCeJxgPB9No-cgXg8Q-t500x500.jpg
 author: Tim
 date: 2021-09-13 19:51:41 +0200
 categories: podcast

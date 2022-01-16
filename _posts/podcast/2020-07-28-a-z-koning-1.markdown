@@ -2,7 +2,7 @@
 layout: post
 title: "A-Z Koning 1"
 number: 25
-artwork: https://i1.sndcdn.com/artworks-TmwOKyXqGxoRLtpx-ghvmxA-large.jpg
+artwork: https://i1.sndcdn.com/artworks-TmwOKyXqGxoRLtpx-ghvmxA-t500x500.jpg
 author: Tim
 date: 2020-07-28 17:03:46 +0200
 categories: podcast

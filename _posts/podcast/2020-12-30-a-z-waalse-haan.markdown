@@ -2,7 +2,7 @@
 layout: post
 title: "A - Z Waalse Haan"
 number: 48
-artwork: https://i1.sndcdn.com/artworks-TZqxZgkqA2DF4VHc-JqWX5g-large.jpg
+artwork: https://i1.sndcdn.com/artworks-TZqxZgkqA2DF4VHc-JqWX5g-t500x500.jpg
 author: Tim
 date: 2020-12-30 12:20:02 +0100
 categories: podcast

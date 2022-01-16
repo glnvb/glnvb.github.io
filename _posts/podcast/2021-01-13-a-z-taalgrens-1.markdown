@@ -2,7 +2,7 @@
 layout: post
 title: "A - Z Taalgrens 1"
 number: 50
-artwork: https://i1.sndcdn.com/artworks-zU7uux2jXRXajyzb-lr9ANw-large.jpg
+artwork: https://i1.sndcdn.com/artworks-zU7uux2jXRXajyzb-lr9ANw-t500x500.jpg
 author: Tim
 date: 2021-01-13 20:01:50 +0100
 categories: podcast

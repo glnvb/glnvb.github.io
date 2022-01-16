@@ -2,7 +2,7 @@
 layout: post
 title: "Steden. Een Inleiding"
 number: 53
-artwork: https://i1.sndcdn.com/artworks-gYyJxxB0ovmfGpfz-gknhSw-large.jpg
+artwork: https://i1.sndcdn.com/artworks-gYyJxxB0ovmfGpfz-gknhSw-t500x500.jpg
 author: Tim
 date: 2021-02-09 16:41:58 +0100
 categories: podcast

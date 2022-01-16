@@ -2,7 +2,7 @@
 layout: post
 title: "Pourquoi La Belgique 1"
 number: null
-artwork: https://i1.sndcdn.com/artworks-XVB4VJTJqHqth6GT-AwRkRw-large.jpg
+artwork: https://i1.sndcdn.com/artworks-XVB4VJTJqHqth6GT-AwRkRw-t500x500.jpg
 author: Tim
 date: 2021-02-03 19:38:40 +0100
 categories: podcast

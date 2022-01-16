@@ -2,7 +2,7 @@
 layout: post
 title: "Molenbeek en co"
 number: 74
-artwork: https://i1.sndcdn.com/artworks-jLGpyT6WmzT0yNMm-zEGmHg-large.jpg
+artwork: https://i1.sndcdn.com/artworks-jLGpyT6WmzT0yNMm-zEGmHg-t500x500.jpg
 author: Tim
 date: 2021-07-03 23:13:40 +0200
 categories: podcast

@@ -2,7 +2,7 @@
 layout: post
 title: "België van A tot Z: Italianen"
 number: 23
-artwork: https://i1.sndcdn.com/artworks-8IgodeBoNuYNTTQq-M8o8OQ-large.jpg
+artwork: https://i1.sndcdn.com/artworks-8IgodeBoNuYNTTQq-M8o8OQ-t500x500.jpg
 author: Tim
 date: 2020-07-16 11:40:44 +0200
 categories: podcast

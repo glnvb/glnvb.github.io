@@ -2,7 +2,7 @@
 layout: post
 title: "In de kijker: De Beeldenstorm en cultuurgeschiedenis met Anne-Laure Van Bruaene"
 number: 83
-artwork: https://i1.sndcdn.com/artworks-zBEzrJCHKB4eJedS-lJoJ6Q-large.jpg
+artwork: https://i1.sndcdn.com/artworks-zBEzrJCHKB4eJedS-lJoJ6Q-t500x500.jpg
 author: Tim
 date: 2021-09-17 08:30:06 +0200
 categories: podcast

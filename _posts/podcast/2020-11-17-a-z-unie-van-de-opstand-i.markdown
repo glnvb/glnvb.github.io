@@ -2,7 +2,7 @@
 layout: post
 title: "A - Z Unie Van ... (De Opstand) I"
 number: 41
-artwork: https://i1.sndcdn.com/artworks-ACzPhq7ORpSYKEyK-c6U82Q-large.jpg
+artwork: https://i1.sndcdn.com/artworks-ACzPhq7ORpSYKEyK-c6U82Q-t500x500.jpg
 author: Tim
 date: 2020-11-17 18:29:49 +0100
 categories: podcast

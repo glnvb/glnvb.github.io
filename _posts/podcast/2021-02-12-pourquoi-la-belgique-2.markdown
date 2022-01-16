@@ -2,7 +2,7 @@
 layout: post
 title: "Pourquoi La Belgique 2"
 number: null
-artwork: https://i1.sndcdn.com/artworks-E3gXlreNEngq4x7G-BLAwWQ-large.jpg
+artwork: https://i1.sndcdn.com/artworks-E3gXlreNEngq4x7G-BLAwWQ-t500x500.jpg
 author: Tim
 date: 2021-02-12 15:10:59 +0100
 categories: podcast

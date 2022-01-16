@@ -2,7 +2,7 @@
 layout: post
 title: "In de kijker: De Guldensporenslag na de feiten met Véronique Lambert"
 number: 77
-artwork: https://i1.sndcdn.com/artworks-yNtHzkbFlrm8W7wF-aabCug-large.jpg
+artwork: https://i1.sndcdn.com/artworks-yNtHzkbFlrm8W7wF-aabCug-t500x500.jpg
 author: Tim
 date: 2021-08-16 15:56:48 +0200
 categories: podcast

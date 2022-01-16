@@ -2,7 +2,7 @@
 layout: post
 title: "Wafels"
 number: 70
-artwork: https://i1.sndcdn.com/artworks-8i4z30mlRIjZf209-h7Csiw-large.jpg
+artwork: https://i1.sndcdn.com/artworks-8i4z30mlRIjZf209-h7Csiw-t500x500.jpg
 author: Tim
 date: 2021-06-02 22:09:52 +0200
 categories: podcast

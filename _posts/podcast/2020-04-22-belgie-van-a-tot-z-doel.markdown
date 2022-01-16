@@ -2,7 +2,7 @@
 layout: post
 title: "België van A tot Z: Doel"
 number: 14
-artwork: https://i1.sndcdn.com/artworks-vmANWkqwDdGBs1zN-fHoNcg-large.jpg
+artwork: https://i1.sndcdn.com/artworks-vmANWkqwDdGBs1zN-fHoNcg-t500x500.jpg
 author: Tim
 date: 2020-04-22 09:46:33 +0200
 categories: podcast

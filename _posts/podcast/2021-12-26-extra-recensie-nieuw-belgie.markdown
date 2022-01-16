@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extra: Recensie 'Nieuw België'"
-artwork: https://i1.sndcdn.com/artworks-CBldgtVAvZWtsIv3-Igyugg-large.jpg
+artwork: https://i1.sndcdn.com/artworks-CBldgtVAvZWtsIv3-Igyugg-t500x500.jpg
 author: Tim
 date: 2021-12-26 09:00:16 +0100
 categories: podcast

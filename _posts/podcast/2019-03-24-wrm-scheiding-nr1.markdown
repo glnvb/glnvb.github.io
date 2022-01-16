@@ -2,7 +2,7 @@
 layout: post
 title: "WRM Scheiding Nr1"
 number: 4
-artwork: https://i1.sndcdn.com/artworks-000620119597-1l5ou6-large.jpg
+artwork: https://i1.sndcdn.com/artworks-000620119597-1l5ou6-t500x500.jpg
 author: Tim
 date: 2019-03-24 14:48:16 +0100
 categories: podcast

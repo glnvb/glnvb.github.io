@@ -2,7 +2,7 @@
 layout: post
 title: "Studenten en Universiteiten 1"
 number: 85
-artwork: https://i1.sndcdn.com/artworks-9GWUcEHYoQRulrVY-PTjKUA-large.jpg
+artwork: https://i1.sndcdn.com/artworks-9GWUcEHYoQRulrVY-PTjKUA-t500x500.jpg
 author: Tim
 date: 2021-09-27 18:22:36 +0200
 categories: podcast

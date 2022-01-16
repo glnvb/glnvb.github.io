@@ -2,7 +2,7 @@
 layout: post
 title: "Versailles en Loppem"
 number: 90
-artwork: https://i1.sndcdn.com/artworks-NlkmQvNRF5jLtrQZ-8bxyFg-large.jpg
+artwork: https://i1.sndcdn.com/artworks-NlkmQvNRF5jLtrQZ-8bxyFg-t500x500.jpg
 author: Tim
 date: 2021-11-02 19:11:39 +0100
 categories: podcast

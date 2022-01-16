@@ -2,7 +2,7 @@
 layout: post
 title: "Luik I"
 number: 68
-artwork: https://i1.sndcdn.com/artworks-5HvDw0PSoiUVNLIS-ciupew-large.jpg
+artwork: https://i1.sndcdn.com/artworks-5HvDw0PSoiUVNLIS-ciupew-t500x500.jpg
 author: Tim
 date: 2021-05-19 18:21:25 +0200
 categories: podcast

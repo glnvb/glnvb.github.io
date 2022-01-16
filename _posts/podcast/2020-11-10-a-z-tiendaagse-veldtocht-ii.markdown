@@ -2,7 +2,7 @@
 layout: post
 title: "A - Z Tiendaagse Veldtocht II"
 number: 40
-artwork: https://i1.sndcdn.com/artworks-7gVnNHbLNqrpEdNK-V5rbOQ-large.jpg
+artwork: https://i1.sndcdn.com/artworks-7gVnNHbLNqrpEdNK-V5rbOQ-t500x500.jpg
 author: Tim
 date: 2020-11-10 16:14:51 +0100
 categories: podcast

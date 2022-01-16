@@ -2,7 +2,7 @@
 layout: post
 title: "Interbellum II 1930-1939"
 number: 93
-artwork: https://i1.sndcdn.com/artworks-vQZ1xoQUDmS2vofo-k6kWPQ-large.jpg
+artwork: https://i1.sndcdn.com/artworks-vQZ1xoQUDmS2vofo-k6kWPQ-t500x500.jpg
 author: Tim
 date: 2021-11-29 20:15:43 +0100
 categories: podcast

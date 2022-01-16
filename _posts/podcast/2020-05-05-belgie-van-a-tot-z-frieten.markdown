@@ -2,7 +2,7 @@
 layout: post
 title: "België van A tot Z: Frieten"
 number: 16
-artwork: https://i1.sndcdn.com/artworks-nefRhjNGf8uhXK9n-knhtNQ-large.jpg
+artwork: https://i1.sndcdn.com/artworks-nefRhjNGf8uhXK9n-knhtNQ-t500x500.jpg
 author: Tim
 date: 2020-05-05 22:26:56 +0200
 categories: podcast

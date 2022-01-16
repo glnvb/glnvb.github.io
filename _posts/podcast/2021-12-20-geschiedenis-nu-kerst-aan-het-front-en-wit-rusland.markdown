@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kerst aan het front en Wit-Rusland"
-artwork: https://i1.sndcdn.com/artworks-tzmi0lizqzBQ3gMS-pAClag-large.jpg
+artwork: https://i1.sndcdn.com/artworks-tzmi0lizqzBQ3gMS-pAClag-t500x500.jpg
 author: Tim
 date: 2021-12-20 07:00:26 +0100
 categories: podcast

@@ -2,7 +2,7 @@
 layout: post
 title: "Kolonies (alles Behalve Kongo)"
 number: 59
-artwork: https://i1.sndcdn.com/artworks-btyxJgbWFpQ2XBoi-KMfy4Q-large.jpg
+artwork: https://i1.sndcdn.com/artworks-btyxJgbWFpQ2XBoi-KMfy4Q-t500x500.jpg
 author: Tim
 date: 2021-03-24 21:24:03 +0100
 categories: podcast

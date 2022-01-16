@@ -2,7 +2,7 @@
 layout: post
 title: "A - Z Zwin"
 number: 52
-artwork: https://i1.sndcdn.com/artworks-5rGCW4iKR2JCcXYI-oWg3gQ-large.jpg
+artwork: https://i1.sndcdn.com/artworks-5rGCW4iKR2JCcXYI-oWg3gQ-t500x500.jpg
 author: Tim
 date: 2021-01-26 22:07:20 +0100
 categories: podcast

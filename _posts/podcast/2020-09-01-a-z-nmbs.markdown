@@ -2,7 +2,7 @@
 layout: post
 title: "A - Z NMBS"
 number: 30
-artwork: https://i1.sndcdn.com/artworks-HvVH882KDluNp2qG-fKBcRA-large.jpg
+artwork: https://i1.sndcdn.com/artworks-HvVH882KDluNp2qG-fKBcRA-t500x500.jpg
 author: Tim
 date: 2020-09-01 21:30:50 +0200
 categories: podcast

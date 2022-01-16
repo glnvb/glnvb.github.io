@@ -2,7 +2,7 @@
 layout: post
 title: "België van A tot Z: Baarle-Hertog"
 number: 12
-artwork: https://i1.sndcdn.com/artworks-0zIrS8eCyNFEvXMK-VJVy6Q-large.jpg
+artwork: https://i1.sndcdn.com/artworks-0zIrS8eCyNFEvXMK-VJVy6Q-t500x500.jpg
 author: Tim
 date: 2020-04-08 08:38:05 +0200
 categories: podcast

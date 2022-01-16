@@ -2,7 +2,7 @@
 layout: post
 title: "WRM Van Janboel Tot Eenmaking"
 number: 2
-artwork: https://i1.sndcdn.com/artworks-JyeZ8F2MRz5sOJDy-yYQ58A-large.jpg
+artwork: https://i1.sndcdn.com/artworks-JyeZ8F2MRz5sOJDy-yYQ58A-t500x500.jpg
 author: Tim
 date: 2019-03-10 16:59:53 +0100
 categories: podcast

@@ -2,7 +2,7 @@
 layout: post
 title: "Historische Romans"
 number: 71
-artwork: https://i1.sndcdn.com/artworks-DWroOa4ZbCTHKSPp-jXAp8Q-large.jpg
+artwork: https://i1.sndcdn.com/artworks-DWroOa4ZbCTHKSPp-jXAp8Q-t500x500.jpg
 author: Tim
 date: 2021-06-09 20:35:34 +0200
 categories: podcast

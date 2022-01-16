@@ -2,7 +2,7 @@
 layout: post
 title: "België van A tot Z: Expo 58"
 number: 15
-artwork: https://i1.sndcdn.com/artworks-JOJWiO6cE3QxdUOQ-0FGf3w-large.jpg
+artwork: https://i1.sndcdn.com/artworks-JOJWiO6cE3QxdUOQ-0FGf3w-t500x500.jpg
 author: Tim
 date: 2020-04-28 23:36:05 +0200
 categories: podcast

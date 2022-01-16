@@ -2,7 +2,7 @@
 layout: post
 title: "WOI Extra: Etappeleven te Gent."
 number: 81
-artwork: https://i1.sndcdn.com/artworks-LX4PcidKHXygh0Tu-dZI8eA-large.jpg
+artwork: https://i1.sndcdn.com/artworks-LX4PcidKHXygh0Tu-dZI8eA-t500x500.jpg
 author: Tim
 date: 2021-09-10 07:30:07 +0200
 categories: podcast

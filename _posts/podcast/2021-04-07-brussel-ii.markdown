@@ -2,7 +2,7 @@
 layout: post
 title: "Brussel II"
 number: 61
-artwork: https://i1.sndcdn.com/artworks-XalHBdVdv9ue8vYB-8s9Dww-large.jpg
+artwork: https://i1.sndcdn.com/artworks-XalHBdVdv9ue8vYB-8s9Dww-t500x500.jpg
 author: Tim
 date: 2021-04-07 10:19:17 +0200
 categories: podcast

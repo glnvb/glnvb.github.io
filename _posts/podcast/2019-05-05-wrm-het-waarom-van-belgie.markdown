@@ -2,7 +2,7 @@
 layout: post
 title: "WRM Het waarom van België"
 number: 10
-artwork: https://i1.sndcdn.com/artworks-000530343717-0o66db-large.jpg
+artwork: https://i1.sndcdn.com/artworks-000530343717-0o66db-t500x500.jpg
 author: Tim
 date: 2019-05-05 21:22:05 +0200
 categories: podcast

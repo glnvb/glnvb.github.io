@@ -2,7 +2,7 @@
 layout: post
 title: "België van A Tot Z: Ambiorix"
 number: 11
-artwork: https://i1.sndcdn.com/artworks-yRKkmEOYhaAD56hJ-ab7KUA-large.jpg
+artwork: https://i1.sndcdn.com/artworks-yRKkmEOYhaAD56hJ-ab7KUA-t500x500.jpg
 author: Tim
 date: 2020-04-01 09:19:56 +0200
 categories: podcast

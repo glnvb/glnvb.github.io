@@ -2,7 +2,7 @@
 layout: post
 title: "Archief: Wat, hoe en waarom? Interview met Filip Strubbe en Geertrui Elaut"
 number: 94
-artwork: https://i1.sndcdn.com/artworks-wwCLsAzUHBxFTAFS-zXzYqg-large.jpg
+artwork: https://i1.sndcdn.com/artworks-wwCLsAzUHBxFTAFS-zXzYqg-t500x500.jpg
 author: Tim
 date: 2021-12-06 08:00:02 +0100
 categories: podcast

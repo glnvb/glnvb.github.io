@@ -2,7 +2,7 @@
 layout: post
 title: "In de kijker: Vrouwen in de Belgische geschiedenis met Kim Descheemaeker"
 number: 65
-artwork: https://i1.sndcdn.com/artworks-VHtfye65YxCBZnDw-vfk31w-large.jpg
+artwork: https://i1.sndcdn.com/artworks-VHtfye65YxCBZnDw-vfk31w-t500x500.jpg
 author: Tim
 date: 2021-05-02 14:38:31 +0200
 categories: podcast

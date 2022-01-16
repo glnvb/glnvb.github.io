@@ -2,7 +2,7 @@
 layout: post
 title: "Limburg"
 number: 72
-artwork: https://i1.sndcdn.com/artworks-mV01K6YzriVd34aD-PlVdiQ-large.jpg
+artwork: https://i1.sndcdn.com/artworks-mV01K6YzriVd34aD-PlVdiQ-t500x500.jpg
 author: Tim
 date: 2021-06-15 18:50:39 +0200
 categories: podcast

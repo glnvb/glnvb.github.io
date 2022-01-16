@@ -2,7 +2,7 @@
 layout: post
 title: "Wegen en Snelwegen I"
 number: 96
-artwork: https://i1.sndcdn.com/artworks-VLPWiDYHBFb9wrkc-lodgdQ-large.jpg
+artwork: https://i1.sndcdn.com/artworks-VLPWiDYHBFb9wrkc-lodgdQ-t500x500.jpg
 author: Tim
 date: 2022-01-10 07:00:12 +0100
 categories: podcast

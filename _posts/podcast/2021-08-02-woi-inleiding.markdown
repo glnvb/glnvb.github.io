@@ -2,7 +2,7 @@
 layout: post
 title: "WOI Inleiding"
 number: 75
-artwork: https://i1.sndcdn.com/artworks-D52ZzPjEv3D6nHNf-w9oJHg-large.jpg
+artwork: https://i1.sndcdn.com/artworks-D52ZzPjEv3D6nHNf-w9oJHg-t500x500.jpg
 author: Tim
 date: 2021-08-02 23:11:34 +0200
 categories: podcast

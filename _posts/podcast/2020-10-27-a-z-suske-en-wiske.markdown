@@ -2,7 +2,7 @@
 layout: post
 title: "A - Z Suske En Wiske"
 number: 38
-artwork: https://i1.sndcdn.com/artworks-WFRtAID51EO98in9-wyzcEw-large.jpg
+artwork: https://i1.sndcdn.com/artworks-WFRtAID51EO98in9-wyzcEw-t500x500.jpg
 author: Tim
 date: 2020-10-27 18:23:13 +0100
 categories: podcast

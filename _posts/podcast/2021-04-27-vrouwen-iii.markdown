@@ -2,7 +2,7 @@
 layout: post
 title: "Vrouwen III"
 number: 64
-artwork: https://i1.sndcdn.com/artworks-Z5RXHmRxlWCKmxfy-TnBPVw-large.jpg
+artwork: https://i1.sndcdn.com/artworks-Z5RXHmRxlWCKmxfy-TnBPVw-t500x500.jpg
 author: Tim
 date: 2021-04-27 23:08:59 +0200
 categories: podcast

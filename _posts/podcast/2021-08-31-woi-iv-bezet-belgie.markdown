@@ -2,7 +2,7 @@
 layout: post
 title: "WOI IV: Bezet België"
 number: 79
-artwork: https://i1.sndcdn.com/artworks-7WDxB08uVORWIsyH-ftzwBg-large.jpg
+artwork: https://i1.sndcdn.com/artworks-7WDxB08uVORWIsyH-ftzwBg-t500x500.jpg
 author: Tim
 date: 2021-08-31 18:50:47 +0200
 categories: podcast

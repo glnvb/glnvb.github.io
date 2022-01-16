@@ -2,7 +2,7 @@
 layout: post
 title: "WRM Waarom België?"
 number: 1
-artwork: https://i1.sndcdn.com/artworks-000620101990-k283cw-large.jpg
+artwork: https://i1.sndcdn.com/artworks-000620101990-k283cw-t500x500.jpg
 author: Tim
 date: 2019-03-03 12:43:31 +0100
 categories: podcast

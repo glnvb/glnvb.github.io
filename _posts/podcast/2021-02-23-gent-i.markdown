@@ -2,7 +2,7 @@
 layout: post
 title: "Gent I"
 number: 55
-artwork: https://i1.sndcdn.com/artworks-MIZ6ynCWk6dTxrkB-9k0gIw-large.jpg
+artwork: https://i1.sndcdn.com/artworks-MIZ6ynCWk6dTxrkB-9k0gIw-t500x500.jpg
 author: Tim
 date: 2021-02-23 16:37:21 +0100
 categories: podcast

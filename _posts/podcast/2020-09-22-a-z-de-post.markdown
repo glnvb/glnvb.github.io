@@ -2,7 +2,7 @@
 layout: post
 title: "A - Z De Post"
 number: 33
-artwork: https://i1.sndcdn.com/artworks-xU568uxD0L8hLtW5-zgvt8g-large.jpg
+artwork: https://i1.sndcdn.com/artworks-xU568uxD0L8hLtW5-zgvt8g-t500x500.jpg
 author: Tim
 date: 2020-09-22 19:01:25 +0200
 categories: podcast

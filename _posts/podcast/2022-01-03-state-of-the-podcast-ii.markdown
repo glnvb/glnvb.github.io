@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "State Of The Podcast II"
-artwork: https://i1.sndcdn.com/artworks-2sdH7gwuXdlulIYO-t19YaA-large.jpg
+artwork: https://i1.sndcdn.com/artworks-2sdH7gwuXdlulIYO-t19YaA-t500x500.jpg
 author: Tim
 date: 2022-01-03 07:00:02 +0100
 categories: podcast

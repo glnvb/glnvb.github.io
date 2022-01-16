@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Slag om het Gravensteen"
-artwork: https://i1.sndcdn.com/artworks-LnYb0ryWRUgHBxzE-LYXL6A-large.jpg
+artwork: https://i1.sndcdn.com/artworks-LnYb0ryWRUgHBxzE-LYXL6A-t500x500.jpg
 author: Tim
 date: 2022-01-05 07:00:02 +0100
 categories: podcast

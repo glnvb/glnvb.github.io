@@ -2,7 +2,7 @@
 layout: post
 title: "Studenten en Universiteiten 2"
 number: 86
-artwork: https://i1.sndcdn.com/artworks-qEtFVHDlLx32k9l7-zflpdQ-large.jpg
+artwork: https://i1.sndcdn.com/artworks-qEtFVHDlLx32k9l7-zflpdQ-t500x500.jpg
 author: Tim
 date: 2021-10-04 16:21:22 +0200
 categories: podcast

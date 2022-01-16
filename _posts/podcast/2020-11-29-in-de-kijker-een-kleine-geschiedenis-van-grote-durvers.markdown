@@ -2,7 +2,7 @@
 layout: post
 title: "In De Kijker. Een Kleine Geschiedenis Van Grote Durvers"
 number: 43
-artwork: https://i1.sndcdn.com/artworks-netlOYdWNjEgjSao-heHqlQ-large.jpg
+artwork: https://i1.sndcdn.com/artworks-netlOYdWNjEgjSao-heHqlQ-t500x500.jpg
 author: Tim
 date: 2020-11-29 11:12:26 +0100
 categories: podcast

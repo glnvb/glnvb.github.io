@@ -2,7 +2,7 @@
 layout: post
 title: "België van A tot Z: Heizeldrama"
 number: 22
-artwork: https://i1.sndcdn.com/artworks-1yYOxvFk4Fmp4xQJ-Yxg7SQ-large.jpg
+artwork: https://i1.sndcdn.com/artworks-1yYOxvFk4Fmp4xQJ-Yxg7SQ-t500x500.jpg
 author: Tim
 date: 2020-06-23 14:57:30 +0200
 categories: podcast

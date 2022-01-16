@@ -2,7 +2,7 @@
 layout: post
 title: "Fascisme"
 number: 73
-artwork: https://i1.sndcdn.com/artworks-3m23fo1i8XxxYQk7-H0Ycag-large.jpg
+artwork: https://i1.sndcdn.com/artworks-3m23fo1i8XxxYQk7-H0Ycag-t500x500.jpg
 author: Tim
 date: 2021-06-25 15:28:03 +0200
 categories: podcast

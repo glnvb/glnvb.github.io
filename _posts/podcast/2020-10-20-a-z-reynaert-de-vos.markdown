@@ -2,7 +2,7 @@
 layout: post
 title: "A - Z Reynaert De Vos"
 number: 37
-artwork: https://i1.sndcdn.com/artworks-4v5vGzrUzIHAW0vd-516iqg-large.jpg
+artwork: https://i1.sndcdn.com/artworks-4v5vGzrUzIHAW0vd-516iqg-t500x500.jpg
 author: Tim
 date: 2020-10-20 19:01:22 +0200
 categories: podcast

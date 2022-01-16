@@ -2,7 +2,7 @@
 layout: post
 title: "Ronse"
 number: 88
-artwork: https://i1.sndcdn.com/artworks-yYYlByRhz6cL3fMD-7oxxeA-large.jpg
+artwork: https://i1.sndcdn.com/artworks-yYYlByRhz6cL3fMD-7oxxeA-t500x500.jpg
 author: Tim
 date: 2021-10-19 21:04:12 +0200
 categories: podcast

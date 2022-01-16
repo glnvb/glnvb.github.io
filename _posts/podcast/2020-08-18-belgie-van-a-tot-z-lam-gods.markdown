@@ -2,7 +2,7 @@
 layout: post
 title: "België van A tot Z: Lam Gods"
 number: 28
-artwork: https://i1.sndcdn.com/artworks-TM0SbIILkOltgQle-ZD87Mw-large.jpg
+artwork: https://i1.sndcdn.com/artworks-TM0SbIILkOltgQle-ZD87Mw-t500x500.jpg
 author: Tim
 date: 2020-08-18 07:00:15 +0200
 categories: podcast

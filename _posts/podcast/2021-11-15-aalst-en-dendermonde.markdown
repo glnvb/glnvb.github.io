@@ -2,7 +2,7 @@
 layout: post
 title: "Aalst en Dendermonde"
 number: 91
-artwork: https://i1.sndcdn.com/artworks-Qz5VuruPuJkIIsKK-NPVUUQ-large.jpg
+artwork: https://i1.sndcdn.com/artworks-Qz5VuruPuJkIIsKK-NPVUUQ-t500x500.jpg
 author: Tim
 date: 2021-11-15 16:20:38 +0100
 categories: podcast

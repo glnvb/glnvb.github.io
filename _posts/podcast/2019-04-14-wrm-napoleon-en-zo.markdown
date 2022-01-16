@@ -2,7 +2,7 @@
 layout: post
 title: "WRM Napoleon En Zo"
 number: 7
-artwork: https://i1.sndcdn.com/artworks-000519910515-ydymq7-large.jpg
+artwork: https://i1.sndcdn.com/artworks-000519910515-ydymq7-t500x500.jpg
 author: Tim
 date: 2019-04-14 16:29:26 +0200
 categories: podcast

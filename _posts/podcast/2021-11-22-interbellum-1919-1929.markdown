@@ -2,7 +2,7 @@
 layout: post
 title: "Interbellum: 1919 - 1929"
 number: 92
-artwork: https://i1.sndcdn.com/artworks-E8t5d9jPE8MbJ5gi-aiRqqw-large.jpg
+artwork: https://i1.sndcdn.com/artworks-E8t5d9jPE8MbJ5gi-aiRqqw-t500x500.jpg
 author: Tim
 date: 2021-11-22 22:54:32 +0100
 categories: podcast

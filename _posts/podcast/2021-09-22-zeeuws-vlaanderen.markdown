@@ -2,7 +2,7 @@
 layout: post
 title: "Zeeuws - Vlaanderen"
 number: 84
-artwork: https://i1.sndcdn.com/artworks-mHQoK95y1MyoiLgz-3MjjRg-large.jpg
+artwork: https://i1.sndcdn.com/artworks-mHQoK95y1MyoiLgz-3MjjRg-t500x500.jpg
 author: Tim
 date: 2021-09-22 09:25:59 +0200
 categories: podcast

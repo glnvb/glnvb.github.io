@@ -2,7 +2,7 @@
 layout: post
 title: "A - Z Tiendaagse Veldtocht I"
 number: 39
-artwork: https://i1.sndcdn.com/artworks-eNpqxRo7I0OE6IfH-mftKcg-large.jpg
+artwork: https://i1.sndcdn.com/artworks-eNpqxRo7I0OE6IfH-mftKcg-t500x500.jpg
 author: Tim
 date: 2020-11-03 16:52:09 +0100
 categories: podcast

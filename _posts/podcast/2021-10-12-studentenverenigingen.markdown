@@ -2,7 +2,7 @@
 layout: post
 title: "Studentenverenigingen"
 number: 87
-artwork: https://i1.sndcdn.com/artworks-boFcvn7CJvZqblya-2nqyPA-large.jpg
+artwork: https://i1.sndcdn.com/artworks-boFcvn7CJvZqblya-2nqyPA-t500x500.jpg
 author: Tim
 date: 2021-10-12 08:00:17 +0200
 categories: podcast

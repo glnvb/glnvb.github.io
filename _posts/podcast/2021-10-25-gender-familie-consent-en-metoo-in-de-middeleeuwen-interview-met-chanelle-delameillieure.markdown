@@ -2,7 +2,7 @@
 layout: post
 title: "Gender, familie, consent en #metoo in de Middeleeuwen. Interview met Chanelle Delameillieure"
 number: 89
-artwork: https://i1.sndcdn.com/artworks-EQgz9cYWh7xNnSEN-w9ScIw-large.jpg
+artwork: https://i1.sndcdn.com/artworks-EQgz9cYWh7xNnSEN-w9ScIw-t500x500.jpg
 author: Tim
 date: 2021-10-25 10:46:38 +0200
 categories: podcast

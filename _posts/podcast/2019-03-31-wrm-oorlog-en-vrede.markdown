@@ -2,7 +2,7 @@
 layout: post
 title: "WRM Oorlog En Vrede"
 number: 5
-artwork: https://i1.sndcdn.com/artworks-000512971098-ekxnn1-large.jpg
+artwork: https://i1.sndcdn.com/artworks-000512971098-ekxnn1-t500x500.jpg
 author: Tim
 date: 2019-03-31 15:20:51 +0200
 categories: podcast

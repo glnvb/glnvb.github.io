@@ -2,7 +2,7 @@
 layout: post
 title: "Luxemburg"
 number: 95
-artwork: https://i1.sndcdn.com/artworks-07zrWvP2SVumGYhn-vuKqbA-large.jpg
+artwork: https://i1.sndcdn.com/artworks-07zrWvP2SVumGYhn-vuKqbA-t500x500.jpg
 author: Tim
 date: 2021-12-13 07:00:30 +0100
 categories: podcast

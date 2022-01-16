@@ -2,7 +2,7 @@
 layout: post
 title: "Gent II"
 number: 56
-artwork: https://i1.sndcdn.com/artworks-AwITPVj4scwSGomI-3ReMyA-large.jpg
+artwork: https://i1.sndcdn.com/artworks-AwITPVj4scwSGomI-3ReMyA-t500x500.jpg
 author: Tim
 date: 2021-03-02 18:36:56 +0100
 categories: podcast

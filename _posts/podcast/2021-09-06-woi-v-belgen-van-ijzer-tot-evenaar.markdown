@@ -2,7 +2,7 @@
 layout: post
 title: "WOI V: Belgen van Ijzer tot Evenaar"
 number: 80
-artwork: https://i1.sndcdn.com/artworks-pHzIGvjhr2ZgU40o-X1hGSQ-large.jpg
+artwork: https://i1.sndcdn.com/artworks-pHzIGvjhr2ZgU40o-X1hGSQ-t500x500.jpg
 author: Tim
 date: 2021-09-06 19:35:58 +0200
 categories: podcast

@@ -2,7 +2,7 @@
 layout: post
 title: "België van A tot Z: Guldensporenslag 5"
 number: 21
-artwork: https://i1.sndcdn.com/artworks-UYzV1RGHHO5YA4U1-lk1NeA-large.jpg
+artwork: https://i1.sndcdn.com/artworks-UYzV1RGHHO5YA4U1-lk1NeA-t500x500.jpg
 author: Tim
 date: 2020-06-12 16:39:19 +0200
 categories: podcast

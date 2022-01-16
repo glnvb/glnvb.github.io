@@ -2,7 +2,7 @@
 layout: post
 title: "WOI III: Rape of Belgium/Brave little Belgium"
 number: 78
-artwork: https://i1.sndcdn.com/artworks-x4s91BhnmkJqK1RF-ILanWw-large.jpg
+artwork: https://i1.sndcdn.com/artworks-x4s91BhnmkJqK1RF-ILanWw-t500x500.jpg
 author: Tim
 date: 2021-08-24 21:39:11 +0200
 categories: podcast
