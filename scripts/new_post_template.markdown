@@ -1,6 +1,7 @@
 ---
 layout: post
 title: %TITLE%
+number: %NUMBER%
 artwork: %ARTWORK_URL%
 author: Tim
 date: %DATE%
