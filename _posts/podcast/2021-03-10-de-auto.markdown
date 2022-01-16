@@ -1,0 +1,16 @@
+---
+layout: post
+title: "De auto"
+number: 57
+artwork: https://i1.sndcdn.com/artworks-qF7sORjohWQMzEmb-UhGNUA-large.jpg
+author: Tim
+date: 2021-03-10 22:21:24 +0100
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/de-auto
+excerpt_separator: <!--more-->
+description: "Welkom bij geschiedenis van België en welkom bij deze aflevering over de auto."
+---
+Welkom bij geschiedenis van België en welkom bij deze aflevering over de auto. De auto jawel. Wat die met de Belgische geschiedenis te maken heeft? Veel. Ten eerste omdat het ding de mobiliteit in België en de rest van de wereld fundamenteel zou veranderen en ten tweede omdat België net als met zoveel technische wonderen van de tweede industriële revolutie op de eerste rij zat. We hebben het vandaag dan ook over doodrijders, rotte eieren, gendarmes die zich verschuilen in het struikgewas, persheisa, het allereerste verkeersreglement en nog veel meer.

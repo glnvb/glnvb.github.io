@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Geschiedenis Nu met Bert Kruismans"
+number: null
 artwork: https://i1.sndcdn.com/artworks-zq79SfVdmlzXeCSC-5nxxSA-large.jpg
 author: Tim
 date: 2021-11-08 06:00:14 +0100

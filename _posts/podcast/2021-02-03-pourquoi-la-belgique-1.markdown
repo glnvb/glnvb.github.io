@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Pourquoi La Belgique 1"
+number: null
 artwork: https://i1.sndcdn.com/artworks-XVB4VJTJqHqth6GT-AwRkRw-large.jpg
 author: Tim
 date: 2021-02-03 19:38:40 +0100
 categories: podcast
-tag: ["Belgique", "Histoire"]
+tag: []
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/pourquoi-la-belgique-1

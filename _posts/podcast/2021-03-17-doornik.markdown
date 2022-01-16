@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Doornik"
+number: 58
+artwork: https://i1.sndcdn.com/artworks-QZmYaNttOuwPu7cg-zhtAyw-large.jpg
+author: Tim
+date: 2021-03-17 17:37:18 +0100
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/doornik
+excerpt_separator: <!--more-->
+description: "Welkom bij geschiedenis van België en welkom in deze aflevering over de stad Doornik."
+---
+Welkom bij geschiedenis van België en welkom in deze aflevering over de stad Doornik. Waarom ik een hele aflevering wijden zal aan een provinciestadje uit Henegouwen? Omdat ze heel erg boeiende geschiedenis heeft en me de kans geeft om wat tijd te wijden aan een onderdeel van de pré-Belgische geschiedenis waar men in de geschiedenisles bitter weinig tijd aan besteed: De Dark Ages of te wel de vroege middeleeuwen. Kom bijgevolg aan bod in deze aflevering Childerik, Clovis en andere Merovingers, een collectie heiligen en bisschoppen en hoe het komt dat Doornik eeuwenlang één van de allerbelangrijkste Vlaamse steden was. Tot het dat plots niet meer was. Dat en veel meer in deze aflevering van Geschiedenis van België. Welkom!

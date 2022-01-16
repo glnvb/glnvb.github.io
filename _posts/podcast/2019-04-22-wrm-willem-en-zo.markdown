@@ -1,0 +1,15 @@
+---
+layout: post
+title: "WRM Willem En Zo"
+number: 8
+artwork: https://i1.sndcdn.com/artworks-000524237703-07ks6j-large.jpg
+author: Tim
+date: 2019-04-22 14:53:13 +0200
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/wrm-8-willem-en-zo
+excerpt_separator: <!--more-->
+description: ""
+---

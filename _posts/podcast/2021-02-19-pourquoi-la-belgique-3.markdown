@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Pourquoi La Belgique 3"
+number: null
 artwork: https://i1.sndcdn.com/artworks-Tckir8WQ9HWzwz0C-rY8o0Q-large.jpg
 author: Tim
 date: 2021-02-19 14:01:15 +0100
 categories: podcast
-tag: ["Histoire", "Belgique"]
+tag: []
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/porquoi-la-belgique-3

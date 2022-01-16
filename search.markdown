@@ -14,6 +14,7 @@ U kan zoeken met de joker: *, de zoekmotor zoekt in de titel, beschrijving en de
     {% for post in site.posts %}
       "{{ post.url | slugify }}": {
         "title": "{{ post.title | xml_escape }}",
+        "number": "{{ post.number | xml_escape }}",
         "author": "{{ post.author | xml_escape }}",
         "category": "{{ post.category | xml_escape }}",
         "tags": "{% for tag in post.tags %}{{ tag | xml_escape }} {% endfor %}",
