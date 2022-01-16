@@ -26,7 +26,7 @@ class Track:
         self.permalink = json['permalink_url']
 
         self.artwork = json['artwork_url'] or ""
-        self.artwork = self.artwork.replace('-large', 't500x500')
+        self.artwork = self.artwork.replace('-large', '-t500x500')
 
         self.timestamp_utc = datetime.datetime.strptime(json['display_date'], '%Y-%m-%dT%H:%M:%SZ')
         self.timestamp_local = pytz.timezone('Europe/Brussels').fromutc(self.timestamp_utc)
