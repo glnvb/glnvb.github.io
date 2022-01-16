@@ -6,7 +6,6 @@ author: Tim
 date: 2021-02-09 16:41:58 +0100
 categories: podcast
 tag: ["België", "Lage Landen"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/steden-een-inleiding
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/steden-een-inleiding

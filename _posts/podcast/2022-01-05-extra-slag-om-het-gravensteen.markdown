@@ -6,7 +6,6 @@ author: Tim
 date: 2022-01-05 07:00:02 +0100
 categories: podcast
 tag: ["steden"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/slag-om-het-gravensteen
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/slag-om-het-gravensteen

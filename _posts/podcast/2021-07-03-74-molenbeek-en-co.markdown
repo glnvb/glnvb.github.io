@@ -6,7 +6,6 @@ author: Tim
 date: 2021-07-03 23:13:40 +0200
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/molenbeek-en-co
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/molenbeek-en-co

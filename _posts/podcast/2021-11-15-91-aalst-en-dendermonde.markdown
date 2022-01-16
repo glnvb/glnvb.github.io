@@ -6,7 +6,6 @@ author: Tim
 date: 2021-11-15 16:20:38 +0100
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/aalst-en-dendermonde
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/aalst-en-dendermonde

@@ -6,7 +6,6 @@ author: Tim
 date: 2022-01-10 07:00:12 +0100
 categories: podcast
 tag: ["mobiliteit"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/96-snelwegen-i
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/96-snelwegen-i

@@ -6,7 +6,6 @@ author: Tim
 date: 2021-08-31 18:50:47 +0200
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/woi-iv
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/woi-iv

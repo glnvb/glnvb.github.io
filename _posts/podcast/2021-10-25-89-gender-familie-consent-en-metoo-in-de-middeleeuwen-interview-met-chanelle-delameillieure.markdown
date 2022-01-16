@@ -6,7 +6,6 @@ author: Tim
 date: 2021-10-25 10:46:38 +0200
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/gender-familie-consent-en-metoo-in-de-middeleeuwen-interview-met-chanelle-delameillieure
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/gender-familie-consent-en-metoo-in-de-middeleeuwen-interview-met-chanelle-delameillieure

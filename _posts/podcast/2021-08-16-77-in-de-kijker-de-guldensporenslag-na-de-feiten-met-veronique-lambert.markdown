@@ -6,7 +6,6 @@ author: Tim
 date: 2021-08-16 15:56:48 +0200
 categories: podcast
 tag: []
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/in-de-kijker-de-guldensporenslag-na-de-feiten-met-veronique-lambert
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/in-de-kijker-de-guldensporenslag-na-de-feiten-met-veronique-lambert

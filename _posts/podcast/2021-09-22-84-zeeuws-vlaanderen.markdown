@@ -6,7 +6,6 @@ author: Tim
 date: 2021-09-22 09:25:59 +0200
 categories: podcast
 tag: ["België", "Nederland"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/zeeuws-vlaanderen
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/zeeuws-vlaanderen

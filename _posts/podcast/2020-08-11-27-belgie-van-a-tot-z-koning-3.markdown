@@ -6,7 +6,6 @@ author: Tim
 date: 2020-08-11 06:00:22 +0200
 categories: podcast
 tag: []
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-koning-3
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-koning-3

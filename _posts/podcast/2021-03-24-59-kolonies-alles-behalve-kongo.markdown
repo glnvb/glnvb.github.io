@@ -6,7 +6,6 @@ author: Tim
 date: 2021-03-24 21:24:03 +0100
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/kolonies-alles-behalve-kongo
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/kolonies-alles-behalve-kongo

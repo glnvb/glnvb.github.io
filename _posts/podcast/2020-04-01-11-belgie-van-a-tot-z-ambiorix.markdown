@@ -6,7 +6,6 @@ author: Tim
 date: 2020-04-01 09:19:56 +0200
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/van-a-tot-z-ambiorix
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/van-a-tot-z-ambiorix

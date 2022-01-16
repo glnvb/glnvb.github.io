@@ -6,7 +6,6 @@ author: Tim
 date: 2021-02-03 19:38:40 +0100
 categories: podcast
 tag: ["Belgique", "Histoire"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/pourquoi-la-belgique-1
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/pourquoi-la-belgique-1

@@ -6,7 +6,6 @@ author: Tim
 date: 2021-12-26 09:00:16 +0100
 categories: podcast
 tag: ["recensie"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/extra-recensie-nieuw-belgie
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/extra-recensie-nieuw-belgie

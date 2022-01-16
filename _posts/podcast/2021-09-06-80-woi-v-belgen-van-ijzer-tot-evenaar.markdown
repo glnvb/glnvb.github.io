@@ -6,7 +6,6 @@ author: Tim
 date: 2021-09-06 19:35:58 +0200
 categories: podcast
 tag: ["WOI", "België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/woi-v-belgen-van-ijzer-tot-evenaar
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/woi-v-belgen-van-ijzer-tot-evenaar

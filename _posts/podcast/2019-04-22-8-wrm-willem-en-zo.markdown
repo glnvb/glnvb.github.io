@@ -6,7 +6,6 @@ author: Tim
 date: 2019-04-22 14:53:13 +0200
 categories: podcast
 tag: ["België", "WRM"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/wrm-8-willem-en-zo
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/wrm-8-willem-en-zo

@@ -6,7 +6,6 @@ author: Tim
 date: 2020-07-16 11:40:44 +0200
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-italianen
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-italianen

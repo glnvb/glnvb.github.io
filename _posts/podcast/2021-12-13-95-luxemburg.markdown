@@ -6,7 +6,6 @@ author: Tim
 date: 2021-12-13 07:00:30 +0100
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/luxemburg
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/luxemburg

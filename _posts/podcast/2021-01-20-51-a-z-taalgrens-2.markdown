@@ -6,7 +6,6 @@ author: Tim
 date: 2021-01-20 15:24:14 +0100
 categories: podcast
 tag: ["Taalgrens", "Vlaanderen", "België", "Wallonië"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/a-z-taalgrens-2
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-taalgrens-2

@@ -6,7 +6,6 @@ author: Tim
 date: 2021-03-02 18:36:56 +0100
 categories: podcast
 tag: ["Gent", "België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/gent-ii
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/gent-ii

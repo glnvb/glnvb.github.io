@@ -6,7 +6,6 @@ author: Tim
 date: 2021-12-06 08:00:02 +0100
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/archief-wat-wie-en-waarom-interview-met-filip-strubbe-en-geertrui-elaut
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/archief-wat-wie-en-waarom-interview-met-filip-strubbe-en-geertrui-elaut

@@ -6,7 +6,6 @@ author: Tim
 date: 2020-09-08 16:34:43 +0200
 categories: podcast
 tag: ["België ", "Nederlanden"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/a-z-oostenrijkse-nederlanden-i
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-oostenrijkse-nederlanden-i

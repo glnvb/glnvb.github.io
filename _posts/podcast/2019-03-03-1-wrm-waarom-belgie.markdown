@@ -6,7 +6,6 @@ author: Tim
 date: 2019-03-03 12:43:31 +0100
 categories: podcast
 tag: []
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/wrm-belgie-e1
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/wrm-belgie-e1

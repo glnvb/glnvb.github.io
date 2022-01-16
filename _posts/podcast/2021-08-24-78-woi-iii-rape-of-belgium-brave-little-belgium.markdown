@@ -6,7 +6,6 @@ author: Tim
 date: 2021-08-24 21:39:11 +0200
 categories: podcast
 tag: ["België", "WOI"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/woi-iii-rape-of-belgiumbrave-little-belgium
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/woi-iii-rape-of-belgiumbrave-little-belgium

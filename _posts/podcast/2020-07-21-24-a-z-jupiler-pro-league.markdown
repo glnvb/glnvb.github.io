@@ -6,7 +6,6 @@ author: Tim
 date: 2020-07-21 16:15:13 +0200
 categories: podcast
 tag: ["België", "Voetbal"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/a-z-jupiler-pro-league
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-jupiler-pro-league

@@ -6,7 +6,6 @@ author: Tim
 date: 2021-09-17 08:30:06 +0200
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/in-de-kijker-de-beeldenstorm-en-cultuurgeschiedenis-met-anne-laure-van-bruaene
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/in-de-kijker-de-beeldenstorm-en-cultuurgeschiedenis-met-anne-laure-van-bruaene

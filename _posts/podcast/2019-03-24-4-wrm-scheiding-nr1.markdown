@@ -6,7 +6,6 @@ author: Tim
 date: 2019-03-24 14:48:16 +0100
 categories: podcast
 tag: ["WRM", "België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/wrm4-scheiding-nr1
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/wrm4-scheiding-nr1

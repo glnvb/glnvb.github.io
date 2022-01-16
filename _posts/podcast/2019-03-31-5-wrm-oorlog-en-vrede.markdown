@@ -6,7 +6,6 @@ author: Tim
 date: 2019-03-31 15:20:51 +0200
 categories: podcast
 tag: []
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/wrm5-oorlog-en-vrede
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/wrm5-oorlog-en-vrede

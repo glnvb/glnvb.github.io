@@ -6,7 +6,6 @@ author: Tim
 date: 2021-02-16 15:20:11 +0100
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/de-fiets
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/de-fiets

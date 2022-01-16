@@ -6,7 +6,6 @@ author: Tim
 date: 2022-01-03 07:00:02 +0100
 categories: podcast
 tag: ["state of the podcast"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/state-of-the-podcast-ii
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/state-of-the-podcast-ii

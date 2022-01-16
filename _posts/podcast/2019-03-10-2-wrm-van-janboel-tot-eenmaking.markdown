@@ -6,7 +6,6 @@ author: Tim
 date: 2019-03-10 16:59:53 +0100
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/wrm2-van-janboel-tot-eenmaking
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/wrm2-van-janboel-tot-eenmaking

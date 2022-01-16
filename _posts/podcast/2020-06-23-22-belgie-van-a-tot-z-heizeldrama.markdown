@@ -6,7 +6,6 @@ author: Tim
 date: 2020-06-23 14:57:30 +0200
 categories: podcast
 tag: ["Voetbal"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z

@@ -6,7 +6,6 @@ author: Tim
 date: 2020-12-30 12:20:02 +0100
 categories: podcast
 tag: ["Wallonië", "België", "Nationalisme"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/a-z-waalse-haan
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-waalse-haan

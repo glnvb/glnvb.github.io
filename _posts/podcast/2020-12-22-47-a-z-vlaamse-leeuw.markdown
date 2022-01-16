@@ -6,7 +6,6 @@ author: Tim
 date: 2020-12-22 14:56:42 +0100
 categories: podcast
 tag: ["Vlaanderen", "België", "Nationalisme"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/a-z-vlaamse-leeuw
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-vlaamse-leeuw

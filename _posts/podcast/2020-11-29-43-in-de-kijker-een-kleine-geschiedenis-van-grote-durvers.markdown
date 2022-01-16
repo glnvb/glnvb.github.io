@@ -6,7 +6,6 @@ author: Tim
 date: 2020-11-29 11:12:26 +0100
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/in-de-kijker-een-kleine-geschiedenis-van-grote-durvers
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/in-de-kijker-een-kleine-geschiedenis-van-grote-durvers

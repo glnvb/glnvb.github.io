@@ -6,7 +6,6 @@ author: Tim
 date: 2019-03-17 19:23:00 +0100
 categories: podcast
 tag: ["WRM", "België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/wrm3-pragmatieke-karel
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/wrm3-pragmatieke-karel

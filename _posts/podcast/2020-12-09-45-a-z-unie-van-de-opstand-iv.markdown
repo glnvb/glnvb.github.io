@@ -6,7 +6,6 @@ author: Tim
 date: 2020-12-09 10:36:57 +0100
 categories: podcast
 tag: ["België", "Opstand", "Nederlanden"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/a-z-unie-van-de-opstand-iv
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-unie-van-de-opstand-iv

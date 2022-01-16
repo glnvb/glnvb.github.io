@@ -6,7 +6,6 @@ author: Tim
 date: 2021-03-10 22:21:24 +0100
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/de-auto
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/de-auto

@@ -6,7 +6,6 @@ author: Tim
 date: 2020-04-08 08:38:05 +0200
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/a-z-2
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-2

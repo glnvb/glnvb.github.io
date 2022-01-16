@@ -6,7 +6,6 @@ author: Tim
 date: 2021-06-09 20:35:34 +0200
 categories: podcast
 tag: []
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/historische-romans
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/historische-romans

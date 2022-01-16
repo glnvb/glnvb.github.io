@@ -6,7 +6,6 @@ author: Tim
 date: 2020-05-20 11:20:29 +0200
 categories: podcast
 tag: ["Guldensporenslag", "Vlaanderen"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-guldensporenslag-2
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-guldensporenslag-2

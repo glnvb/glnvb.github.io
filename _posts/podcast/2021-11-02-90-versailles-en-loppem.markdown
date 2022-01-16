@@ -6,7 +6,6 @@ author: Tim
 date: 2021-11-02 19:11:39 +0100
 categories: podcast
 tag: ["België", "WOI"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/versailles-en-loppem
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/versailles-en-loppem

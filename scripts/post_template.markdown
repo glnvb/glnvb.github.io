@@ -6,7 +6,6 @@ author: Tim
 date: %DATE%
 categories: podcast
 tag: [%TAGS%]
-postsoundcoud_url: %PERMALINK%
 embed_player:
   type: soundcloud
   src: %PERMALINK%

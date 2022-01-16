@@ -6,7 +6,6 @@ author: Tim
 date: 2020-12-01 19:45:43 +0100
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/a-z-unie-van-de-opstand-iii
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-unie-van-de-opstand-iii

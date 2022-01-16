@@ -6,7 +6,6 @@ author: Tim
 date: 2021-12-20 07:00:26 +0100
 categories: podcast
 tag: ["geschiedenis nu","oorlog"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/geschiedenis-nu-kerst-aan-het-front-en-wit-rusland
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/geschiedenis-nu-kerst-aan-het-front-en-wit-rusland

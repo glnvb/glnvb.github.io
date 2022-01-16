@@ -6,7 +6,6 @@ author: Tim
 date: 2021-11-08 06:00:14 +0100
 categories: podcast
 tag: []
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/geschiedenis-nu-1
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/geschiedenis-nu-1

@@ -6,7 +6,6 @@ author: Tim
 date: 2020-11-10 16:14:51 +0100
 categories: podcast
 tag: ["België", "Nederland"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/a-z-tiendaagse-veldtocht-ii
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-tiendaagse-veldtocht-ii

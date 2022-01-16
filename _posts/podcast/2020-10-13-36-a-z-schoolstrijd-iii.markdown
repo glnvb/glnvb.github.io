@@ -6,7 +6,6 @@ author: Tim
 date: 2020-10-13 20:16:34 +0200
 categories: podcast
 tag: ["Schoolstrijd"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/a-z-schoolstrijd-iii
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-schoolstrijd-iii

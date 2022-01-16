@@ -6,7 +6,6 @@ author: Tim
 date: 2020-10-27 18:23:13 +0100
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/a-z-suske-en-wiske
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-suske-en-wiske

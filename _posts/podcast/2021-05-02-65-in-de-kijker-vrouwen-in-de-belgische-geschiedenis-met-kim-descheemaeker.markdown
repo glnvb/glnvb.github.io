@@ -6,7 +6,6 @@ author: Tim
 date: 2021-05-02 14:38:31 +0200
 categories: podcast
 tag: ["België", "Vrouwen", "Feminisme"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/in-de-kijker-vrouwen-in-de-belgische-geschiedenis-met-kim-descheemaeker
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/in-de-kijker-vrouwen-in-de-belgische-geschiedenis-met-kim-descheemaeker

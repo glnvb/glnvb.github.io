@@ -6,7 +6,6 @@ author: Tim
 date: 2019-05-05 21:22:05 +0200
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/wrm-10-het-waarom-van-belgie
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/wrm-10-het-waarom-van-belgie

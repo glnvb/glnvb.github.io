@@ -6,7 +6,6 @@ author: Tim
 date: 2020-04-28 23:36:05 +0200
 categories: podcast
 tag: ["Brussel"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-expo-58
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-expo-58

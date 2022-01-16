@@ -6,7 +6,6 @@ author: Tim
 date: 2020-10-06 21:05:04 +0200
 categories: podcast
 tag: ["Schoolstrijd", "België", "Verzuiling"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/a-z-schoolstrijd-ii
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-schoolstrijd-ii

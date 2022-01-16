@@ -6,7 +6,6 @@ author: Tim
 date: 2020-11-24 18:34:08 +0100
 categories: podcast
 tag: ["Lage Landen", "België", "Opstand"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/a-z-unie-van-de-opstand-ii
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-unie-van-de-opstand-ii

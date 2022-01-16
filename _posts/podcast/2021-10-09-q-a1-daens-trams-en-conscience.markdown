@@ -6,7 +6,6 @@ author: Tim
 date: 2021-10-09 18:04:17 +0200
 categories: podcast
 tag: []
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/qa1-daens-trams-en-conscience
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/qa1-daens-trams-en-conscience

@@ -6,7 +6,6 @@ author: Tim
 date: 2020-04-15 08:43:54 +0200
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-3-congo-vrijstaat
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-3-congo-vrijstaat

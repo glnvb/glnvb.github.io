@@ -6,7 +6,6 @@ author: Tim
 date: 2021-09-27 18:22:36 +0200
 categories: podcast
 tag: []
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/85-studenten-en-universiteiten-1
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/85-studenten-en-universiteiten-1

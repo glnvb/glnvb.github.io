@@ -6,7 +6,6 @@ author: Tim
 date: 2019-04-14 16:29:26 +0200
 categories: podcast
 tag: ["België"]
-postsoundcoud_url: https://soundcloud.com/tim-gistelinck/wrm7-napoleon-en-zo
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/wrm7-napoleon-en-zo
