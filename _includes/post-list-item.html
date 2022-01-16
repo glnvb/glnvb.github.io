@@ -7,10 +7,9 @@
             {% else %}
             <a class="post-link" href="{{ post.url | relative_url }}">
                 {% endif %}
-                {{ post.title | escape }}
+                {{ post.title | escape }}{% if post.number %} &ndash; #{{ post.number }}{% endif %}
             </a>
     </h3>
-    </element class="post-content e-content" itemprop="articleBody">
     <p>
         {%- if site.show_excerpts -%}
         {%- if post.description -%}
@@ -19,7 +18,7 @@
         {{ post.excerpt | strip_html }}<br>
         {%- endif -%}
         {%- endif -%}
-        {% include read-more.html currPost=post %}</p>
-    </element>
+        {% include read-more.html currPost=post %}
+    </p>
     <element class="post-meta">{{ post.date | date: date_format }}</element>
 </li>

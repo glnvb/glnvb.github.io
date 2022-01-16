@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Luik II"
+number: 69
+artwork: https://i1.sndcdn.com/artworks-fXQ60pzdPU9o61Vj-G7AEtA-t500x500.jpg
+author: Tim
+date: 2021-05-26 17:43:31 +0200
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/luik-ii
+excerpt_separator: <!--more-->
+description: "Welkom bij geschiedenis van België en welkom bij deze tweede aflevering over Luik."
+---
+Welkom bij geschiedenis van België en welkom bij deze tweede aflevering over Luik. Vandaag hebben we het over de heropbouw na de verwoesting van de stad door een zekere Karel de Stoute, de relatieve rust tot in de 18e eeuw en hoe Luik uiteindelijk van onafhankelijk vorstendom naar provinciestad evolueerde om vervolgens te herrijzen als industriële hub. Dat en meer in deze aflevering van Geschiedenis van België.
+
+Google form: [https://docs.google.com/forms/d/e/1FAIpQLSfPto-SrVhFIgtTvP8xFIzI1jlA_GUvjQN4u0-aBXKmfj8Wvg/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSfPto-SrVhFIgtTvP8xFIzI1jlA_GUvjQN4u0-aBXKmfj8Wvg/viewform?usp=sf_link)

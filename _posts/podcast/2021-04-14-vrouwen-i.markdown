@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Vrouwen I"
+number: 62
+artwork: https://i1.sndcdn.com/artworks-9XznEgJOPW1LiwU5-XW3BGg-t500x500.jpg
+author: Tim
+date: 2021-04-14 10:27:59 +0200
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/vrouwen-i
+excerpt_separator: <!--more-->
+description: "Welkom bij geschiedenis van België en welkom bij deze aflevering over Vrouwen."
+---
+Welkom bij geschiedenis van België en welkom bij deze aflevering over Vrouwen. Klinkt vreselijk algemeen en dat is het eigenlijk ook maar laat ons eerlijk zijn: ik heb wel iets goed te maken. Want hoe maak je meer dan zestig afleveringen over Belgische geschiedenis zonder ooit echt aandacht te besteden aan de vrouwelijke helft van de mensheid? Wel, dat heeft alles te maken met de maatschappij die die geschiedenis schreef. Vandaag en volgende week kijken we dus terug op de geschiedenis van België maar deze keer met een specifieke blik op een groep die we tot nog toe over het hoofd gekeken hebben: vrouwen. Komen vandaag aan bod: geschiedenishandboeken, , middeleeuwse onderneemsters, huiselijk geweld en nonnen. Dat en veel meer in deze aflevering van Geschiedenis van België.

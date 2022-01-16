@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Limburg"
+number: 72
+artwork: https://i1.sndcdn.com/artworks-mV01K6YzriVd34aD-PlVdiQ-t500x500.jpg
+author: Tim
+date: 2021-06-15 18:50:39 +0200
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/limburg
+excerpt_separator: <!--more-->
+description: "Welkom bij geschiedenis van België en welkom bij deze aflevering over Limburg."
+---
+Welkom bij geschiedenis van België en welkom bij deze aflevering over Limburg. Jawel. Want Limburg dat is een regio waar ik het in deze podcast nog maar zelden of nooit over gehad heb. Waarom dat zo is en waar dat Limburg van vandaag nu eigenlijk vandaan komt, … Wel, dat komt u vandaag te weten. Bijgevolg heb ik het vandaag over zowel het hertogdom Limburg, de Belgische provincie Limburg, de Nederlandse provincie Limburg, Duitsers, Luxemburgers, Vikingen en onze oude vriend: de prins-bisschop van Luik. Dat en nog veel meer in deze aflevering van Geschiedenis van België.

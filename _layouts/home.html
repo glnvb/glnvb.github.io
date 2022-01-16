@@ -1,9 +1,12 @@
 ---
 layout: default
 ---
-{%- if page.title -%}
-<h1 class="page-heading">{{ page.title }}</h1>
-{%- endif -%}
+
+<div class="website-title">
+  {%- if page.title -%}
+  <h1>{{ page.title }}</h1>
+  {%- endif -%}
+</div>
 
 {{ content }}
 
@@ -13,26 +16,28 @@ layout: default
   <a href="{{ 'podcast' | relative_url }}">{{ page.namecatlist1 | escape }}</a>
 </h1>
 {% endif %}
-<ul class="post-list">
-  {%- for post in site.categories[page.catlist1] limit:3 -%}
-  {% include post-list-item.html post=post %}
+<div class="post-list">
+  {%- for post in site.categories[page.catlist1] limit:2 -%}
+  {% include post-preview-block.html post=post %}
   {%- endfor -%}
-</ul>
+</div>
 
 {% if site.categories[page.catlist2].size > 0 %}
 <h1>
   <a href="{{ 'artikel' | relative_url }}">{{ page.namecatlist2 | escape }}</a>
 </h1>
 {% endif %}
-<ul class="post-list">
-  {%- for post in site.categories[page.catlist2] limit:3 -%}
-  {% include post-list-item.html post=post %}
+<div class="post-list">
+  {%- for post in site.categories[page.catlist2] limit:2 -%}
+  {% include post-preview-block.html post=post %}
   {%- endfor -%}
-</ul>
+</div>
 
 <h1>
   <a href="{{ 'tags' | relative_url }}">meer</a>
 </h1>
-{% include taglist-sorted.html max_no=3 %}
+<div class="tags-home">
+  {% include taglist-sorted.html max_no=4 %}
+</div>
 
 {%- endif -%}

@@ -3,7 +3,14 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <div class="title">
+      <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+      {% if page.number %}
+      <div class="number">
+        #{{ page.number }}
+      </div>
+      {% endif %}
+    </div>
     <div class="category">
       {% if post %}
       {% assign tags = post.tags %}
@@ -26,7 +33,7 @@ layout: default
     <h2>Topics en timecodes</h2>
     <ul>
       {% for tc in page.timecodes %}
-      <li>{{ tc[1] }} <a onclick='soundcloudSeekTo("{{ tc[0] }}")'>{{ tc[0] }}</a></li>
+      <li>{{ tc[1] }} <a class="seekTo" onclick='soundcloudSeekTo("{{ tc[0] }}")'>{{ tc[0] }}</a></li>
       {% endfor %}
     </ul>
     {% endif %}
@@ -92,22 +99,19 @@ layout: default
 {% endif %}
 {% endfor %}
 {% endif %}
+
 <div class="post-chronology">
   {% if next_post %}
   <div>
     <h2>volgende keer</h2>
-    <ul class="post-list">
-      {% include post-list-item.html post=next_post %}
-    </ul>
+    {% include post-preview-block.html post=next_post %}
   </div>
   {% endif %}
 
   {% if prev_post %}
   <div>
     <h2>vorige keer</h2>
-    <ul class="post-list">
-      {% include post-list-item.html post=prev_post %}
-    </ul>
+    {% include post-preview-block.html post=prev_post %}
   </div>
   {% endif %}
 </div>
