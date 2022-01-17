@@ -13,6 +13,12 @@ embed_player:
 excerpt_separator: <!--more-->
 description: "Welkom bij Geschiedenis van België en welkom bij de tweede aflevering over wegen en snelwegen."
 ---
+## Inleiding
 Welkom bij Geschiedenis van België en welkom bij de tweede aflevering over wegen en snelwegen. Vandaag treden we het tijdperk van de auto binnen. Jawel ik spendeerde al een hele aflevering aan wegen zonder het ook maar één keer over koning auto te hebben. Vandaag hebben we het over hoe de komst van de auto het Belgische wegennet niet alleen redden zou maar ook een gigantische boost geven. Met alle gevolgen vandien. Dat en nog veel meer in deze aflevering van Geschiedenis van België.
-Enquète: [https://docs.google.com/forms/d/1zyjgTTT8xxz15LECucCNDQGfM75Ymu_Y4_wGYD-RTOA/edit](https://docs.google.com/forms/d/1zyjgTTT8xxz15LECucCNDQGfM75Ymu_Y4_wGYD-RTOA/edit)
-Website Geschiedenis Snelwegen: [http://wegen-routes.be/hist/histn.html](http://wegen-routes.be/hist/histn.html)
+
+## Shownotes
+- De beste online bron voor alles wat u weten wilt over de geschiedenis van wegen en snelwegen in België: [wegen-routes.be](http://wegen-routes.be/homen.html){:target="_blank"} Dit is een ietwat verouderde website gebaseerd op het historisch onderzoek van Rien van de Wall, een uitstekende bron over de algemene geschiedenis van wegen en snelwegen, maar evengoed specifieke dossiers. Heel uitgebreid en degelijk materiaal. Een absolute aanrader
+- Het specifieke verhaal van enkele snelwegen op andere websites:
+  - [E17 op viadukaduk.be](https://viadukaduk.be/geschiedenis/){:target="_blank"}
+  - [E40 op vrt.be](https://www.vrt.be/vrtnws/nl/2020/12/12/het-land-met-de-meeste-kilometers-autosnelweg-en-het-begon-alle/){:target="_blank"}
+  - [Brusselse ring](https://issuu.com/rienvandewall/docs/masterproef_rvandewall_bundel_publ){:target="_blank"}
