@@ -189,7 +189,8 @@ class JekyllPosts:
 
         if track.permalink in self.unpublished_posts:
             # update
-            template = self.update_post_template.replace('%TITLE%', f'"{track.title}"')
+            template = '' + self.update_post_template
+            template = template.replace('%TITLE%', f'"{track.title}"')
             template = template.replace('%NUMBER%', track.number or 'null')
             template = template.replace('%ARTWORK_URL%', track.artwork)
             template = template.replace('%DATE%', track.timestamp_local.strftime("%Y-%m-%d %H:%M:%S %z"))
@@ -203,7 +204,8 @@ class JekyllPosts:
 
         elif not os.path.exists(filepath):
             # new
-            template = self.new_post_template.replace('%TITLE%', f'"{track.title}"')
+            template = '' + self.new_post_template
+            template = template.replace('%TITLE%', f'"{track.title}"')
             template = template.replace('%NUMBER%', track.number or 'null')
             template = template.replace('%ARTWORK_URL%', track.artwork)
             template = template.replace('%DATE%', track.timestamp_local.strftime("%Y-%m-%d %H:%M:%S %z"))
