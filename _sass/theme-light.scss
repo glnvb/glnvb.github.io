@@ -17,7 +17,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     pointer-events: none;
     border: 5px solid white;
 }
@@ -76,6 +76,7 @@ main h1, main h2 {
 
 main h1 {
     font-size: 42px;
+    margin: 30px 0px;
 }
 
 .post-content h2, main h2 {
@@ -326,11 +327,17 @@ a.seekTo {
 
 div.post-list {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
+    grid-template-columns: 1.5fr 1fr;
+    gap: 30px;
     margin: 0;
     margin-bottom: 40px;
     width: 100%;
+}
+
+@include media-query($on-laptop) {
+    div.post-list {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 @include media-query($on-palm) {
