@@ -31,6 +31,8 @@ jobs:
           USER_ID: 252268476
       - name: "Update Git"
         run: |
+          git config --global user.email "glnvb@github.local"
+          git config --global user.name "Glenn Bot"
           git add _posts/podcast/
           git commit -a -m "SoundCloud import"
           git push
