@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 layout: post
 number: 11
 tag:
-- oudheid
+- Oudheid
 tim_aanwezig: true
 title: "België van A Tot Z: Ambiorix"
 ---
