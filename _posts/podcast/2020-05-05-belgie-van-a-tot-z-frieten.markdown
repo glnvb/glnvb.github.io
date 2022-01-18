@@ -10,7 +10,6 @@ tag: []
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-frieten
-excerpt_separator: <!--more-->
 description: "Frieten."
 ---
 Frieten. Belgisch of niet?

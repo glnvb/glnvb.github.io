@@ -10,6 +10,5 @@ tag: [Waarom België]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/wrm-8-willem-en-zo
-excerpt_separator: <!--more-->
 description: ""
 ---

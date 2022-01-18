@@ -10,6 +10,5 @@ tag: []
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/trailer-belgie-van-a-tot-z
-excerpt_separator: <!--more-->
 description: ""
 ---

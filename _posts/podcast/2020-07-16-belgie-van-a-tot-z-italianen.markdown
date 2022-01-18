@@ -10,7 +10,6 @@ tag: ["cultuur en maatschappij"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-italianen
-excerpt_separator: <!--more-->
 description: "Waarin we het hebben over de Italiaanse migratie naar België, inclusief de mijnramp van Marcinelle, Molenbeek en veel meer."
 ---
 Waarin we het hebben over de Italiaanse migratie naar België, inclusief de mijnramp van Marcinelle, Molenbeek en veel meer.

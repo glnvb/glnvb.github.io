@@ -10,7 +10,6 @@ tag: [Waarom België]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/wrm9-opera
-excerpt_separator: <!--more-->
 description: "De negende aflevering van een geschiedenispodcast waarin we op zoek gaan naar het waarom van België."
 ---
 De negende aflevering van een geschiedenispodcast waarin we op zoek gaan naar het waarom van België. Deze aflevering: Opera en revolutie.

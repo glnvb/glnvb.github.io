@@ -10,7 +10,6 @@ tag: [oorlog]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/woi-extra-etappeleven-te-gent
-excerpt_separator: <!--more-->
 description: "Welkom bij geschiedenis van België; geen complete aflevering maar eens iets anders: een voorleessessie."
 ---
 Welkom bij geschiedenis van België; geen complete aflevering maar eens iets anders: een voorleessessie. Wel niet van zomaar een tekst maar een historische tekst. Vandaag is dat een boek dat al een tijdje in mijn kast staat: “Etappeleven te Gent” door Heinrich Wandt. Daarin beschrijft Heinrich zijn wedervaren in Gent als onderdeel van de Duitse bezettingsmacht. En jongens toch wat is dat een fantastisch boek. Geen roman maar een nogal kleurrijke beschrijving van het soldatenleven. En dan vooral dat van de officieren.

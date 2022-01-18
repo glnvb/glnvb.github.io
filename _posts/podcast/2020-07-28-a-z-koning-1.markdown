@@ -10,7 +10,6 @@ tag: ["politiek"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-koning-1
-excerpt_separator: <!--more-->
 description: "Waarin we het hebben over de eerste koning de Belgen, waarom die koning werd en waarom 21 juli onze nationale feestdag is."
 ---
 Waarin we het hebben over de eerste koning de Belgen, waarom die koning werd en waarom 21 juli onze nationale feestdag is. Oh, en de grondwet, de tiendaagse veldtocht en Willem >I komen ook nog aan bod!

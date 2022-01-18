@@ -10,7 +10,6 @@ tag: []
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/napoleon
-excerpt_separator: <!--more-->
 description: "Welkom bij Geschiedenis van België."
 ---
 Welkom bij Geschiedenis van België. En welkom bij deze aflevering over Napoleon. Over de figuur van Napoleon ja, maar nog veel meer over zijn impact op wat nu België is. Wat betekent dat we het gaan hebben over allerhande zaken: achternamen, verkeer, wetcodes, musea en of die man nu een held of een duivel was. Dat en nog veel meer in deze aflevering van geschiedenis van België.

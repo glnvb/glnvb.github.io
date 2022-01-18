@@ -10,7 +10,6 @@ tag: [Waarom België]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/wrm-belgie-e1
-excerpt_separator: <!--more-->
 description: "Een podcast waarin we gezamenlijk door de Belgische geschiedenis heen fietsen op zoek naar de bestaansreden en het waarom van België."
 ---
 Een podcast waarin we gezamenlijk door de Belgische geschiedenis heen fietsen op zoek naar de bestaansreden en het waarom van België.

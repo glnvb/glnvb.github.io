@@ -10,7 +10,6 @@ tag: ["mobiliteit"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/97-wegen-en-snelwegen-ii
-excerpt_separator: <!--more-->
 description: "Welkom bij Geschiedenis van België en welkom bij de tweede aflevering over wegen en snelwegen."
 ---
 ## Inleiding

@@ -10,7 +10,6 @@ tag: ["cultuur en maatschappij"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-jupiler-pro-league
-excerpt_separator: <!--more-->
 description: "Waarin we het hebben over de oorsprong van onze nationale voetbalcompetitie: De Jupiler Pro League."
 ---
 Waarin we het hebben over de oorsprong van onze nationale voetbalcompetitie: De Jupiler Pro League. Een verhaal over industrialisering, anglofilie, verzuiling en voetbal.

@@ -10,7 +10,6 @@ tag: [oorlog]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/woi-iii-rape-of-belgiumbrave-little-belgium
-excerpt_separator: <!--more-->
 description: "Welkom bij geschiedenis van België en welkom bij deze derde aflevering over de eerste wereldoorlog."
 ---
 Welkom bij geschiedenis van België en welkom bij deze derde aflevering over de eerste wereldoorlog. Vandaag laten we de wereld van de internationale politiek eindelijk achter ons en betreedt het Belgische leger het strijdperk. Hou u dus vast voor fortengordels, dikke Bertha’s, cyclisten, en uiteindelijk, de IJzer. Dat en nog veel meer in deze aflevering van geschiedenis van België.

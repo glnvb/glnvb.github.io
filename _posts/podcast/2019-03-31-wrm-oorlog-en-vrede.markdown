@@ -10,7 +10,6 @@ tag: [Waarom België]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/wrm5-oorlog-en-vrede
-excerpt_separator: <!--more-->
 description: "De vijfde aflevering van een geschiedenispodcast waarin we gezamenlijk door de pre-Belgische geschiedenis fietsen op zoek naar het waarom van België."
 ---
 De vijfde aflevering van een geschiedenispodcast waarin we gezamenlijk door de pre-Belgische geschiedenis fietsen op zoek naar het waarom van België.

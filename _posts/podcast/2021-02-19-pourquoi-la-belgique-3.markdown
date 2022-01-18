@@ -10,7 +10,6 @@ tag: []
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/porquoi-la-belgique-3
-excerpt_separator: <!--more-->
 description: "Bienvenue chez Pourquoi la Belgique et bienvenue dans entre-temps le 3e épisode de ce Podcast."
 ---
 Bienvenue chez Pourquoi la Belgique et bienvenue dans entre-temps le 3e épisode de ce Podcast. Aujourd'hui nous retraçons la fin des Bourguignons avant de nous pencher sur le plus proéminent de leurs descendants : un certain Charles Quint.

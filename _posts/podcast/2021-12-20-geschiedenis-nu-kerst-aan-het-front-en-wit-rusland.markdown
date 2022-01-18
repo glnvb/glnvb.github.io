@@ -9,7 +9,6 @@ tag: ["geschiedenis nu","oorlog"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/geschiedenis-nu-kerst-aan-het-front-en-wit-rusland
-excerpt_separator: <!--more-->
 description: Podcast met Bert Kruismans Kerst en Wit-Rusland. Een historisch kader bij recente gebeurtenissen.
 ---
 Welkom bij Geschiedenis Nu, de podcast waar Bert Kruismans en ik het hebben over twee actuele thema’s en wat we daarover kunnen leren door naar de geschiedenis te kijken.\

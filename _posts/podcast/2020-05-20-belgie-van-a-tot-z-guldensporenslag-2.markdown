@@ -10,7 +10,6 @@ tag: ["oorlog","Middeleeuwen"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-guldensporenslag-2
-excerpt_separator: <!--more-->
 description: "Een tweede aflevering waar we de geschiedenis van de Guldensporenslag verder uitspitten maar niet tot op het eigenlijke slagveld geraken."
 ---
 Een tweede aflevering waar we de geschiedenis van de Guldensporenslag verder uitspitten maar niet tot op het eigenlijke slagveld geraken. Komen wel aan bod: Gewijde van Vlaanderen, Edward van Engeland, Filips van Frankrijk en de totale bezetting van Vlaanderen door de Fransen.

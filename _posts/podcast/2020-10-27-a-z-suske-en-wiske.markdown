@@ -10,7 +10,6 @@ tag: ["politiek"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-suske-en-wiske
-excerpt_separator: <!--more-->
 description: "Welkom bij “Geschiedenis van België” en welkom bij de letter S."
 ---
 Welkom bij “Geschiedenis van België” en welkom bij de letter S. S voor “Suske en Wiske”. “Suske en Wiske” ja. Niet zozeer over de geschiedenis van de stripreeks zelf maar over hoe die stripreeks omgaat met de Belgische geschiedenis. Zowel het verre verleden als het eigen tijdvak waarin de strips uitkwamen. Bijgevolg hebben we in het in deze aflevering onder meer over de koningskwestie, de Spanjaarden, de post, de dioxinecrisis, het ijzeren gordijn en de schoolstrijd. Dat en nog veel meer in deze aflevering van “Geschiedenis van België”.

@@ -10,7 +10,6 @@ tag: ["politiek"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-waalse-haan
-excerpt_separator: <!--more-->
 description: "Welkom bij geschiedenis van België en welkom bij de letter W."
 ---
 Welkom bij geschiedenis van België en welkom bij de letter W. W voor Waals. Waalse haan in dit geval. Dit blijft nu eenmaal een podcast die zich voornamelijk met België bezighoudt en dus lijkt het mij maar logisch dat na de Vlaamse leeuw vorige week we deze week wat aandacht besteden aan de Waalse tegenhanger. De Waalse Haan dus. Een symbool dat de meeste van mijn luisteraars wel zullen kennen maar waarvan weinigen ook echt weten waar het vandaan komt. Op die vraag en nog vele anderen krijgt u vandaag een antwoord. Welkom bij België van A tot Z.

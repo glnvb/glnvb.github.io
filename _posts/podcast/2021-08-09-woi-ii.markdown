@@ -10,7 +10,6 @@ tag: ["oorlog"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/woi-ii
-excerpt_separator: <!--more-->
 description: "Welkom bij geschiedenis van België en welkom bij deze tweede aflevering over de eerste wereldoorlog."
 ---
 Welkom bij geschiedenis van België en welkom bij deze tweede aflevering over de eerste wereldoorlog. Vanuit Belgisch perspectief weliswaar. Vandaag trekken we definitief ten oorlog. Al moet ik daarvoor eerst natuurlijk de vele oorzaken van de eerste wereldoorlog verklaren. Verwacht u dus aan een moord, een heleboel diplomatie, een vodje papier en een korte politieke geschiedenis van de Balkan. Dat en nog veel meer in deze aflevering van Geschiedenis van België

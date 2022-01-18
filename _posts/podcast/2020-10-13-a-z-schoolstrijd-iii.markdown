@@ -10,7 +10,6 @@ tag: ["politiek"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-schoolstrijd-iii
-excerpt_separator: <!--more-->
 description: "Welkom bij Geschiedenis van België."
 ---
 Welkom bij Geschiedenis van België. En welkom bij de derde aflevering gewijd aan de letter Q. Al staat die letter Q om praktische en democratische redenen ondertussen voor schoolstrijd. Dit is de derde en laatste aflevering die we wijden aan dit fenomeen. Vandaag hebben we het over verzuiling in de 20ste eeuw, gigantische investeringen in het onderwijs, demonstraties, rellen en last but not least; het schoolpact!. Dat en meer in deze aflevering van “Geschiedenis van België”

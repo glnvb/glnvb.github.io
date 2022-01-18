@@ -10,7 +10,6 @@ tag: ["cultuur en maatschappij"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-reynaert-de-vos
-excerpt_separator: <!--more-->
 description: "Welkom bij geschiedenis van België."
 ---
 Welkom bij geschiedenis van België. En welkom bij de letter R. R voor Reinaert. Reinaert de vos om precies te zijn. Een literaire figuur dus maar tegelijkertijd ook veel meer dan dat. Reinaert is min of meer een BV, met zijn eigen standbeelden, wandelingen, cafés, volksfeesten en strips. Maar waar komt die figuur eigenlijk vandaan? En welke Reinaert is dan de “echte Reinaert”. We hebben het over vossen, wolven, de middeleeuwse standenmaatschappij en last but not least over de Nazi-versie van Reinaert De Vos. Jawel, die bestaat. Ik was ook verbaasd. Dat en meer in deze aflevering van Geschiedenis van België.

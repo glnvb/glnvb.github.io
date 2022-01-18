@@ -10,7 +10,6 @@ tag: [Waarom België]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/wrm7-napoleon-en-zo
-excerpt_separator: <!--more-->
 description: "Een geschiedenispodcast waarin we voor de zevende keer op rij op zoek gaan naar het waarom van België."
 ---
 Een geschiedenispodcast waarin we voor de zevende keer op rij op zoek gaan naar het waarom van België. Vandaag:

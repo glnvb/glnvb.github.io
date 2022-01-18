@@ -10,7 +10,6 @@ tag: ["Moderne tijd"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-expo-58
-excerpt_separator: <!--more-->
 description: "Expo 58, één van de zeldzame momenten waar België in het middelpunt van de aandacht stond en alles enkel beter kon."
 ---
 Expo 58, één van de zeldzame momenten waar België in het middelpunt van de aandacht stond en alles enkel beter kon.

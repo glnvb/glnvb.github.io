@@ -9,7 +9,6 @@ tag: []
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/state-of-the-podcast-ii
-excerpt_separator: <!--more-->
 description: Een kerstboodschap met goede voornemens en plannen voor de podcast.
 ---
 Geen volledige aflevering maar mijn versie van een kerstboodschap. Inclusief bedankjes voor het afgelopen jaar en vooruitkijken naar wat komen zal. Iets waar jullie ook je zegje over mogen doen. 

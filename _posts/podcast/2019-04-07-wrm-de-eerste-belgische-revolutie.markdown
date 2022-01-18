@@ -10,6 +10,5 @@ tag: [Waarom België]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/wrm6-de-eerste-belgische-revolutie
-excerpt_separator: <!--more-->
 description: ""
 ---

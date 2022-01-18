@@ -10,7 +10,6 @@ tag: ["oorlog","Middeleeuwen"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-guldensporenslag-3
-excerpt_separator: <!--more-->
 description: "Derde aflevering over de Guldensporenslag."
 ---
 Derde aflevering over de Guldensporenslag. Met onder meer: de Franse bezetting en de Brugse Metten.

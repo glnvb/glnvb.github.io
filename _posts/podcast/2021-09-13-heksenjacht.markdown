@@ -10,7 +10,6 @@ tag: ["politiek","cultuur en maatschappij"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/heksenjacht
-excerpt_separator: <!--more-->
 description: "Welkom bij Geschiedenis van België."
 ---
 Welkom bij Geschiedenis van België. En welkom bij deze aflevering over heksenvervolgingen. Vandaag hebben we het over de inquisitie, een heksenhamer, gerechtelijke procedures, tortuur en nog veel meer in deze aflevering van Geschiedenis van België.

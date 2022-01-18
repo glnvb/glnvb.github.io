@@ -10,7 +10,6 @@ tag: []
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/state-of-the-podcast-i
-excerpt_separator: <!--more-->
 description: "Enkele korte mededelingen over de toekomst van de podcast."
 ---
 Enkele korte mededelingen over de toekomst van de podcast. 

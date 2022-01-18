@@ -10,7 +10,6 @@ tag: ["cultuur en maatschappij"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/studenten-en-universiteiten-2
-excerpt_separator: <!--more-->
 description: "Welkom bij geschiedenis van België en welkom bij deze tweede aflevering over studenten en universiteiten."
 ---
 Welkom bij geschiedenis van België en welkom bij deze tweede aflevering over studenten en universiteiten. Vandaag trekken we het verhaal helemaal door tot de 20e eeuw. Zo lichtten we het ontstaan van andere universiteiten toe en wat dat allemaal te maken heeft met de Belgische revolutie, katholieken en liberalen. Verder hebben we het nog over vrouwen, de taalkwestie, hoge scholen en bisschoppen. Dat en nog veel meer in deze aflevering van Geschiedenis van België.

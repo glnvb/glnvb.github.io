@@ -10,7 +10,6 @@ tag: [steden]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/ronse
-excerpt_separator: <!--more-->
 description: "Welkom bij geschiedenis van België en welkom bij deze aflevering over Ronse."
 ---
 Welkom bij geschiedenis van België en welkom bij deze aflevering over Ronse. Waarom Ronse? Wel, omdat die stad tot mijn eigen verbazing echt wel een fascinerende geschiedenis heeft. Meer zelfs, je kan er zowat de hele Belgische geschiedenis in terug vinden. Als je maar goed zoekt. Bijgevolg heb ik het vandaag over Kelten, Romeinen, Germanen, een klooster, een heilige, een hoop keizers, koningen, hertogen en graven, de beeldenstorm, calvinisme, de textielnijverheid en de taalgrens. Wat dat allemaal te maken heeft met Ronse hoort u in deze aflevering van Geschiedenis van België.

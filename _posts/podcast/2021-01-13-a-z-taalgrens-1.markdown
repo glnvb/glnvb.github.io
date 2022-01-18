@@ -10,7 +10,6 @@ tag: ["politiek"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-taalgrens-1
-excerpt_separator: <!--more-->
 description: "Welkom bij Geschiedenis van België."
 ---
 Welkom bij Geschiedenis van België. En welkom bij de letter Y. Wel, technisch gezien toch. In de praktijk heb ik het op vraag van mijn publiek over de taalgrens. U weet wel die grens waar aan de ene kant men Nederlands spreek en aan de andere kant Frans. Of beiden. Maar ik heb het vandaag over veel meer dan enkel de taalgrens. Waarom is Vlaanderen traditioneel rechtser dan Wallonië? Wat hebben de Romeinen te maken met onze taalgrens en hoe zat dan vroeger voor de taalgrens? Dat en meer in deze aflevering van België van A tot Z.

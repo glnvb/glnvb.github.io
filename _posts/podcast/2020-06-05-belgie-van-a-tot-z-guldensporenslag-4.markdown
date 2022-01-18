@@ -10,7 +10,6 @@ tag: ["oorlog","Middeleeuwen"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-guldensporenslag-4
-excerpt_separator: <!--more-->
 description: "Waarin we het (eindelijk) hebben over de Guldensporenslag zelf en niet enkel over saaie maar noodzakelijke zaken als context en dergelijke."
 ---
 Waarin we het (eindelijk) hebben over de Guldensporenslag zelf en niet enkel over saaie maar noodzakelijke zaken als context en dergelijke. 

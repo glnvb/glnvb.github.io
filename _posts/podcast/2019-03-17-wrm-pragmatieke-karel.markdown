@@ -10,7 +10,6 @@ tag: [Waarom België]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/wrm3-pragmatieke-karel
-excerpt_separator: <!--more-->
 description: "De derde aflevering van een geschiedenispodcast over het waarom van 
  België."
 ---

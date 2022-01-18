@@ -10,7 +10,6 @@ tag: ["steden"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/ieper
-excerpt_separator: <!--more-->
 description: "Welkom bij Geschiedenis van België en welkom bij deze aflevering over Ieper."
 ---
 Welkom bij Geschiedenis van België en welkom bij deze aflevering over Ieper. Een stad met een rijk verleden die desondanks toch bekend staat voor één ding: de Eerste Wereldoorlog. Terecht of onterecht dat laat ik aan u over maar vandaag bekijken we het volledige plaatje: het ontstaan van de stad, economische bloei en verval, katten, muren en natuurlijk ook de Eerste Wereldoorlog. En wat erna kwam. Vooral wat erna kwam. Dat en veel meer in deze aflevering van Geschiedenis van België. Welkom!

@@ -10,7 +10,6 @@ deze_aflevering: false
 embed_player:
   src: https://soundcloud.com/tim-gistelinck/van-a-tot-z-ambiorix
   type: soundcloud
-excerpt_separator: <!--more-->
 layout: post
 number: 11
 tag:

@@ -10,7 +10,6 @@ tag: ["oorlog","Middeleeuwen"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-guldensporenslag-5
-excerpt_separator: <!--more-->
 description: "Laatste aflevering in onze reeks over de Guldensporenslag."
 ---
 Laatste aflevering in onze reeks over de Guldensporenslag. In deze aflevering: Wat gebeurde er na de Guldensporenslag met de Vlaamse opstand en hoe kijken we vandaag naar 11 juli 1302?

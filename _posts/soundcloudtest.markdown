@@ -15,6 +15,5 @@ play:
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/luxemburg
-excerpt_separator: <!--more-->
 ---
 

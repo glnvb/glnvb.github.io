@@ -10,7 +10,6 @@ tag: ["Vroegmoderne tijd"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/in-de-kijker-de-beeldenstorm-en-cultuurgeschiedenis-met-anne-laure-van-bruaene
-excerpt_separator: <!--more-->
 description: "Professor Anne-Laure Van Bruaene was zo vriendelijk om het met mij te hebben over de culturele oorzaken van de beeldenstorm."
 ---
 Professor Anne-Laure Van Bruaene was zo vriendelijk om het met mij te hebben over de culturele oorzaken van de beeldenstorm. Verder is de aflevering zowat een inleiding in de cultuurgeschiedenis en absoluut een aanrader voor wie eens kennis wil maken met een ander soort geschiedenis. We hebben het bijvoorbeeld tien minuten lang over de culturele relevantie van baardgroei bij mannen in historisch perspectief.

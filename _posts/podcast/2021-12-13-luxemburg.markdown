@@ -10,7 +10,6 @@ tag: ["regio's"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/luxemburg
-excerpt_separator: <!--more-->
 description: "Welkom bij Geschiedenis van België en welkom bij deze aflevering over Luxemburg."
 ---
 Welkom bij Geschiedenis van België en welkom bij deze aflevering over Luxemburg. Nog zo een land waarvan niemand echt goed begrijpt waarom het eigenlijk een dingetje is. En een land dat onherroepelijk verbonden is met België. En Nederland. De geschiedenis van Luxemburg is er eentje van koningen, keizers en hertogen maar evengoed van dynastiek toeval, rondtrekkende legers en geopolitieke compromissen waar eigenlijk niemand echt tevreden mee was. Behalve de Luxemburgers zelf. Dat en nog veel meer in deze aflevering van Geschiedenis van België.

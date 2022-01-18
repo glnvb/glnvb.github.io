@@ -10,7 +10,6 @@ tag: ["cultuur en maatschappij"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-de-post
-excerpt_separator: <!--more-->
 description: "Welkom bij Geschiedenis van België."
 ---
 Welkom bij Geschiedenis van België. En welkom bij de letter P. De P van plagen, de pacificatie van Gent, Plantijn maar ook die van de Post. Jawel, de Post. Een onderwerp dat al jaren in mijn hoofd zit te gisten met dank aan het Suske en Wiske album: De Kleine Postruiter. Niet dat deze aflevering het over dat specifieke album heeft. Toch niet de hele tijd. Ik heb het wel over paters en tempeliers, Turn en Taxis en Wereldoorlog 1. Dat en meer in deze aflevering van Geschiedenis van België.

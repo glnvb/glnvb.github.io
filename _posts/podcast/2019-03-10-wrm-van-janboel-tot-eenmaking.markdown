@@ -10,7 +10,6 @@ tag: [Waarom België]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/wrm2-van-janboel-tot-eenmaking
-excerpt_separator: <!--more-->
 description: "Tweede aflevering van een geschiedenispodcast waarin we op zoek gaan naar het waarom van België."
 ---
 Tweede aflevering van een geschiedenispodcast waarin we op zoek gaan naar het waarom van België. Deze aflevering: Hoe een heleboel verdeelde middeleeuwse graafschapjes samensmelten tot min of meer verenigde Nederlanden.

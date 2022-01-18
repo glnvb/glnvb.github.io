@@ -10,7 +10,6 @@ tag: ["Interbellum","politiek"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/interbellum-1919-1929
-excerpt_separator: <!--more-->
 description: "Welkom bij Geschiedenis van België en welkom bij deze eerste aflevering over het Interbellum."
 ---
 Welkom bij Geschiedenis van België en welkom bij deze eerste aflevering over het Interbellum. U weet wel, die periode tussen de twee wereldoorlogen waarin de hele wereld eventjes heropleefde, om zich daarna in een lange spiraal richting wereldoorlog II te werpen. Dat internationale verhaal wel, daar gaan we het eigenlijk amper over hebben. Want dat hebt u naar alle waarschijnlijkheid wel al gehoord of gezien. Nee, wij gaan het hebben over het Belgische verhaal. Over hoe België vlak na de oorlog opnieuw één van de meest progressieve landen ter wereld werd maar tegelijkertijd fouten maakte die het zuur zouden opbreken. Vandaag hebben we het dan ook over de acht uren werkdag, een Belgische inval in Duitsland, amnestie, een opeenvolging van regeringen en de vernederlandsing van de Gentse universiteit. Dat en nog veel meer in deze aflevering van Geschiedenis van België.

@@ -10,6 +10,5 @@ tag: [kolonies]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-3-congo-vrijstaat
-excerpt_separator: <!--more-->
 description: ""
 ---

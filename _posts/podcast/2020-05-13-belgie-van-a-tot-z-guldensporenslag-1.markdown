@@ -10,7 +10,6 @@ tag: ["oorlog","Middeleeuwen"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-guldensporenslag-1
-excerpt_separator: <!--more-->
 description: "Aflevering 1 van een relatief diepe duik in de geschiedenis van de Guldensporenslag."
 ---
 Aflevering 1 van een relatief diepe duik in de geschiedenis van de Guldensporenslag. Deze week hebben we het vooral over wat er vooraf ging: het ontstaan van het graafschap Vlaanderen en de woelige relatie tussen graaf, koning en steden.

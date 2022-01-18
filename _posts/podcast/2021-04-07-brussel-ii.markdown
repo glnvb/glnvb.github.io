@@ -10,7 +10,6 @@ tag: ["steden"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/brussel-ii
-excerpt_separator: <!--more-->
 description: "Welkom bij geschiedenis van België."
 ---
 Welkom bij geschiedenis van België. En welkom bij de tweede aflevering over de geschiedenis van Brussel. Vorige week eindigden we met een stad in as, vandaag bekijken we de heropbouw, het einde van het mooiste paleis van de Lage Landen, een revolutie of twee, de verfransing van Brussel en natuurlijk moet ik het ook nog even hebben over de zoals altijd onvermijdelijke Leopold II; Dat en meer in deze aflevering van Geschiedenis van België. Welkom!

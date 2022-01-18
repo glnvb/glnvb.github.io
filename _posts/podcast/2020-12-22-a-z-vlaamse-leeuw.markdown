@@ -10,7 +10,6 @@ tag: ["politiek"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-vlaamse-leeuw
-excerpt_separator: <!--more-->
 description: "Welkom bij geschiedenis van België."
 ---
 Welkom bij geschiedenis van België. En welkom bij de letter V. V voor Vlaamse leeuw. Na een reeks van vijf afleveringen over de opstand is het nu dus tijd voor iets helemaal anders namelijk HET symbool van het Vlaamse nationalisme: De Vlaamse Leeuw. Vandaag heb ik het over de oorsprong van dat vreemde beest, het wapenschild, de vlag, het logo van de Vlaamse gemeenschap, het volkslied en nog veel meer. Welkom bij België van A tot Z.

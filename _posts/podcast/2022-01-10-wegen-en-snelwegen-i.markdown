@@ -10,7 +10,6 @@ tag: ["mobiliteit"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/96-snelwegen-i
-excerpt_separator: <!--more-->
 description: Snelwegen, steenwegen, dorpswegen of dacht u aan provinciale wegen? We starten in de 18e eeuw en eindigen net voor de 20ste eeuw, waar we volgende keer verder gaan.
 # Inhoud van de post automatisch gegenereerd
 deze_aflevering: true

@@ -10,7 +10,6 @@ tag: ["oorlog"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-unie-van-de-opstand-ii
-excerpt_separator: <!--more-->
 description: "Welkom bij geschiedenis van België."
 ---
 Welkom bij geschiedenis van België. En welkom bij de letter U. U voor de unie van Utrecht, Brussel en Atrecht. De tweede aflevering al over dat onderwerp. Al zijn deze afleveringen vooral afleveringen over de hele Opstand geworden. Omdat de opstand nu eenmaal één van de belangrijkste periodes in de geschiedenis van de lage landen is. En omdat ik het er stiekem al een tijdje over hebben wil. Vandaag hebben we het over het begin van de militaire vijandelijkheden, overwinningen en nederlagen van een zekere Willem van oranje, watergeuzen, bosgeuzen, invasies en een strafexpeditie.

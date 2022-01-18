@@ -10,7 +10,6 @@ tag: ["cultuur en maatschappij"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z
-excerpt_separator: <!--more-->
 description: "Podcast over de Belgische geschiedenis van A tot Z."
 ---
 Podcast over de Belgische geschiedenis van A tot Z. Vandaag: het Heizeldrama.

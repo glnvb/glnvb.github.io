@@ -10,7 +10,6 @@ tag: ["politiek","cultuur en maatschappij","interview"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/in-de-kijker-vrouwen-in-de-belgische-geschiedenis-met-kim-descheemaeker
-excerpt_separator: <!--more-->
 description: "Na drie afleveringen over vrouwen in de Belgische geschiedenis sluiten we dit hoofdstuk (voorlopig) af met een interview."
 ---
 Na drie afleveringen over vrouwen in de Belgische geschiedenis sluiten we dit hoofdstuk (voorlopig) af met een interview. Kim Descheemaker doet historisch onderzoek bij Liberas en beantwoord enkele van mijn en uw vragen. Enjoy! Dinsdag of woensdag volgt een reguliere aflevering over een zekere stad in de Westhoek. Tot dan!
