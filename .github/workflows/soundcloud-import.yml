@@ -1,0 +1,39 @@
+name: soundcloud import
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "15 6,18 * * *" # build daily at hour 6:15 and 18:15 UTC
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT }}
+      - uses: "actions/setup-python@v2"
+        with:
+          python-version: "3.9"
+      - name: "Install dependencies"
+        run: |
+          set -xe
+          python -VV
+          python -m site
+          python -m pip install --upgrade pip setuptools wheel
+          python -m pip install -r scripts/requirements.txt
+      - name: "SoundCloud import"
+        run: |
+          python scripts/soundcloud-import.py
+        env:
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          USER_ID: 252268476
+      - name: "Update Git"
+        run: |
+          [[ -z $(git status -uno --porcelain) ]] && exit 0
+          git config --global user.email "glnvb@github.local"
+          git config --global user.name "Glenn Bot"
+          git add _posts/podcast/
+          git commit -a -m "SoundCloud import"
+          git push
