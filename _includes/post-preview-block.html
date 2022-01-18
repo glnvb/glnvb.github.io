@@ -17,26 +17,3 @@
         </div>
     </div>
 </a>
-<!-- 
-<li>
-    <h3>
-        {% if post.external_url %}
-        <a class="post-link" href="{{ post.external_url }}" target="_blank">
-            {% else %}
-            <a class="post-link" href="{{ post.url | relative_url }}">
-                {% endif %}
-                {{ post.title | escape }}
-            </a>
-    </h3>
-    <p>
-        {%- if site.show_excerpts -%}
-        {%- if post.description -%}
-        {{ post.description | strip_html }}<br>
-        {% else %}
-        {{ post.excerpt | strip_html }}<br>
-        {%- endif -%}
-        {%- endif -%}
-        {% include read-more.html currPost=post %}
-    </p>
-    <element class="post-meta">{{ post.date | date: date_format }}</element>
-</li> -->
