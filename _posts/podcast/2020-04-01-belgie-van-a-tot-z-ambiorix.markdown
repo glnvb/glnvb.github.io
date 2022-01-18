@@ -15,7 +15,6 @@ layout: post
 number: 11
 tag:
 - oudheid
-- mobiliteit
 tim_aanwezig: true
 title: "België van A Tot Z: Ambiorix"
 ---
