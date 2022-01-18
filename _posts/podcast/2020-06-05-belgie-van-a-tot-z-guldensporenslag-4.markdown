@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-hgdv05QWQCEzFqZN-G0pEKA-t500x500.jpg
 author: Tim
 date: 2020-06-05 18:09:01 +0200
 categories: podcast
-tag: []
+tag: ["oorlog","Middeleeuwen"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-guldensporenslag-4

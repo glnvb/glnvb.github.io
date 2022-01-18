@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-EQgz9cYWh7xNnSEN-w9ScIw-t500x500.jpg
 author: Tim
 date: 2021-10-25 10:46:38 +0200
 categories: podcast
-tag: []
+tag: ["interview","Middeleeuwen"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/gender-familie-consent-en-metoo-in-de-middeleeuwen-interview-met-chanelle-delameillieure

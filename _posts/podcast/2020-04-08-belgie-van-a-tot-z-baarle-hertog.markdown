@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-0zIrS8eCyNFEvXMK-VJVy6Q-t500x500.jpg
 author: Tim
 date: 2020-04-08 08:38:05 +0200
 categories: podcast
-tag: []
+tag: [steden]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-2

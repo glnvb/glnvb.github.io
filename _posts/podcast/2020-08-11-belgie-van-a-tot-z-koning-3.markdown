@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-k64ByMDm1ccGrEDP-N3UrFg-t500x500.jpg
 author: Tim
 date: 2020-08-11 06:00:22 +0200
 categories: podcast
-tag: []
+tag: ["politiek"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-koning-3

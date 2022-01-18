@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-NlkmQvNRF5jLtrQZ-8bxyFg-t500x500.jpg
 author: Tim
 date: 2021-11-02 19:11:39 +0100
 categories: podcast
-tag: []
+tag: ["politiek"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/versailles-en-loppem

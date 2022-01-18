@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-gYyJxxB0ovmfGpfz-gknhSw-t500x500.jpg
 author: Tim
 date: 2021-02-09 16:41:58 +0100
 categories: podcast
-tag: []
+tag: [steden]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/steden-een-inleiding

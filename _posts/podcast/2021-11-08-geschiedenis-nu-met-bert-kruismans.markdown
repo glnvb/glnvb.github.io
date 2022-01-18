@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-zq79SfVdmlzXeCSC-5nxxSA-t500x500.jpg
 author: Tim
 date: 2021-11-08 06:00:14 +0100
 categories: podcast
-tag: []
+tag: ["geschiedenis nu"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/geschiedenis-nu-1

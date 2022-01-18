@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-Z5RXHmRxlWCKmxfy-TnBPVw-t500x500.jpg
 author: Tim
 date: 2021-04-27 23:08:59 +0200
 categories: podcast
-tag: []
+tag: ["politiek","cultuur en maatschappij"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/vrouwen-iii

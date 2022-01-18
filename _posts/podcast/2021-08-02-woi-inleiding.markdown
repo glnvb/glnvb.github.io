@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-D52ZzPjEv3D6nHNf-w9oJHg-t500x500.jpg
 author: Tim
 date: 2021-08-02 23:11:34 +0200
 categories: podcast
-tag: []
+tag: ["oorlog"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/woi-inleiding

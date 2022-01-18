@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-OOyuGRwLzzNL46Wm-Zdv9HA-t500x500.jpg
 author: Tim
 date: 2020-09-08 16:34:43 +0200
 categories: podcast
-tag: []
+tag: ["politiek"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-oostenrijkse-nederlanden-i

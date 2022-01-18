@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-wwCLsAzUHBxFTAFS-zXzYqg-t500x500.jpg
 author: Tim
 date: 2021-12-06 08:00:02 +0100
 categories: podcast
-tag: []
+tag: [interview]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/archief-wat-wie-en-waarom-interview-met-filip-strubbe-en-geertrui-elaut

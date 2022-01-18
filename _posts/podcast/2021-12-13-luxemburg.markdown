@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-07zrWvP2SVumGYhn-vuKqbA-t500x500.jpg
 author: Tim
 date: 2021-12-13 07:00:30 +0100
 categories: podcast
-tag: []
+tag: ["regio's"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/luxemburg

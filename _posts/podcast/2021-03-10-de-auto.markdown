@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-qF7sORjohWQMzEmb-UhGNUA-t500x500.jpg
 author: Tim
 date: 2021-03-10 22:21:24 +0100
 categories: podcast
-tag: []
+tag: ["mobiliteit"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/de-auto

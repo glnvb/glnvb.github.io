@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-4v5vGzrUzIHAW0vd-516iqg-t500x500.jpg
 author: Tim
 date: 2020-10-20 19:01:22 +0200
 categories: podcast
-tag: []
+tag: ["cultuur en maatschappij"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-reynaert-de-vos

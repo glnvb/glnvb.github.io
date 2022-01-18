@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-CQStpIZ9ZHoPzzli-1eMZVw-t500x500.jpg
 author: Tim
 date: 2020-08-25 17:19:52 +0200
 categories: podcast
-tag: []
+tag: ["cultuur en maatschappij"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-migratie

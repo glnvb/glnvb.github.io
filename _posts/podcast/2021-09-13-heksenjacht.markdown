@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-hamvjyCeJxgPB9No-cgXg8Q-t500x500.jpg
 author: Tim
 date: 2021-09-13 19:51:41 +0200
 categories: podcast
-tag: []
+tag: ["politiek","cultuur en maatschappij"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/heksenjacht

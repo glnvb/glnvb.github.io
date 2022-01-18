@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-XalHBdVdv9ue8vYB-8s9Dww-t500x500.jpg
 author: Tim
 date: 2021-04-07 10:19:17 +0200
 categories: podcast
-tag: []
+tag: ["steden"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/brussel-ii

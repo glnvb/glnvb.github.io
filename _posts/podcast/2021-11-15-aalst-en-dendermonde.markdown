@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-Qz5VuruPuJkIIsKK-NPVUUQ-t500x500.jpg
 author: Tim
 date: 2021-11-15 16:20:38 +0100
 categories: podcast
-tag: []
+tag: ["steden"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/aalst-en-dendermonde

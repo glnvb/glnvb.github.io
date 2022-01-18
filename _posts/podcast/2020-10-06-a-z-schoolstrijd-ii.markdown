@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-7L29HoM9LWBa4qFG-nmi2mQ-t500x500.jpg
 author: Tim
 date: 2020-10-06 21:05:04 +0200
 categories: podcast
-tag: []
+tag: ["politiek"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-schoolstrijd-ii

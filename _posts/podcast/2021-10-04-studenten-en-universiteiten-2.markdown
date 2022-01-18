@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-qEtFVHDlLx32k9l7-zflpdQ-t500x500.jpg
 author: Tim
 date: 2021-10-04 16:21:22 +0200
 categories: podcast
-tag: []
+tag: ["cultuur en maatschappij"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/studenten-en-universiteiten-2

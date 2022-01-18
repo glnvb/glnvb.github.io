@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-vO0cAkZIQuMslJOk-3jrUJA-t500x500.jpg
 author: Tim
 date: 2020-12-01 19:45:43 +0100
 categories: podcast
-tag: []
+tag: ["oorlog"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-unie-van-de-opstand-iii

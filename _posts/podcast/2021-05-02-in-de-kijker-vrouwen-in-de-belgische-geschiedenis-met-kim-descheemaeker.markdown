@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-VHtfye65YxCBZnDw-vfk31w-t500x500.jpg
 author: Tim
 date: 2021-05-02 14:38:31 +0200
 categories: podcast
-tag: []
+tag: ["politiek","cultuur en maatschappij","interview"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/in-de-kijker-vrouwen-in-de-belgische-geschiedenis-met-kim-descheemaeker

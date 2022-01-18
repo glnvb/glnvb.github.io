@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-MIZ6ynCWk6dTxrkB-9k0gIw-t500x500.jpg
 author: Tim
 date: 2021-02-23 16:37:21 +0100
 categories: podcast
-tag: []
+tag: ["steden","Middeleeuwen"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/gent-i
