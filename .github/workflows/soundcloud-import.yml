@@ -31,7 +31,7 @@ jobs:
           USER_ID: 252268476
       - name: "Update Git"
         run: |
-          [[ -z $(git status -uno --porcelain) ]] && exit 0
+          [[ -z $(git status --porcelain) ]] && exit 0
           git config --global user.email "glnvb@github.local"
           git config --global user.name "Glenn Bot"
           git add _posts/podcast/
