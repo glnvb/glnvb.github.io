@@ -189,6 +189,8 @@ class JekyllPosts:
 
         if track.permalink in self.unpublished_posts:
             # update
+            print(f'Updating existing post for track "{track.title}".')
+
             template = '' + self.update_post_template
             template = template.replace('%TITLE%', f'"{track.title}"')
             template = template.replace('%NUMBER%', track.number or 'null')
@@ -204,6 +206,8 @@ class JekyllPosts:
 
         elif not os.path.exists(filepath):
             # new
+            print(f'Creating new post for track "{track.title}".')
+
             template = '' + self.new_post_template
             template = template.replace('%TITLE%', f'"{track.title}"')
             template = template.replace('%NUMBER%', track.number or 'null')
