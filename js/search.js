@@ -7,13 +7,21 @@
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
-        appendString += '<li><h3><a href="' + item.url + '">' + item.title + '</a></h3>';
-        appendString += '<p>' + item.description.substring(0, 150) + '...</p></li>';
+        appendString += '<a class="post-preview noart" href="' + item.url + '">';
+        appendString += '<div class="artwork">';
+        appendString += '<img class="svg-icon grey" src="/assets/cat_' + item.category + '.svg" onload="SVGInject(this)">';
+        appendString += '<div class="content">';
+        appendString += '<div class="title">';
+        appendString += '<h3>' + item.title + '</h3>';
+        appendString += '</div>';
+        appendString += '<div class="description">';
+        appendString += '<p>' + item.description + '</p>';
+        appendString += '</div></div></div></a>'
       }
 
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<li>Geen resultaten gevonden.</li>';
+      searchResults.innerHTML = '<p>Geen resultaten gevonden :\'(</p>';
     }
   }
 

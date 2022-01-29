@@ -7,7 +7,7 @@ list_title: "De meest recente podcast"
 De podcast komt wekelijks online op de Soundcloud-pagina van Tim Gistelinck en kort daarna op iTunes, Spotify, …
 
 {% assign social = site.minima.social_links %}
-<div class="luisteren">
+<div class="social">
   {% if social.soundcloud %}<a href="https://soundcloud.com/{{ social.soundcloud | cgi_escape | escape }}"
       title="SoundCloud"><img class="svg-icon grey" src="{{ '/assets/soundcloud.svg' | relative_url }}"
         onload="SVGInject(this)"><p>Soundcloud</p></a>{% endif %}

@@ -1,0 +1,18 @@
+{% assign post = include.post %}
+{% capture category %}{{ post.categories | first }}{% endcapture %}
+{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+
+<a class="post-preview noart" href="{{ post.url | relative_url }}">
+    <div class="artwork">
+        <img class="svg-icon grey" src="/assets/cat_{{ category }}.svg" onload="SVGInject(this)">
+        <div class="content">
+            <div class="title">
+                <h3>{{ post.title }}</h3>
+            </div>
+            <div class="description">
+                <p>{{ post.description }}</p>
+                <element class="post-meta">{{ post.date | date: date_format }}</element>
+            </div>
+        </div>
+    </div>
+</a>

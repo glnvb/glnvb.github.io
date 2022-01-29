@@ -16,7 +16,7 @@ layout: default
   <a href="{{ 'podcast' | relative_url }}">{{ page.namecatlist1 | escape }}</a>
 </h1>
 {% endif %}
-<div class="post-list">
+<div class="post-list-home">
   {%- for post in site.categories[page.catlist1] limit:2 -%}
   {% include post-preview-block.html post=post %}
   {%- endfor -%}
@@ -27,7 +27,7 @@ layout: default
   <a href="{{ 'artikel' | relative_url }}">{{ page.namecatlist2 | escape }}</a>
 </h1>
 {% endif %}
-<div class="post-list">
+<div class="post-list-home">
   {%- for post in site.categories[page.catlist2] limit:2 -%}
   {% include post-preview-block.html post=post %}
   {%- endfor -%}

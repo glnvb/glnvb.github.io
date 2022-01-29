@@ -6,11 +6,11 @@ icon: /data/search.svg
 
 <input type="text" id="search-box" name="query" autofocus autocomplete="off">
 
-<ul id="search-results" class="post-list"></ul>
+<div id="search-results" class="post-list"></div>
 
 <p class="post-meta">
 Tip: gebruik * als jokerteken.</p>
-<p class="post-meta">De zoekmotor zoekt in de titel, nummer, beschrijving en de labels van de posts en artikels.
+<p class="post-meta">De zoekmotor zoekt in de titel, nummer, beschrijving en de labels van de podcasts en artikels.
 </p>
 
 <script>
@@ -20,7 +20,7 @@ Tip: gebruik * als jokerteken.</p>
         "title": "{{ post.title | xml_escape }}",
         "number": "{{ post.number | xml_escape }}",
         "author": "{{ post.author | xml_escape }}",
-        "category": "{{ post.category | xml_escape }}",
+        "category": "{{ post.categories | first | xml_escape }}",
         "tags": "{% for tag in post.tags %}{{ tag | xml_escape }} {% endfor %}",
         "description": "{{ post.description | xml_escape }}",
         "url": "{{ post.url | relative_url | xml_escape }}"
