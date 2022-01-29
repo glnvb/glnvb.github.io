@@ -13,11 +13,16 @@
     height: 50vh;
     min-height: 200px;
     background-image: url("/assets/wappers_belgian_revolution.jpg");
+    background-image: image-set(
+        url('/assets/wappers_belgian_revolution.avif') 1x type("image/avif"),
+        url('/assets/wappers_belgian_revolution.webp') 1x type("image/webp"),
+        url('/assets/wappers_belgian_revolution.jpg') 1x type("image/jpg"),
+    );
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     pointer-events: none;
-    border: 5px solid white;
+    border: 2px solid #63574e;
 }
 
 .website-title h1 {
@@ -75,6 +80,11 @@ main h1, main h2 {
 main h1 {
     font-size: 42px;
     margin: 30px 0px;
+}
+
+main h1 + h2 {
+    display: table;
+    margin-top: 0;
 }
 
 .post-content h2, main h2 {
@@ -329,7 +339,7 @@ a.seekTo {
 }
 
 
-div.post-list {
+div.post-list, div.post-list-home {
     display: grid;
     grid-template-columns: 1.5fr 1fr;
     gap: 30px;
@@ -338,14 +348,18 @@ div.post-list {
     width: 100%;
 }
 
+div.post-list {
+    grid-template-columns: 1fr 1fr;
+}
+
 @include media-query($on-laptop) {
-    div.post-list {
+    div.post-list, div.post-list-home {
         grid-template-columns: repeat(2, 1fr);
     }
 }
 
 @include media-query($on-palm) {
-    div.post-list {
+    div.post-list, div.post-list-home {
         grid-template-columns: repeat(1, 1fr);
     }
 }
@@ -359,6 +373,7 @@ div.post-list {
     display: block;
     position: relative;
     transition: border-color 0.2s;
+    line-height: initial !important;
 
     .artwork {
         width: 100%;
@@ -416,12 +431,47 @@ div.post-list {
         right: 10px;
         color: white;
         background-color: rgba(0, 0, 0, .25);
+        border: 1px solid rgba(255, 215, 0, .5);
         backdrop-filter: blur(5px);
         border-radius: 5px;
         padding: 6px;
         font-size: 1.2rem;
         font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
     }
+}
+
+.post-preview.noart {
+    height: 100%;
+    min-height: initial;
+
+    .artwork {
+        background: linear-gradient(0deg, rgba(251,250,245,1) 0%, rgba(0,0,0,0.15) 100%);
+        position: relative;
+    }
+
+
+    .artwork img, .artwork svg {
+        position: absolute;
+        top: 5px;
+        right: 0px;
+        width: auto;
+        height: 60px;
+        fill: #fbfaf5;
+        z-index: 0;
+        pointer-events: none;
+    }
+
+    .title {
+        max-width: 80% !important;
+    }
+}
+
+.post-preview.noart:nth-child(3n) .artwork {
+    background: linear-gradient(0deg, rgba(251,250,245,1) 0%, rgba(255, 231, 93, 0.15) 100%);
+}
+
+.post-preview.noart:nth-child(3n+1) .artwork {
+    background: linear-gradient(0deg, rgba(251,250,245,1) 0%, rgba(240, 99, 99, 0.15) 100%);
 }
 
 @include media-query($on-laptop) {
@@ -464,11 +514,10 @@ div.post-list {
     background-color: white;
     border: 1px solid gold;
     border-radius: 5px;
-    padding: 2px 4px;
+    padding: 4px;
     font-size: 1.2rem;
     font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
     margin-left: auto;
-    // margin-top: auto;
     margin-bottom: auto;
 }
 
@@ -489,7 +538,7 @@ div.post-list {
 }
 
 
-div.luisteren {
+div.social {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
@@ -499,22 +548,22 @@ div.luisteren {
 }
 
 @include media-query($on-laptop) {
-    div.luisteren {
+    div.social {
         grid-template-columns: repeat(2, 1fr);
     }
 }
 
 
 @include media-query($on-palm) {
-    div.luisteren {
+    div.social {
         grid-template-columns: repeat(1, 1fr);
     }
 }
 
-div.luisteren a {
+div.social a {
     position: relative;
     display: block;
-    background-color: #92dad8;
+    background-color: #c8d9e2;
     color: white;
 
     height: 110px;
@@ -538,7 +587,7 @@ div.luisteren a {
     }
 }
 
-div.luisteren a:hover,
-div.luisteren a:active {
-    background-color: #29C0BE;
+div.social a:hover,
+div.social a:active {
+    background-color: #79a0b6;
 }

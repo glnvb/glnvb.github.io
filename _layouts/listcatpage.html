@@ -12,11 +12,11 @@ layout: page
 {% endif %}
 {%- if site.posts.size > 0 -%}
 <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
-<ul class="post-list">
+<div class="post-list">
   {%- for post in site.categories[page.cat] -%}
-  {% include post-list-item.html post=post %}
+  {% include post-preview-block-noart.html post=post %}
   {%- endfor -%}
-</ul>
+</div>
 {%- endif -%}
 
 {% if site.paginate %}

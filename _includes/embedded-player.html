@@ -15,7 +15,7 @@
                 });
                 switch (type.toLocaleLowerCase()) {
                     case "soundcloud":
-                        return rt(`https://w.soundcloud.com/player/?url=${src}`, 125);
+                        return rt(`https://w.soundcloud.com/player/?url=${src}&color=#29C0BE`, 125);
                     case "bandcamp":
                         return rt(`https://bandcamp.com/EmbeddedPlayer/${src}`, 125);
                     case "spotify":
