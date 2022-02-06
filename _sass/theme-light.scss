@@ -449,20 +449,19 @@ div.post-list {
 
     .title {
         max-width: 80% !important;
-        margin-top: 15px;
+        margin-top: 25px;
     }
 
     .number {
         position: absolute;
         top: 10px;
         left: 10px;
-        color: #636a7a;
-        background-color: initial;
+        right: initial;
+        color: rgb(99, 106, 122);
+        background-color: rgba(251, 250, 245, .6);
         border: initial;
-        backdrop-filter: initial;
         border-radius: 5px;
-        padding: initial;
-        font-size: 1.2rem;
+        font-size: 1rem;
         font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
     }
 }
