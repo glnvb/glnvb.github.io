@@ -11,6 +11,9 @@
         appendString += '<div class="artwork">';
         appendString += '<img class="svg-icon grey" src="/assets/cat_' + item.category + '.svg" onload="SVGInject(this)">';
         appendString += '<div class="content">';
+        if (item.number) {
+          appendString += '<div class="number">#' + item.number + '</div>';
+        }
         appendString += '<div class="title">';
         appendString += '<h3>' + item.title + '</h3>';
         appendString += '</div>';

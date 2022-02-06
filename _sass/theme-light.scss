@@ -1,5 +1,5 @@
 .site-header {
-    background-color: #29C0BE;
+    background-color: rgba(41, 192, 190, 0.97);
     position: fixed;
     width: 100%;
     z-index: 1000;
@@ -22,7 +22,7 @@
     background-size: cover;
     background-position: center;
     pointer-events: none;
-    border: 2px solid #63574e;
+    border-bottom: 5px solid #63574e;
 }
 
 .website-title h1 {
@@ -189,20 +189,6 @@ span.read-more a:active {
     margin: 0 .3rem 0 0;
     float: left;
     line-height: 0.7;
-}
-
-ul.post-list li {
-    border-left: 6px solid white;
-    padding-left: 10px;
-    width: 100%;
-}
-
-ul.post-list h3 {
-    font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
-}
-
-ul.post-list {
-    padding-right: 10px;
 }
 
 ul.categories {
@@ -463,6 +449,21 @@ div.post-list {
 
     .title {
         max-width: 80% !important;
+        margin-top: 15px;
+    }
+
+    .number {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        color: #636a7a;
+        background-color: initial;
+        border: initial;
+        backdrop-filter: initial;
+        border-radius: 5px;
+        padding: initial;
+        font-size: 1.2rem;
+        font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
     }
 }
 

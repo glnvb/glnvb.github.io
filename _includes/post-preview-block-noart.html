@@ -6,6 +6,9 @@
     <div class="artwork">
         <img class="svg-icon grey" src="/assets/cat_{{ category }}.svg" onload="SVGInject(this)">
         <div class="content">
+            {% if post.number %}
+            <div class="number">#{{ post.number }}</div>
+            {% endif %}
             <div class="title">
                 <h3>{{ post.title }}</h3>
             </div>
