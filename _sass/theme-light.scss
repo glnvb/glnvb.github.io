@@ -173,6 +173,13 @@ span.read-more a:active {
     margin-bottom: 20px;
 }
 
+article.post > p:not(.post-meta) {
+    line-height: 1.75;
+    font-family: 'PT Serif', Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.05rem;
+    padding-right: 20px;
+}
+
 .post-content {
     line-height: 1.75;
     font-family: 'PT Serif', Georgia, 'Times New Roman', Times, serif;
