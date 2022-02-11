@@ -44,6 +44,7 @@ class SoundCloudAPI:
     def __init__(self, client_id):
         self.client_id = client_id
         self.session = requests.Session()
+        self.max_retries = 10
 
         self.app_version = self.__get_app_version()
 
@@ -51,10 +52,17 @@ class SoundCloudAPI:
         return self.session.get('https://soundcloud.com/versions.json').json()['app']
 
     def __get(self, url, params=None):
+        counter = 0
+
         r = self.session.get(url, params=params)
-        while not r.content:
+        while not r.content and counter < self.max_retries:
+            counter += 1
             r = self.session.get(url, params=params)
             time.sleep(1)
+
+        if not r.content:
+            raise RuntimeError("Failed to get SoundCloud data.")
+
         r = r.json()
         while r == {}:
             r = self.__get(url, params)
