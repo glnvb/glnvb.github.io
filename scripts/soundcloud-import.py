@@ -41,15 +41,28 @@ class Track:
 
 
 class SoundCloudAPI:
-    def __init__(self, client_id):
+    def __init__(self, client_id=None):
         self.client_id = client_id
         self.session = requests.Session()
         self.max_retries = 10
 
         self.app_version = self.__get_app_version()
 
+        if not self.client_id:
+            self.client_id = self.__get_client_id()
+
     def __get_app_version(self):
         return self.session.get('https://soundcloud.com/versions.json').json()['app']
+
+    def __get_client_id(self):
+        re_script = re.compile(r'<script.*src="(.*?)">')
+        re_client_id = re.compile(r'client_id=([a-zA-Z0-9]+)')
+
+        html = self.session.get('https://soundcloud.com').content.decode('utf8')
+        for script_src in re_script.findall(html):
+            js = self.session.get(script_src).content.decode('utf8')
+            if len(re_client_id.findall(js)) > 0:
+                return re_client_id.findall(js)[0]
 
     def __get(self, url, params=None):
         counter = 0
@@ -235,13 +248,12 @@ if __name__ == '__main__':
     post_dir = os.path.join(os.path.dirname(__file__), os.pardir, '_posts', 'podcast')
     tag_dir = os.path.join(os.path.dirname(__file__), os.pardir, 'tags')
 
-    client_id = os.environ['CLIENT_ID']
     user_id = os.environ['USER_ID']
 
     jekyll_tags = JekyllTags(tag_dir)
     jekyll_posts = JekyllPosts(post_dir, new_post_template, update_post_template)
 
-    soundcloud_tracks = SoundCloudAPI(client_id).get_tracks(user_id)
+    soundcloud_tracks = SoundCloudAPI().get_tracks(user_id)
     for track in soundcloud_tracks:
         jekyll_tags.filter_track(track)
         jekyll_posts.write_track(track)
