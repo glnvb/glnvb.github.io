@@ -198,22 +198,29 @@ class JekyllPosts:
         with open(self.update_post_template, 'r') as template_file:
             self.update_post_template = template_file.read()
 
-        self.unpublished_posts = {}
+        self.unpublished_posts = dict()
+        self.published_tracks = set()
         self.__parse_posts()
 
     def __parse_posts(self):
         for post_file in glob.glob(f'{self.post_dir}/*.markdown'):
-            if not JekyllPosts.re_date.match(os.path.basename(post_file)):
-                post = JekyllMarkdown(post_file)
-                soundcloud_track = post.front_matter.get('embed_player', {}).get('src', None)
-                if soundcloud_track:
+            post = JekyllMarkdown(post_file)
+            soundcloud_track = post.front_matter.get('embed_player', {}).get('src', None)
+            if soundcloud_track:
+                if not JekyllPosts.re_date.match(os.path.basename(post_file)):
                     self.unpublished_posts[soundcloud_track] = post_file
+                else:
+                    self.published_tracks.add(soundcloud_track)
 
     def write_track(self, track):
         filename = track.timestamp_local.strftime("%Y-%m-%d") + "-" + track.title_slug + ".markdown"
         filepath = os.path.join(self.post_dir, filename)
 
-        if track.permalink in self.unpublished_posts:
+        if track.permalink in self.published_tracks:
+            # already published
+            return
+
+        elif track.permalink in self.unpublished_posts:
             # update
             print(f'Updating existing post for track "{track.title}".')
 
