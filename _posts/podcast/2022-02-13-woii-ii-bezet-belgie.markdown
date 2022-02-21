@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-WpoDwOaJD82xhCVA-n6BbXQ-t500x500.jpg
 author: Tim
 date: 2022-02-13 23:07:01 +0100
 categories: podcast
-tag: []
+tag: ["oorlog"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/woii-ii-bezet-belgie

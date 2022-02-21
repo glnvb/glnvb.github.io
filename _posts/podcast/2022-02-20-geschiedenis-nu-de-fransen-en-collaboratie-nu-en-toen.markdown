@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-sGd4gIngXCianHKr-OHWdtQ-t500x500.jpg
 author: Tim
 date: 2022-02-20 16:52:51 +0100
 categories: podcast
-tag: []
+tag: ["oorlog"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/geschiedenis-nu-de-fransen-en-collaboratie-nu-en-toen
