@@ -158,13 +158,14 @@ class JekyllMarkdown:
 class JekyllTags:
     def __init__(self, tag_dir):
         self.tag_dir = tag_dir
-        self.tags = set()
+        self.tags = dict()
         self.__parse_tags()
 
     def __parse_tags(self):
         for tag_file in glob.glob(f'{self.tag_dir}/*.markdown'):
             tag_md = JekyllMarkdown(tag_file)
-            self.tags.add(tag_md.front_matter['tag-name'])
+            tag = tag_md.front_matter['tag-name']
+            self.tags[tag.lower()] = tag
 
     def filter_track(self, track):
         """Filter the tags of the track and only keep the ones that exist in Jekyll.
@@ -173,7 +174,11 @@ class JekyllTags:
         ----------
         track : Track
         """
-        track.tags = [t for t in track.tags if t in self.tags]
+        filtered_tags = []
+        for tag in track.tags:
+            if tag.lower() in self.tags:
+                filtered_tags.append(self.tags[tag.lower()])
+        track.tags = filtered_tags
         return track
 
 
