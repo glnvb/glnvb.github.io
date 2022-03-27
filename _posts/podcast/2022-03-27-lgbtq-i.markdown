@@ -1,0 +1,15 @@
+---
+layout: post
+title: "LGBTQ I"
+number: null
+artwork: https://i1.sndcdn.com/artworks-XxhpZwdfI4rn2k5R-luohWw-t500x500.jpg
+author: Tim
+date: 2022-03-27 18:57:36 +0200
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/lgbtq-i
+description: "Welkom bij geschiedenis van België en welkom bij een gloednieuw thema: LGBTQ."
+---
+Welkom bij geschiedenis van België en welkom bij een gloednieuw thema: LGBTQ. Of zoals luisteraars het graag beschrijven: dat met die lettertjes. Een zeer boeiend maar evengoed zeer ingewikkeld onderwerp dat we van naderbij zullen bekijken. Van de middeleeuwen tot vandaag de dag. Want vergis u niet: homoseksualiteit en alles wat er mee geassocieerd is, is van alle tijden. Bijgevolg hebben we het vandaag over brandstapels, de definitie van sodomie en hoe we van dat soort zaken langzaamaan naar de legalisering van het homohuwelijk gegaan zijn. Dat en nog veel meer in deze aflevering van geschiedenis van België.
