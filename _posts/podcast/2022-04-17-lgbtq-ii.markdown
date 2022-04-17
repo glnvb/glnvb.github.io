@@ -1,0 +1,15 @@
+---
+layout: post
+title: "LGBTQ II"
+number: null
+artwork: https://i1.sndcdn.com/artworks-ZY6BHEAkaCWjdBRX-xt1YvA-t500x500.jpg
+author: Tim
+date: 2022-04-17 08:00:14 +0200
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/lgbtq-ii
+description: "Welkom bij geschiedenis van België en welkom bij de tweede aflevering over homoseksualiteit en aanverwanten doorheen de Belgische geschiedenis."
+---
+Welkom bij geschiedenis van België en welkom bij de tweede aflevering over homoseksualiteit en aanverwanten doorheen de Belgische geschiedenis. Vorige keer had ik het vooral over de brede context. Over hoe Chinezen, Grieken, Romeinen en middeleeuwers naar homoseksualiteit keken. Vandaag laten we dat hoofdstuk achter ons en focussen we op België. Want hoewel er nog wel wat werk aan de winkel is kan je niet ontsnappen aan het feit dat België vandaag verre van de slechtste plek wat betreft holebirechten. Maar hoe zijn we daar eigenlijk aanbeland? Hoe zijn we van brandstapels in de middeleeuwen tot het homohuwelijk in 2003 gegaan? Dat en nog veel meer in deze aflevering van geschiedenis van België.
