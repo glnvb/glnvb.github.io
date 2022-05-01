@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Brugge II"
+number: 110
+artwork: https://i1.sndcdn.com/artworks-EoBEMUW2zYwyPmY1-CwgYOA-t500x500.jpg
+author: Tim
+date: 2022-05-01 09:00:13 +0200
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/110-brugge-ii
+description: "Welkom bij geschiedenis van België en welkom bij de tweede aflevering over Brugge."
+---
+Welkom bij geschiedenis van België en welkom bij de tweede aflevering over Brugge. Vorige week hadden we het over het ontstaan van de stad, deze week belichtten we de bloei van het grote Brugge. De handelsmetropool weet u wel. Bijgevolg hebben we het vandaag over Italianen, Denen, Duitsers, verzanding en een heleboel oorlogjes. Dat en nog veel meer in deze aflevering van geschiedenis van België.
