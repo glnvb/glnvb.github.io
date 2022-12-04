@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Koffie"
+number: 126
+artwork: https://i1.sndcdn.com/artworks-n99iqEX4oJ4DxnUD-OM0TGw-t500x500.jpg
+author: Tim
+date: 2022-12-04 09:00:04 +0100
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/126-koffie
+description: "Welkom bij Geschiedenis Van en welkom bij deze aflevering over koffie."
+---
+Welkom bij Geschiedenis Van en welkom bij deze aflevering over koffie. Jawel koffie, het zwarte vocht dat mij en vele soortgenoten in staat stelt km te functioneren als mens. De geschiedenis van koffie is een fascinerend verhaal dat over veel meer gaat dan enkel wat bruine bonen. Het verhaal van koffie is er eentje van landbouw, religie, wereldhandel en filosofie. Je zou zowat de hele vroegmoderne en moderne geschiedenis kunnen hervertellen met koffie als insteek. Wat exact is wat er vandaag op het programma staat.
