@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-DWroOa4ZbCTHKSPp-jXAp8Q-t500x500.jpg
 author: Tim
 date: 2021-06-09 20:35:34 +0200
 categories: podcast
-tag: ["Geschiedenis van België","srecensie"]
+tag: ["Geschiedenis van België","recensie"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/historische-romans
