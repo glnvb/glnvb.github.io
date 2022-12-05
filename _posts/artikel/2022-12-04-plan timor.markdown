@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "podcat plan Timor"
-date: 2022-12-05 8:42:11 +0100
+date: 2022-12-04 8:42:11 +0100
 categories: artikel
 description: "Een inkijkje in het leven van Tim, Podcast Plan-Timor"
 artwork: https://www.fidesco-international.org/nl/wp-content/uploads/sites/3/2022/11/Gistelinck-770x514.jpg
