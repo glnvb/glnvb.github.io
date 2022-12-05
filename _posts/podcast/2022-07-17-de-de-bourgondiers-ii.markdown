@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "De De Bourgondiërs II"
+title: "De Bourgondiërs II"
 number: 121
 artwork: https://i1.sndcdn.com/artworks-iINHCZ3YqpTYTCFd-FW0wJA-t500x500.jpg
 author: Tim
