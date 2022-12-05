@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-GKtSTGT1uJIPc1iI-iuvV2A-t500x500.jpg
 author: Tim
 date: 2022-05-08 11:36:30 +0200
 categories: podcast
-tag: []
+tag: ["steden","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/111-brugge-iii

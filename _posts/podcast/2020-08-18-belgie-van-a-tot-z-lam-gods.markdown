@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-TM0SbIILkOltgQle-ZD87Mw-t500x500.jpg
 author: Tim
 date: 2020-08-18 07:00:15 +0200
 categories: podcast
-tag: ["cultuur en maatschappij","Vroegmoderne tijd"]
+tag: ["cultuur en maatschappij","Vroegmoderne tijd","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-lam-gods

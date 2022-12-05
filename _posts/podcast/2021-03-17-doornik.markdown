@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-QZmYaNttOuwPu7cg-zhtAyw-t500x500.jpg
 author: Tim
 date: 2021-03-17 17:37:18 +0100
 categories: podcast
-tag: ["steden"]
+tag: ["steden","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/doornik

@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-Ae30J46CsnXSzuR3-7yiQeA-t500x500.jpg
 author: Tim
 date: 2022-06-19 11:47:08 +0200
 categories: podcast
-tag: []
+tag: ["steden","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/1117-antwerpen-v-schelde-vrij

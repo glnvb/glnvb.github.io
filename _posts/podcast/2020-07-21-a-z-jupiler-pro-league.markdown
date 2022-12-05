@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-x8jYDfzxr5wYOiaV-zXZ2aA-t500x500.jpg
 author: Tim
 date: 2020-07-21 16:15:13 +0200
 categories: podcast
-tag: ["cultuur en maatschappij"]
+tag: ["cultuur en maatschappij","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-jupiler-pro-league

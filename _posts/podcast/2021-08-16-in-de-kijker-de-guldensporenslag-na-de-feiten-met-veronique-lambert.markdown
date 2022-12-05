@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-yNtHzkbFlrm8W7wF-aabCug-t500x500.jpg
 author: Tim
 date: 2021-08-16 15:56:48 +0200
 categories: podcast
-tag: ["oorlog","Middeleeuwen"]
+tag: ["oorlog","Middeleeuwen","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/in-de-kijker-de-guldensporenslag-na-de-feiten-met-veronique-lambert

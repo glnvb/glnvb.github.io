@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-QE0a80EKqRQEiQsY-VEZLgg-t500x500.jpg
 author: Tim
 date: 2022-03-14 16:28:37 +0100
 categories: podcast
-tag: []
+tag: ["oorlog","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/woii-v-bevrijding-repressie-en-gevolgen

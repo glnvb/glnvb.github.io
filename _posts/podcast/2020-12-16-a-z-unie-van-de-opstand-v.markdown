@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-3VkFanOsluatZk3O-G9WacA-t500x500.jpg
 author: Tim
 date: 2020-12-16 15:25:00 +0100
 categories: podcast
-tag: ["Nederland","oorlog"]
+tag: ["Nederland","oorlog","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-unie-van-de-opstand-v

@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-lUEeRuKD6tN1vLf8-hgOdsQ-t500x500.jpg
 author: Tim
 date: 2022-04-10 09:00:08 +0200
 categories: podcast
-tag: []
+tag: ["Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/extra-vergeten-verleden-louis-de-potter

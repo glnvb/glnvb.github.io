@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-r2rtnjZXgBv7ivLQ-rOOcIA-t500x500.jpg
 author: Tim
 date: 2022-09-11 09:00:00 +0200
 categories: podcast
-tag: []
+tag: ["Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/extra-bakelandt

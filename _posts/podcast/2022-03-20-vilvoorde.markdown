@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-nd9Eicy59bZywPIe-vVpYMw-t500x500.jpg
 author: Tim
 date: 2022-03-20 13:22:42 +0100
 categories: podcast
-tag: []
+tag: ["steden","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/vilvoorde

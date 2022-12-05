@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-feJBj7z7h2yWvvAj-kJRpeQ-t500x500.jpg
 author: Tim
 date: 2022-06-13 00:54:15 +0200
 categories: podcast
-tag: []
+tag: ["steden","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/116-antwerpen-iv-een-einde-en-een-nieuw-begin

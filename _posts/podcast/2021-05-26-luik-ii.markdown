@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-fXQ60pzdPU9o61Vj-G7AEtA-t500x500.jpg
 author: Tim
 date: 2021-05-26 17:43:31 +0200
 categories: podcast
-tag: [steden]
+tag: [steden,"Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/luik-ii

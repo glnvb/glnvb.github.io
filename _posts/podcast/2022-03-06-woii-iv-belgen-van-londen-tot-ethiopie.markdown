@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-o8BATPIJOz27kNto-RokBmA-t500x500.jpg
 author: Tim
 date: 2022-03-06 21:09:24 +0100
 categories: podcast
-tag: []
+tag: ["oorlog","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/woii-iv-belgen-van-londen-tot-ethiopie

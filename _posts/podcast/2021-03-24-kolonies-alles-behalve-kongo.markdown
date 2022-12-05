@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-btyxJgbWFpQ2XBoi-KMfy4Q-t500x500.jpg
 author: Tim
 date: 2021-03-24 21:24:03 +0100
 categories: podcast
-tag: ["kolonies"]
+tag: ["kolonies","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/kolonies-alles-behalve-kongo

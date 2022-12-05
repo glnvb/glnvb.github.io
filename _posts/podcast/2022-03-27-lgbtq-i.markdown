@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-XxhpZwdfI4rn2k5R-luohWw-t500x500.jpg
 author: Tim
 date: 2022-03-27 18:57:36 +0200
 categories: podcast
-tag: []
+tag: ["Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/lgbtq-i

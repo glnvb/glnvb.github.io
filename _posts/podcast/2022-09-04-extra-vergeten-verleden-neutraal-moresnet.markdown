@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-uFkElqqckqqWtocb-uzz4Dg-t500x500.jpg
 author: Tim
 date: 2022-09-04 09:00:09 +0200
 categories: podcast
-tag: []
+tag: ["Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/extra-vergeten-verleden-neutraal-moresnet

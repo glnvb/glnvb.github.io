@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-7RJLSvniq52LGizl-uTrzzg-t500x500.jpg
 author: Tim
 date: 2022-09-18 09:00:04 +0200
 categories: podcast
-tag: []
+tag: ["Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/vergeten-verleden-armoede-en-de-kolonien-van-wortel-en-merksplas

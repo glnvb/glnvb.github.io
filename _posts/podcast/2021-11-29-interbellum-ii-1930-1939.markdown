@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-vQZ1xoQUDmS2vofo-k6kWPQ-t500x500.jpg
 author: Tim
 date: 2021-11-29 20:15:43 +0100
 categories: podcast
-tag: ["Interbellum","politiek"]
+tag: ["Interbellum","politiek","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/interbellum-ii-1930-1939

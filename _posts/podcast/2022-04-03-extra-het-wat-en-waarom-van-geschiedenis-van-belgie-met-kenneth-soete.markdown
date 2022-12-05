@@ -6,7 +6,7 @@ artwork:
 author: Tim
 date: 2022-04-03 09:00:03 +0200
 categories: podcast
-tag: []
+tag: ["interview","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/extra-het-wat-en-waarom-van-geschiedenis-van-belgie-met-kenneth-soete

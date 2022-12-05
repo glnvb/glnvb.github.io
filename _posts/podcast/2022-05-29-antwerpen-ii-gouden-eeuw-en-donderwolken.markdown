@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-CTEPB5JjPR5vVP0H-e25H1g-t500x500.jpg
 author: Tim
 date: 2022-05-29 09:00:10 +0200
 categories: podcast
-tag: []
+tag: ["steden","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/114-antwerpen-ii-gouden-eeuw-en-donderwolken

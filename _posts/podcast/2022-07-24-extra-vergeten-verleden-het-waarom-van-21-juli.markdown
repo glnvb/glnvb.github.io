@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-43iIbOnajzFOuEOI-3YHm0Q-t500x500.jpg
 author: Tim
 date: 2022-07-24 09:00:12 +0200
 categories: podcast
-tag: []
+tag: ["Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/extra-vergeten-verleden-het-waarom-van-21-juli

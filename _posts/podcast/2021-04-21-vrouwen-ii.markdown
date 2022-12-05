@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-GTjNsGlGz3UlyyoI-9xHhuA-t500x500.jpg
 author: Tim
 date: 2021-04-21 17:39:20 +0200
 categories: podcast
-tag: ["politiek","cultuur en maatschappij"]
+tag: ["politiek","cultuur en maatschappij","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/vrouwen-ii

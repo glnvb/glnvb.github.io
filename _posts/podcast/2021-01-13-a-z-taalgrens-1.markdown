@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-zU7uux2jXRXajyzb-lr9ANw-t500x500.jpg
 author: Tim
 date: 2021-01-13 20:01:50 +0100
 categories: podcast
-tag: ["politiek"]
+tag: ["politiek","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-taalgrens-1

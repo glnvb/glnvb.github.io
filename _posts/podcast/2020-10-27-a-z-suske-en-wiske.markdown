@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-WFRtAID51EO98in9-wyzcEw-t500x500.jpg
 author: Tim
 date: 2020-10-27 18:23:13 +0100
 categories: podcast
-tag: ["politiek"]
+tag: ["politiek","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-suske-en-wiske

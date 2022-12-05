@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-4YAVeGHi1ZiqhxCW-YoTsoA-t500x500.jpg
 author: Tim
 date: 2022-03-09 13:40:54 +0100
 categories: podcast
-tag: []
+tag: ["Geschiedenis van België","interview"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/special-erfgoed-met-faro

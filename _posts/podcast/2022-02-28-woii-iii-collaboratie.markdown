@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-heo8oKmKbRKhP5KI-8CO8xw-t500x500.jpg
 author: Tim
 date: 2022-02-28 11:44:51 +0100
 categories: podcast
-tag: ["oorlog"]
+tag: ["oorlog","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/woii-iii-collaboratie

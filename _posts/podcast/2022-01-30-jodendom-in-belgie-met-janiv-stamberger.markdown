@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-hAtfz2CORBsYvo2P-veh6aw-t500x500.jpg
 author: Tim
 date: 2022-01-30 18:47:23 +0100
 categories: podcast
-tag: []
+tag: ["Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/99-jodendom-in-belgie-met-janiv-stamberger

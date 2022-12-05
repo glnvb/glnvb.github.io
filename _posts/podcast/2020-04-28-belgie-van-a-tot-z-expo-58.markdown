@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-JOJWiO6cE3QxdUOQ-0FGf3w-t500x500.jpg
 author: Tim
 date: 2020-04-28 23:36:05 +0200
 categories: podcast
-tag: ["Moderne tijd"]
+tag: ["Moderne tijd","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-expo-58

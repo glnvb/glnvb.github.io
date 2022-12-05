@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-boFcvn7CJvZqblya-2nqyPA-t500x500.jpg
 author: Tim
 date: 2021-10-12 08:00:17 +0200
 categories: podcast
-tag: ["cultuur en maatschappij"]
+tag: ["cultuur en maatschappij","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/studentenverenigingen

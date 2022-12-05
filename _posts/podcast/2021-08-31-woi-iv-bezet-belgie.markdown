@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-7WDxB08uVORWIsyH-ftzwBg-t500x500.jpg
 author: Tim
 date: 2021-08-31 18:50:47 +0200
 categories: podcast
-tag: [oorlog]
+tag: [oorlog,"Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/woi-iv

@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-netlOYdWNjEgjSao-heHqlQ-t500x500.jpg
 author: Tim
 date: 2020-11-29 11:12:26 +0100
 categories: podcast
-tag: [interview]
+tag: [interview,"Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/in-de-kijker-een-kleine-geschiedenis-van-grote-durvers

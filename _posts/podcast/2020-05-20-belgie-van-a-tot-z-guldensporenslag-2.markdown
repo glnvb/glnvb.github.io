@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-iDjUcmTljdxtyJT1-dIEGCg-t500x500.jpg
 author: Tim
 date: 2020-05-20 11:20:29 +0200
 categories: podcast
-tag: ["oorlog","Middeleeuwen"]
+tag: ["oorlog","Middeleeuwen","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgie-van-a-tot-z-guldensporenslag-2

@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-v95nou3EIOjD04l2-v6csxA-t500x500.jpg
 author: Tim
 date: 2022-05-15 13:44:10 +0200
 categories: podcast
-tag: []
+tag: ["Geschiedenis van België","politiek"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/112-1999-een-einde-en-een-nieuw-begin

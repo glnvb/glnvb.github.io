@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-pHzIGvjhr2ZgU40o-X1hGSQ-t500x500.jpg
 author: Tim
 date: 2021-09-06 19:35:58 +0200
 categories: podcast
-tag: [oorlog]
+tag: [oorlog,"Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/woi-v-belgen-van-ijzer-tot-evenaar

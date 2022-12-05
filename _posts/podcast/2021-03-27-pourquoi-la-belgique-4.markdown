@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-EvvKhO2i9dvA7axN-4m1GKQ-t500x500.jpg
 author: Tim
 date: 2021-03-27 17:03:56 +0100
 categories: podcast
-tag: []
+tag: ["Geschiedenis van België","Pourquoi La Belgique"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/porquoi-la-belgique-4

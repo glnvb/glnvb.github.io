@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-ESKq7lGZ70OvOd5X-hL4pUg-t500x500.jpg
 author: Tim
 date: 2022-05-22 12:24:38 +0200
 categories: podcast
-tag: []
+tag: ["steden","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/113-antwerpen-i

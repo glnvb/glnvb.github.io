@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-OYyO6u0a50yRawNL-8QW1Ug-t500x500.jpg
 author: Tim
 date: 2022-11-27 07:51:54 +0100
 categories: podcast
-tag: []
+tag: ["Geschiedenis van alles"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/geschiedenis-van-proloog

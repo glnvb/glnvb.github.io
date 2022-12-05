@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-o4JdW7D5N4RDSzrd-CAGFqw-t500x500.jpg
 author: Tim
 date: 2022-08-14 09:00:06 +0200
 categories: podcast
-tag: []
+tag: ["Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/123-de-bourgondiers-iv-filips-de-goede

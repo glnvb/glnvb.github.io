@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-zcYoPgsvzarmky27-O7pcpw-t500x500.jpg
 author: Tim
 date: 2022-01-23 20:35:21 +0100
 categories: podcast
-tag: []
+tag: ["Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/kuifje-de-wereld-volgens-herge

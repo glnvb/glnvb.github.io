@@ -1,7 +1,7 @@
 ---
 layout: home
 list_title: false
-title: "Geschiedenis van België"
+title: "Geschiedenis van (België) Alles"
 #From which category should be the post that appears first on the index page
 catlist1: podcast
 namecatlist1: podcasts

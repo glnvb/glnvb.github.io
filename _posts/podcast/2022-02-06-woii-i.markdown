@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-ETfzzZEGOUDOSOq6-y7nTUA-t500x500.jpg
 author: Tim
 date: 2022-02-06 18:29:11 +0100
 categories: podcast
-tag: ["oorlog"]
+tag: ["oorlog","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/100-woi-ii

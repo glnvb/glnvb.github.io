@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-egm6uHgNWwLp3k1h-HT5l2A-t500x500.jpg
 author: Tim
 date: 2020-12-22 14:56:42 +0100
 categories: podcast
-tag: ["politiek"]
+tag: ["politiek","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-vlaamse-leeuw

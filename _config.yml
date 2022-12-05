@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Geschiedenis van België
+title: Geschiedenis van
 email: "&#103;&#101;&#115;&#99;&#104;&#105;&#101;&#100;&#101;&#110;&#105;&#115;&#118;&#97;&#110;&#64;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#46;&#98;&#101;"
 description: # this means to ignore newlines until "baseurl:"
   Geschiedenisleerkracht die moedige pogingen doet om het waarom en het hoe van de Belgische geschiedenis te ontrafelen.

@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-7gVnNHbLNqrpEdNK-V5rbOQ-t500x500.jpg
 author: Tim
 date: 2020-11-10 16:14:51 +0100
 categories: podcast
-tag: ["Nederland","oorlog"]
+tag: ["Nederland","oorlog","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/a-z-tiendaagse-veldtocht-ii

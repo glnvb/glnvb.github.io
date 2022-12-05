@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-0qvatKMs1dfmVgp8-6ZyUfg-t500x500.jpg
 author: Tim
 date: 2022-08-07 09:00:02 +0200
 categories: podcast
-tag: []
+tag: ["Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/de-bourgondiers-iii-filips-jan-en-game-of-thrones

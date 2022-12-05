@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-R6ksBP2zqRv7dNN3-kRbJLg-t500x500.jpg
 author: Tim
 date: 2022-07-10 09:00:18 +0200
 categories: podcast
-tag: []
+tag: ["Geschiedenis van België","politiek"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/de-bourgondiers-ii

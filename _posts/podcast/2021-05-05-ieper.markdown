@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-5layzhzKhGw7WQKZ-SyoMeA-t500x500.jpg
 author: Tim
 date: 2021-05-05 17:14:16 +0200
 categories: podcast
-tag: ["steden"]
+tag: ["steden","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/ieper

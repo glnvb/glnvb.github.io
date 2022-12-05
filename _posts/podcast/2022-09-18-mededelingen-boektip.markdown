@@ -6,7 +6,7 @@ artwork: https://i1.sndcdn.com/artworks-iswBgyBWzR1xuyxy-eCClAg-t500x500.jpg
 author: Tim
 date: 2022-09-18 09:00:04 +0200
 categories: podcast
-tag: []
+tag: ["recensie","Geschiedenis van België"]
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/mededelingen-boektip
