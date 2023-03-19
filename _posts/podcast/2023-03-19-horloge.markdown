@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Horloge"
+number: null
+artwork: 
+author: Tim
+date: 2023-03-19 09:00:00 +0100
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/horloge
+description: "Waarin we in de geschiedenis van het horloge duiken."
+---
+Waarin we in de geschiedenis van het horloge duiken. Passeren de revue: Elisabeth I, Zwitsers, Turken, oblisken, waterklokken en een heleboel slechte grapjes. Sorry
