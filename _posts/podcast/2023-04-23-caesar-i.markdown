@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Caesar I"
+number: null
+artwork: https://i1.sndcdn.com/artworks-57buhtLimddKwBrG-0izvjg-t500x500.jpg
+author: Tim
+date: 2023-04-23 10:00:06 +0200
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/caesar-i
+description: "Dit begint als een aflevering over Julius Caesar maar eindigt als een reeks van twee afleveringen over het einde van de Romeinse republiek."
+---
+Dit begint als een aflevering over Julius Caesar maar eindigt als een reeks van twee afleveringen over het einde van de Romeinse republiek. We bekijken van nabij hoe belangrijk die Casear nu eigenlijk wel was en komen tot de conclusie dat hij maar een schakel was in een zeer lange keten. Een keten van gebeurtenissen en figuren die allemaal samen geleid hebben tot het Romeinse keizerrijk. Maar waarom is Caesar dan met voorsprong de bekendste Romein? Dat en meer in geschiedenis van.
