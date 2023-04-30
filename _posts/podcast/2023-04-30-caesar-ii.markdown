@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Caesar II"
+number: null
+artwork: https://i1.sndcdn.com/artworks-we6SiNMZsrSgkU1a-kwkCDw-t500x500.jpg
+author: Tim
+date: 2023-04-30 10:00:17 +0200
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/caesar-ii
+description: "Vorige week stelden we al vragen bij de huizenhoge reputatie van Caesar."
+---
+Vorige week stelden we al vragen bij de huizenhoge reputatie van Caesar. Niet dat de man niet uitzonderlijk was maar je moet hem in zijn context zien,zijnde de geleidelijke overgang van de Romeinse republiek naar het keizerrijk. En dat verhaal is geenszins te reduceren tot de figuur van Caesar. Het is een pak ingewikkelder dan dat. Het is een verhaal over de kloof tussen arm en rijk, conservatisme, populisme en een heleboel wapengekletter. Dat en meer in deze aflevering van Geschiedenis van.
