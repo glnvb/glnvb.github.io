@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Cannabis"
+number: 156
+artwork: https://i1.sndcdn.com/artworks-iUc3LpkOTA7upwZw-1wX4nQ-t500x500.jpg
+author: Tim
+date: 2023-07-09 09:00:05 +0200
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/156-cannabis
+description: "Welkom bij geschiedenis van en welkom bij een ietwat vreemde aflevering over de oorsprong van cannabis en aanverwanten."
+---
+Welkom bij geschiedenis van en welkom bij een ietwat vreemde aflevering over de oorsprong van cannabis en aanverwanten.
