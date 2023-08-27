@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Het jaar 0"
+number: 163
+artwork: https://i1.sndcdn.com/artworks-fOx7VDyvcMmi0otn-5NG3Pg-t500x500.jpg
+author: Tim
+date: 2023-08-27 09:30:00 +0200
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/het-jaar-0
+description: "Welkom bij geschiedenis van en welkom bij een aflevering over het jaar 0."
+---
+Welkom bij geschiedenis van en welkom bij een aflevering over het jaar 0. Wel, niet zozeer over dat jaar zelf al ga ik het er zeker ook over hebben. Nee, deze aflevering gaat in de eerste plaats over het waarom van onze jaarrekening. Waar komt ze vandaan en waarom heeft de hele wereld net deze jaarrekening omarmd en geen andere? De zoektocht naar het antwoord op die vraag levert een aflevering op met in de hoofdrollen ondermeer de Olympische spelen, Jezus, Julius Casear, een opeenvolging van pausen en een ferme dosis westers kolonialisme. Dat en meer in deze aflevering van Geschiedenis van.
