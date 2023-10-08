@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Afval I"
+number: null
+artwork: https://i1.sndcdn.com/artworks-BnZYqlUJgdogd7JQ-jaNmoA-t500x500.jpg
+author: Tim
+date: 2023-10-08 09:00:18 +0200
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/afval-i
+description: "Welkom bij een eerste aflevering over afval."
+---
+Welkom bij een eerste aflevering over afval. Jawel afval , al die zaken die we al duizenden jaren weggooien omdat we ze niet langer nodig hebben. Deze week hebben we het over de verschillende manieren waarop mensen zich door de eeuwen hebben ontdaan van hun afval.  Volgende week over het historisch nut van dat afval. Komen deze week al aan bod: Troje, bizons, de Maya's, de cloaca Máxima, meneer Poubelle,vuilnismannen en meer. Dat in deze aflevering van Geschiedenis van.
