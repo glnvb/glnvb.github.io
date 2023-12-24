@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Kerstmis"
+number: null
+artwork: https://i1.sndcdn.com/artworks-5BMax9WB9ywvrlFn-GMkTGA-t500x500.jpg
+author: Tim
+date: 2023-12-24 09:00:00 +0100
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/kerstmis
+description: "Welkom bij geschiedenis van en welkom bij een wel heel speciale aflevering: eentje over kerstmis."
+---
+Welkom bij geschiedenis van en welkom bij een wel heel speciale aflevering: eentje over kerstmis. Waar komt dat feest vandaan, wat heeft dat te maken met een baby genaamd Jezus en hoe zit dat nu eigenlijk met al die rare gebruiken als een kerstboom, een kerststal en zovoort. Antwoorden op  al die vragen en meer in deze aflevering van Geschiedenis van.
