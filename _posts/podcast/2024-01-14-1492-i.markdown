@@ -1,0 +1,15 @@
+---
+layout: post
+title: "1492 I"
+number: null
+artwork: https://i1.sndcdn.com/artworks-vnm1B38l3zQ93rby-Kt4kVQ-t500x500.jpg
+author: Tim
+date: 2024-01-14 15:40:23 +0100
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/1492-i
+description: "Welkom bij geschiedenis van en bij een mini reeksje over het jaartal 1492."
+---
+Welkom bij geschiedenis van en bij een mini reeksje over het jaartal 1492. U weet wel, het jaar waarin een zekere Cristoffer Colombus Amerika ontdekt heeft. Zogezegd, want natuurlijk zit de realiteit ietsje gecompliceerder in elkaar dan dat. Het hele continent zat natuurlijk al vol met mensen en Colombus was niet eens de eerste “Europeaan” die voet zette aan die kant van de Atlantische Oceaan. Moeten we 1492 dan nog altijd met een dikke fluostift aanduiden in onze geschiedenisboekjes of niet? Of zijn de gevolgen van die eerste stapjes van Colombus op Amerikaanse bodem te groot om dat jaartal te kunnen negeren? Antwoorden op deze vragen en meer in dit reeksje van Geschiedenis van.
