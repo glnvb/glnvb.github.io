@@ -1,0 +1,15 @@
+---
+layout: post
+title: "1492 II"
+number: null
+artwork: https://i1.sndcdn.com/artworks-O3rRuk6FopraunpV-GgXz5g-t500x500.jpg
+author: Tim
+date: 2024-01-28 09:00:06 +0100
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/1492-ii
+description: "Welkom bij Geschiedenis van en welkom bij de tweede en laatste aflevering over het jaartal 1492."
+---
+Welkom bij Geschiedenis van en welkom bij de tweede en laatste aflevering over het jaartal 1492. Vorige week hadden we het in de eerste plaats over alle redenen om te twijfelen aan het belang van dat jaartal. Colombus was immers niet de eerste die voet zette op het Amerikaanse continent, geloofde tot op zijn sterfbed niet dat hij een nieuw continent had ontdekt en uiteindelijk past 1492 perfect in het rijtje van toenemende Europese expansie. Waarom een tweede aflevering dan? Vanwege de gevolgen. Want of de ontdekking nu toevallig was of niet, de gevolgen waren navenant. Voor de “ontdekkers”, de “ontdekten” en de rest van de wereld. Hoe en waarom, dat hoort u in deze aflevering van Geschiedenis van.
