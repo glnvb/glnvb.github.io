@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Islam I"
+number: null
+artwork: https://i1.sndcdn.com/artworks-cWCKqHbsC1sWeCgN-LnpldQ-t500x500.jpg
+author: Tim
+date: 2024-02-11 08:30:01 +0100
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/islam-i
+description: "Welkom bij geschiedenis van en welkom bij de eerste aflevering in een reeksje van vijf over de Islam."
+---
+Welkom bij geschiedenis van en welkom bij de eerste aflevering in een reeksje van vijf over de Islam. Niet zozeer de religie zelf, wel haar geschiedenis en dan specifiek de beginperiode. Vandaag beginnen we bij het begin met vragen als: Wat was er voor de Islam? Waar komt de Islam eigenlijk vandaan? Wie was Mohammed en heeft die echt op zijn eentje een wereldreligie uit de grond gestampt? Antwoorden op die vragen en meer in deze aflevering van Geschiedenis van.
