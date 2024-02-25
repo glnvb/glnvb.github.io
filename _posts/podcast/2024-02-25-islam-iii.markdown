@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Islam III"
+number: null
+artwork: https://i1.sndcdn.com/artworks-1zUGYh1wrc575PLV-9NnGRg-t500x500.jpg
+author: Tim
+date: 2024-02-25 10:13:17 +0100
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/islam-iii
+description: "Welkom bij geschiedenis van en bij de derde aflevering in ons reeksje over de geschiedenis van de Islam."
+---
+Welkom bij geschiedenis van en bij de derde aflevering in ons reeksje over de geschiedenis van de Islam. Nieuwe problemen leidden vanaf de 8e eeuw tot nieuwe oplossingen die dan weer leiden tot nieuwe problemen. Komen aan bod in deze aflevering: de uitbreidende kloof tussen Shia en Sunni moslims, begrotingstekorten en natuurlijk de nodige burgeroorlogen. Dat en meer in deze afleveringen van geschiedenis van.
