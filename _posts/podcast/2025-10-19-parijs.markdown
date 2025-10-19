@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Parijs"
+number: null
+artwork: https://i1.sndcdn.com/artworks-2yfEZg9AQU3Xd2Zb-vMwygA-t500x500.png
+author: Tim
+date: 2025-10-19 12:15:17 +0200
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/parijs
+description: "We vliegen vandaag door een slordige 2000 jaar geschiedenis, allemaal om meer grip te krijgen op het fenomeen Parijs."
+---
+We vliegen vandaag door een slordige 2000 jaar geschiedenis, allemaal om meer grip te krijgen op het fenomeen Parijs. Passeren daarbij de revue: Julius Caesarm een hoop Franse koningen, Napoleon en natuurlijk een stad die zichzelf maar bleef uitvinden. Dat en meer in deze aflevering van Geschiedenis van.
