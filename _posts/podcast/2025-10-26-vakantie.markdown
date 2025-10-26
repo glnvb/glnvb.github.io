@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Vakantie"
+number: null
+artwork: https://i1.sndcdn.com/artworks-M4V5PvtI96iK36Sh-ELMnmQ-t500x500.png
+author: Tim
+date: 2025-10-26 11:06:38 +0100
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/vakantie
+description: "Vakantie."
+---
+Vakantie. Een doodnormaal aspect van ons bestaan of een relatief recent fenomeen? 
+Leesmateriaal:
+- [https://www.nationalgeographic.nl/geschiedenis-archeologie/a69069720/geschiedenis-vakantie-herfstvakantie](https://www.nationalgeographic.nl/geschiedenis-archeologie/a69069720/geschiedenis-vakantie-herfstvakantie)
+-[https://isgeschiedenis.nl/reportage/de-ontwikkeling-van-vakantie-vieren](https://isgeschiedenis.nl/reportage/de-ontwikkeling-van-vakantie-vieren)
