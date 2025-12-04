@@ -10,11 +10,7 @@ tag: []
 embed_player:
   type: soundcloud
   src: https://soundcloud.com/tim-gistelinck/belgische-gevangenissen
-description: "Waar komen onze Belgische gevangenissen vandaan en wat was eigenlijk de bedoeling erachter?
-
-Bronnen:
-
-https://www."
+description: "Waar komen onze Belgische gevangenissen vandaan en wat was eigenlijk de bedoeling erachter?"
 ---
 Waar komen onze Belgische gevangenissen vandaan en wat was eigenlijk de bedoeling erachter?
 
