@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Asterix"
+number: null
+artwork: https://i1.sndcdn.com/artworks-WISyVRohH5iLGye3-QmUXCg-t500x500.png
+author: Tim
+date: 2026-01-04 08:12:29 +0100
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/asterix
+description: "Dat de Asterix strips best leuk zij  om te lezen wisten we al maar waar gaan ze nu eigenlijk over? Over de Romeinse bezetting van wat vandaag Frankrijk is? Of over de periode waarin ze geschreven werden? Antwoorden op die vragen en meer in deze aflevering van geschiedenis van."
+---
+Dat de Asterix strips best leuk zij  om te lezen wisten we al maar waar gaan ze nu eigenlijk over? Over de Romeinse bezetting van wat vandaag Frankrijk is? Of over de periode waarin ze geschreven werden? Antwoorden op die vragen en meer in deze aflevering van geschiedenis van. 
+
+Verdere lectuur:
+[https://www.theguardian.com/books/2020/mar/24/asterix-albert-uderzo-rene-goscinny](https://www.theguardian.com/books/2020/mar/24/asterix-albert-uderzo-rene-goscinny)
+[https://newcriterion.com/dispatch/the-pleasures-of-asterix/](https://newcriterion.com/dispatch/the-pleasures-of-asterix/)
+[https://medium.com/@johnbreslin/ast%C3%A9rix-and-the-historical-interpretation-60eb285155a](https://medium.com/@johnbreslin/ast%C3%A9rix-and-the-historical-interpretation-60eb285155a)
+[https://www.europecomics.com/the-origins-of-the-best-selling-comics-series-asterix-obelix-born-french-anchored-in-european-history-and-values/](https://www.europecomics.com/the-origins-of-the-best-selling-comics-series-asterix-obelix-born-french-anchored-in-european-history-and-values/)
