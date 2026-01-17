@@ -10,6 +10,7 @@ import shlex
 import slugify
 import time
 import yaml
+import json
 
 
 class Track:
@@ -35,7 +36,7 @@ class Track:
         desc = json['description']
         self.description = desc[:desc.find('.')+1].replace('"', "'")
 
-        self.post = re.sub(r'(https?://[^ \n]+)', '[\g<1>](\g<1>)', desc)
+        self.post = re.sub(r"(https?://[^ \n]+)", r"[\g<1>](\g<1>)", desc)
 
         self.title_slug = slugify.slugify(self.title)
 
@@ -55,14 +56,12 @@ class SoundCloudAPI:
         return self.session.get('https://soundcloud.com/versions.json').json()['app']
 
     def __get_client_id(self):
-        re_script = re.compile(r'<script.*src="(.*?)">')
-        re_client_id = re.compile(r'client_id=([a-zA-Z0-9]+)')
+        re_script = re.compile(r"<script>window\.__sc_hydration = (.*);</script>")
 
         html = self.session.get('https://soundcloud.com').content.decode('utf8')
-        for script_src in re_script.findall(html):
-            js = self.session.get(script_src).content.decode('utf8')
-            if len(re_client_id.findall(js)) > 0:
-                return re_client_id.findall(js)[0]
+        for script in re_script.findall(html):
+            script_json = json.loads(script)
+            return script_json[-1]["data"]["id"]
 
     def __get(self, url, params=None):
         counter = 0
