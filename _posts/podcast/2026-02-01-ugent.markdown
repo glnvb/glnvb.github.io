@@ -1,0 +1,17 @@
+---
+layout: post
+title: "UGent"
+number: 275
+artwork: https://i1.sndcdn.com/artworks-g2Y4FazvEks8bSUn-LcySYA-t500x500.png
+author: Tim
+date: 2026-02-01 13:03:55 +0100
+categories: podcast
+tag: []
+embed_player:
+  type: soundcloud
+  src: https://soundcloud.com/tim-gistelinck/ugent
+description: "Vandaag duiken we in de geschiedenis van de Universiteit Gent."
+---
+Vandaag duiken we in de geschiedenis van de Universiteit Gent. Voor meer achtergrond:
+[https://www.ugentmemorie.be/](https://www.ugentmemorie.be/)
+[https://mercatorfonds.be/nl/product/gent-een-geschiedenis-van-universiteit-en-stad-1817-1940#:~:text=Dit%20boek%20doet%20het%20verhaal,tot%20aan%20de%20Tweede%20Wereldoorlog.](https://mercatorfonds.be/nl/product/gent-een-geschiedenis-van-universiteit-en-stad-1817-1940#:~:text=Dit%20boek%20doet%20het%20verhaal,tot%20aan%20de%20Tweede%20Wereldoorlog.)
